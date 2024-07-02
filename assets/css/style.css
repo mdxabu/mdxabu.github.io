@@ -1,0 +1,673 @@
+body, html {	/*the outer layer of the site and global style attributes*/
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin: 0px;
+    height: 100%;
+    width: 100%;
+    font-size: 100%; /*16px*/
+    background-color: #455082;
+    /*background-image: linear-gradient(#191e4d, white);*/
+    display: flex;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+    }
+/*    
+* { 
+    border: 1px solid red; 
+} */
+
+#website {
+    width: 100%;   
+}
+
+#logo {
+    height: 20px;
+}
+
+
+/* NAV BAR */
+.nav-bar {
+    width: 100%;
+    position: fixed;
+    display: flex;
+    background-color: #232754;
+    flex-direction: row;
+    justify-content: center;
+    z-index: 3;
+}
+
+a {
+    text-decoration: none;
+} 
+
+.nav-bar-item {
+    margin-right: 20px;
+    margin-left: 20px;
+    font-family: Lucida Grande, sans-serif;
+    color: white;
+    font-size: /*1.40vw*/ 1.25em;
+    padding-top: 7px;
+    padding-bottom: 5px;  
+    margin-top: 1.75vh;
+    text-align: center;
+}
+
+img {
+    height: 100%;
+    left: 50%
+}
+
+
+/* Slideshow */
+* {
+    box-sizing: border-box;
+}
+
+/* Slideshow container */
+.slideshow-container {
+    max-width: 100%;
+    position: relative;
+    margin: auto;
+    height: 85%;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    top: -1.5%;
+}
+
+/* Hide the images by default */
+.mySlides {
+  display: none;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 30%;
+  width: auto;
+  margin-top: -22px;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 1.125em;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/4 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 2.5%;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+/*Content*/
+
+.content {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.title {
+    position: absolute;
+    left: 16%;
+    font-size: /*3em*/ 6vh;
+    color: white;
+    font-family: Futura, sans-serif;
+    text-align: center;
+    text-shadow: 8px 8px 10px #000000;
+}
+
+/*HOMEPAGE*/
+
+.container {
+    width: 80%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.container.home {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+#name {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: /*8.75em*/ 9.75vw;
+    color: white;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -105%);
+    text-align: center;
+    text-shadow: 8px 8px 10px #000000;
+    display: none;
+}
+
+#quote {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: /*2.5em*/ 2.75vw;
+    color:/* #191e4d;*/ white;
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, 0%);
+    -webkit-text-stroke: 1px #5d4f4f;
+    text-align: center;
+    text-shadow: 8px 8px 10px #000000;
+    display: none;
+}
+
+
+/*ABOUT*/
+
+.title.about{
+    top: 118%;
+}
+
+.about-item {
+    margin: 30px;
+    width: 350px;
+    height: 350px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#kristy-picture{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    width: 80% /*20vw*/;
+    height: 80% /*20vw*/;
+    overflow: hidden;
+    border-radius: 100%;
+}
+
+#resume-line {
+    position: absolute;
+    font-size: /*1.5em*/ 3.25vh;
+    color: /*#191e4d;*/ white;
+    top: 180%;
+    font-family: Futura, sans-serif;
+    text-align: center;
+
+}
+
+#rlink:link {
+    color: white;
+}
+
+#rlink:active {
+    color: rgb(228, 235, 250);
+}
+#rlink:visited {
+    color: rgb(186, 206, 250);
+}
+
+#about-description {
+    color: white;
+    font-family: Futura, sans-serif;
+    font-size: 1.125em;
+}
+
+/* PROJECTS */
+
+.title.projects{
+    top: 218%;
+}
+
+#projects-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: inherit;
+    height: 65%;
+    position: absolute;
+    top: 235%;   
+    align-items: center;
+}
+
+.project {
+    cursor: pointer;
+    height: 50%;
+    width: 35%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    overflow: hidden;
+    margin: 5px;
+    background: #3e407d;
+    align-items: center;
+    /* box-shadow: 4px 4px 4px #000000a8; */
+    border-color: white;
+}
+
+#to-do-img:hover {
+    /* box-shadow: 8px 8px 8px #000000a8;*/
+     animation: enlarge_photo ease-in 0.5s;
+     animation-fill-mode: both;
+     animation-iteration-count: 1;
+ }
+
+#byow-img:hover {
+    animation: enlarge_photo ease-in 0.5s;
+    animation-fill-mode: both;
+    animation-iteration-count: 1;
+}
+
+#bearmaps-img:hover {
+    animation: enlarge_photo ease-in 0.5s;
+    animation-fill-mode: both;
+    animation-iteration-count: 1;
+}
+
+
+#maps-img:hover {
+   /* box-shadow: 8px 8px 8px #000000a8;*/
+    animation: enlarge_photo ease-in 0.5s;
+    animation-fill-mode: both;
+    animation-iteration-count: 1;
+}
+
+@keyframes enlarge_photo {
+    from {
+        width: 85%;
+        height: 75%
+    }
+
+
+    to {
+        width: 95%;
+        height: 85%;
+    }
+}
+
+
+.proj-image{
+    width: 85%;
+    height: 75%;
+    text-align: center;
+    overflow: hidden;
+}
+
+.proj-label {
+    color: #f2f2f2;
+    font-family: Futura, sans-serif;
+
+}
+
+/* EXPERIENCE */
+.title.experience{
+    top: 318%;
+}
+
+#experience-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    /* flex-wrap: wrap; */
+    width: inherit;
+    height: 65%;
+    position: absolute;
+    top: 330%;
+    align-items: center;
+}
+
+.expr-item {
+    height: 50%;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    /*overflow: scroll;*/
+    margin: 5px;
+    align-items: center;
+    border-width: 2px;
+    background-color: #3e407d;
+    border-color: #1f2140;
+}
+
+#skills {
+    /* height: 70%; */
+    /* width: 35%; */
+    /* border-radius: 30px; */
+    border-width: 2px;
+    background-color: #3e407d;
+    border-color: #1f2140;
+    color: white;
+    font-family: Futura, sans-serif;
+    display: flex;
+}
+/*
+#exp-flex {
+    height: 65%;
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}*/
+
+.tex sub, .latex sub, .latex sup {
+    text-transform: uppercase;
+  }
+
+  .tex sub, .latex sub {
+    vertical-align: -0.5ex;
+    margin-left: -0.1667em;
+    margin-right: -0.125em;
+  }
+
+  .tex, .latex, .tex sub, .latex sub {
+    font-size: 1em;
+  }
+
+  .latex sup {
+    font-size: 0.85em;
+    vertical-align: 0.15em;
+    margin-left: -0.36em;
+    margin-right: -0.15em;
+  }
+
+.textbox {
+    width: 75%;
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 0.875em;
+    color: white;
+    font-family: Futura, sans-serif;
+}
+
+.exp-image {
+    width: 10%;
+    height: 75%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+/* RESEARCH */
+.title.research{
+    top: 418%;
+}
+
+#research-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    /* flex-wrap: wrap; */
+    width: inherit;
+    height: 65%;
+    position: absolute;
+    top: 430%;
+    align-items: center;
+}
+
+/* CONTACT ME */
+
+.title.contact{
+    top: 518%;
+}
+
+#contact-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: inherit;
+    height: 65%;
+    position: absolute;
+    top: 530%;
+    align-items: center;
+}
+
+#contact-line {
+    width: 100%;
+    text-align: center;
+    font-size: 1.5em;
+    color: white;
+    font-family: Futura, sans-serif;
+}
+
+.contact-box-container {
+    width: 80%;
+    height: 60%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.contact-box {
+    width: 40%;
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    background-color: /*rgb(112, 129, 184)*/ #3e407d;
+    border-color: #1f2140;
+    border-width: 2px;
+    color: white;
+    font-family: Futura, sans-serif;
+    text-align: center;
+
+}
+
+
+/* Popup Box */
+#overlay {
+    background: rgba(0, 0, 0, 0.7);
+	position: absolute;
+	height: 500%;
+	width: 100%;
+	z-index: 2;
+	top: 0px;
+	left: 0px;
+}
+
+#lightbox {
+    display: none;
+}
+
+#specific-project-container {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    z-index: 3;
+    transform: translate(-50%, -50%);
+    background-color: #1e2435;
+    height: 82%;
+    width: 70%;
+    border-color: #1e1e54;
+    overflow: hidden;
+    border-width: 3px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    overflow: scroll;
+}
+
+.picture {
+    margin-top: 10px;
+    width: 45%;
+    height: 50%;
+    overflow: hidden;
+    text-align: center;
+
+}
+.proj-desc {
+    margin-bottom: 10px;
+    width: 80%;
+    /*overflow: scroll; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: Futura, sans-serif;
+
+}
+/* BOTTOM BAR */
+
+.bottom-bar {
+    position: fixed;
+    bottom: 0;
+    left: 50%;
+    width: 100%;
+    transform: translateX(-50%);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-end;
+    margin-bottom: 40px;
+    
+    
+}
+
+.bottom-button {
+    width: 25px;
+    height: 25px;
+    margin-right: 10px;
+    margin-left: 10px;
+    position: relative;
+    display: inline-block; 
+    opacity: 0.6;
+    z-index: 1;
+
+}
+
+.bottom-button:hover {
+    animation: opaque ease-in 0.3s;
+    animation-fill-mode: both;
+    animation-iteration-count: 1;
+   /* opacity: 1;*/
+}
+
+@keyframes opaque {
+    from { opacity: 0.6; }
+    to { opacity: 1}
+}
+
+#copyright {
+    font-size: 0.75em;
+    position: fixed;
+    color: /*#191e4d;*/ white;
+    margin-bottom: 48px;
+    margin-top: 20px;
+    z-index: 1;
+
+
+}
+
+@media only screen and (max-width: 800px) {
+    #quote {
+        top: 60%;
+    }
+    
+    #kristy-picture {
+        width: 80%;
+        height: 80%;
+    }
+
+    #about-description {
+        color: white;
+        font-family: Futura, sans-serif;
+        font-size: 1em;
+    }
+
+    .project {
+        height: 30%;
+    }
+
+    .exp-image {
+        width: 20%;
+        height: 30%;
+    }
+
+    .contact-box-container {
+        width: 100%;
+        height: 40%;
+    }
+
+}
+
+@media only screen and (max-height: 520px) {
+    .textbox {
+        font-size: 0.5em;
+    }
+}
+
