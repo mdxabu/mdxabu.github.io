@@ -1,2 +1,1 @@
-# mdxabu.github.io
-Welcome! This is my personal website.  
+# Welcome! This is my personal website.  
