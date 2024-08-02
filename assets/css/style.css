@@ -245,15 +245,7 @@ img {
 }
 
 
-#kristy-picture{
-    position: relative;
-    display: flex;
-    justify-content: center;
-    width: 80% /*20vw*/;
-    height: 80% /*20vw*/;
-    overflow: hidden;
-    border-radius: 100%;
-}
+
 
 #resume-line {
     position: absolute;
@@ -377,7 +369,6 @@ img {
     display: flex;
     flex-direction: column;
     justify-content: space-around;
-    /* flex-wrap: wrap; */
     width: inherit;
     height: 65%;
     position: absolute;
