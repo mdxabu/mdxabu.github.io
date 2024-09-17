@@ -1,0 +1,26 @@
+html {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: larger;
+    font-weight: 300;
+    color: white;
+    background: black;
+    margin-left: 35%;
+    margin-right: 35%;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    color: #0011ff;
+}
+
+
+
+.avatar {
+    border-radius: 50%;
+    width: 150px;
+}
+
