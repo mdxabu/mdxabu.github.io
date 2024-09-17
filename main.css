@@ -1,7 +1,7 @@
 html {
     font-family: 'Source Sans Pro', sans-serif;
     font-size: larger;
-    font-weight: 300;
+    font-weight: 500;
     color: white;
     background: black;
     margin-left: 35%;
@@ -10,7 +10,7 @@ html {
 
 a {
     text-decoration: none;
-    color: white;
+    color: rgb(0, 26, 255);
 }
 
 a:hover {
@@ -24,3 +24,24 @@ a:hover {
     width: 150px;
 }
 
+hr {
+    border: 0;
+    height: 1px;
+    background: #333;
+}
+/* Media Query for Mobile */
+@media (max-width: 600px) {
+    html {
+        font-size: larger;  /* Adjust font size for better readability on mobile */
+        margin-left: 10%;   /* Reduce margins on mobile */
+        margin-right: 10%;
+    }
+    
+    .avatar {
+        width: 100px;  /* Reduce avatar size for mobile */
+    }
+
+    a {
+        font-size: smaller;  /* Slightly reduce link text size */
+    }
+}
