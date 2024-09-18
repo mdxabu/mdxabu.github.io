@@ -32,7 +32,7 @@ hr {
 /* Media Query for Mobile */
 @media (max-width: 600px) {
     html {
-        font-size: larger;  /* Adjust font size for better readability on mobile */
+        font-size: medium;  /* Adjust font size for better readability on mobile */
         margin-left: 10%;   /* Reduce margins on mobile */
         margin-right: 10%;
     }
