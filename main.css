@@ -42,6 +42,6 @@ hr {
     }
 
     a {
-        font-size: smaller;  /* Slightly reduce link text size */
+        font-size: small;  /* Slightly reduce link text size */
     }
 }
