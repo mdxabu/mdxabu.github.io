@@ -10,11 +10,12 @@ html {
 
 a {
     text-decoration: none;
-    color: rgb(255, 81, 0);
+    color: rgb(95, 0, 196);
+    font-weight: bold;
 }
 
 a:hover {
-    color: #ff7b00;
+    color: #8011ff;
 }
 
 
