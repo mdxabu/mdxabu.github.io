@@ -4,18 +4,18 @@ html {
     font-weight: 500;
     color: white;
     background: black;
-    margin-left: 35%;
-    margin-right: 35%;
+    margin-left: 30%;
+    margin-right: 30%;
 }
 
 a {
     text-decoration: none;
-    color: rgb(95, 0, 196);
+    color: rgb(0, 30, 255);
     /* font-weight: bold; */
 }
 
 a:hover {
-    color: #8011ff;
+    color: rgb(255, 0, 0);
 }
 
 
