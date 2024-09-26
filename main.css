@@ -11,7 +11,7 @@ html {
 a {
     text-decoration: none;
     color: rgb(95, 0, 196);
-    font-weight: bold;
+    /* font-weight: bold; */
 }
 
 a:hover {
@@ -25,10 +25,26 @@ a:hover {
     width: 150px;
 }
 
+img {
+    border-radius: 5px;
+    width: 80%;
+}
+
 hr {
     border: 0;
     height: 1px;
     background: #333;
+}
+code {
+    padding: 5px;
+    border-radius: 5px;
+    color: #6200ff;
+}
+pre {
+    background-color: #151515;
+   padding: 10px;
+    border-radius: 5px;
+    overflow-x: auto;
 }
 /* Media Query for Mobile */
 @media (max-width: 600px) {
