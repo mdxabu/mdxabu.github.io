@@ -4,21 +4,21 @@
 html {
     font-family: "Roboto Condensed", serif;
     color: white;
-    background: black;
+    background: rgb(28, 28, 28);
     margin-left: 30%;
     margin-right: 30%;
 }
 
 a {
     text-decoration: none;
-    background: rgb(255, 185, 54);
+    background: rgb(0, 163, 212);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     font-weight: bold;
 }
 
 a:hover {
-    background: rgb(54, 81, 255);
+    background: rgb(0, 195, 255);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
