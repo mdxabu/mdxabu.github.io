@@ -1,12 +1,13 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
-
-
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 html {
-    font-family: "Roboto Condensed", serif;
+    font-family: "Inconsolata", monospace;
+    font-optical-sizing: auto;
+    font-style: normal;
     color: white;
     background: rgb(28, 28, 28);
     margin-left: 30%;
     margin-right: 30%;
+    
 }
 
 a {
