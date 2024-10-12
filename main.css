@@ -3,26 +3,28 @@ html {
     font-family: "Inconsolata", monospace;
     font-optical-sizing: auto;
     font-style: normal;
-    color: white;
-    background: rgb(28, 28, 28);
+    color: rgb(0, 0, 0);
+    background: rgb(255, 255, 255);
     margin-left: 30%;
     margin-right: 30%;
     
 }
+h1{
+    background: linear-gradient(to bottom, rgb(105, 123, 255), rgb(0, 38, 255));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
 
 a {
+    font-weight: bolder;
     text-decoration: none;
-    background: rgb(0, 163, 212);
+    background: linear-gradient(to bottom, rgb(105, 123, 255), rgb(0, 38, 255));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     font-weight: bold;
 }
 
-a:hover {
-    background: rgb(0, 195, 255);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
+
 
 .avatar {
     border-radius: 50%;
