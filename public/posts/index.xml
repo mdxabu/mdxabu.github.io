@@ -6,15 +6,18 @@
     <description>Recent content in Posts on Mohamed Abdullah</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Dec 2024 13:25:03 +0530</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Dec 2024 21:00:28 +0530</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Open Source Supremecy 👑</title>
-      <link>http://localhost:1313/posts/open-source/</link>
-      <pubDate>Mon, 30 Dec 2024 13:25:03 +0530</pubDate>
+      <title>My Open Source Journey in 2024</title>
+      <link>http://localhost:1313/posts/opensource2024/</link>
+      <pubDate>Tue, 31 Dec 2024 21:00:28 +0530</pubDate>
       
-      <guid>http://localhost:1313/posts/open-source/</guid>
+      <guid>http://localhost:1313/posts/opensource2024/</guid>
       
-      <description></description>
+      <description>&lt;h1 id=&#34;my-open-source-journey-in-2024&#34;&gt;My Open Source Journey in 2024&lt;/h1&gt;
+&lt;p&gt;This year, I decided to take my open-source contributions seriously, and it&amp;rsquo;s been an incredible learning experience. I’ve had the opportunity to explore some fantastic open-source projects, tools, and communities, without any bias, and I’ve learned a great deal along the way.&lt;/p&gt;
+&lt;h3 id=&#34;starting-with-the-docker-maven-plugin&#34;&gt;Starting with the Docker Maven Plugin&lt;/h3&gt;
+&lt;p&gt;My open-source journey began with a contribution to the popular &lt;a href=&#34;https://github.com/fabric8io/docker-maven-plugin&#34;&gt;Docker Maven Plugin&lt;/a&gt;. While my contribution was relatively small—updating dependency versions and refactoring a few methods—it taught me a lot about the process of contributing to open-source projects. I was guided through this experience by &lt;a href=&#34;https://github.com/rohanKanojia&#34;&gt;Rohan Kanojia&lt;/a&gt;, who showed me the ropes of contributing within an organization and maintaining quality in a collaborative environment.&lt;/p&gt;</description>
       
     </item>
     
