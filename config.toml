@@ -49,11 +49,11 @@ disqusShortname = ''
     name = 'Projects'
     url = '/projects/'
     weight = 40
-  [[menu.main]]
-    pageRef="About"
-    name = 'About'
-    url = '/about/'
-    weight = 20
+  # [[menu.main]]
+  #   pageRef="About"
+  #   name = 'About'
+  #   url = '/about/'
+  #   weight = 20
 
 [params]
   sitename = "Awesome hugo blog"
@@ -98,7 +98,7 @@ name = "github"
 url = "https://github.com/mdxabu"
 
 [[params.socialIcons]]
-name = "twitter"
+name = "x"
 url = "https://twitter.com/mdxabu"
 
 [[params.socialIcons]]
