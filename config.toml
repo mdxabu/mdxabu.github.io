@@ -40,8 +40,8 @@ disqusShortname = ''
     url = '/'
     weight = 10
   [[menu.main]]
-    pageRef="posts"
-    name = 'Posts'
+    pageRef="Musings"
+    name = 'Musings'
     url = '/posts/'
     weight = 30
   [[menu.main]]
@@ -49,6 +49,7 @@ disqusShortname = ''
     name = 'Projects'
     url = '/projects/'
     weight = 40
+  
   # [[menu.main]]
   #   pageRef="About"
   #   name = 'About'
@@ -94,6 +95,10 @@ disqusShortname = ''
   TileColor = "#fff" # default windows 10 blue tile color
 
 [[params.socialIcons]]
+    name = "Rss"
+    url = "index.xml"
+    
+[[params.socialIcons]]
 name = "github"
 url = "https://github.com/mdxabu"
 
@@ -108,3 +113,4 @@ url = "https://linkedin.com/in/mdxabu"
 [[params.socialIcons]]
 name = "email"
 url = "mailto:me.mdxabu@gmail.com"
+

@@ -3,9 +3,7 @@ date: '2024-12-31T21:00:28+05:30'
 draft: false
 title: 'My Open Source Journey in 2024'
 toc: false
-tags: 
-    - open source
-    - community
+tags: [open source,community]
 ---
 
 ![banner](https://images.pexels.com/photos/2041638/pexels-photo-2041638.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
