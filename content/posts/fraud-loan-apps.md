@@ -1,7 +1,7 @@
 ---
 date : '2025-02-03T10:58:22+05:30'
 draft : false
-title : 'Fraud Loan Apps'
+title : 'Beware of Fraudulent Loan Apps: The Hidden Dangers and How to Protect Yourself'
 toc : false
 tags: ["app","social awareness"]
 ---
