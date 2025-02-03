@@ -49,7 +49,11 @@ disqusShortname = ''
     name = 'Projects'
     url = '/projects/'
     weight = 40
-  
+  [[menu.main]]
+    pageRef = "Tags"
+    name = 'Tags'
+    url = '/tags/'
+    weight = 50  
   # [[menu.main]]
   #   pageRef="About"
   #   name = 'About'

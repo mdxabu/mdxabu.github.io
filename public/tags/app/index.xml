@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>App on Mohamed Abdullah</title>
+    <link>http://localhost:1313/tags/app/</link>
+    <description>Recent content in App on Mohamed Abdullah</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Feb 2025 10:58:22 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fraud Loan Apps</title>
+      <link>http://localhost:1313/posts/fraud-loan-apps/</link>
+      <pubDate>Mon, 03 Feb 2025 10:58:22 +0530</pubDate>
+      
+      <guid>http://localhost:1313/posts/fraud-loan-apps/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
