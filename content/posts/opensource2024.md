@@ -20,10 +20,10 @@ My open-source journey began with a contribution to the popular [Docker Maven Pl
 ![banner](https://images.pexels.com/photos/8386683/pexels-photo-8386683.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 I applied for Google Summer of Code (GSoC) 2024, hoping to get a chance to work on an open-source project full-time. Unfortunately, I was rejected. But instead of giving up, I decided to take a different approach. I reached out to the organization `Alaska`, expressing my continued interest in working on their project. They welcomed my enthusiasm, and I started collaborating on the project, even contributing to their research paper in partnership with the University of Alaska Anchorage researchers, [Pradeeban Kathiravelu](https://github.com/pradeeban) and David Moxley.
 
-### A Big Milestone: Presenting at IEEE CCECE
+<!-- ### A Big Milestone: Presenting at IEEE CCECE
 
 The hard work paid off! I am now a first author on a research paper that will be presenting at the IEEE Canadian Conference on Electrical and Computer Engineering (CCECE) 2025. This is a huge milestone for me, and I’m excited to share our findings with the community.
-
+-->
 
 ### Looking Ahead: More to Learn, More to Contribute 
 As I reflect on 2024, I see how much open-source has taught me about collaboration, persistence, and community. It’s been a journey of growth, and I’m looking forward to continuing to contribute to new projects, tackle fresh challenges, and connect with even more amazing people in the coming year. 
