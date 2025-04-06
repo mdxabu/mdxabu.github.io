@@ -6,7 +6,18 @@
     <description>Recent content in Community on Mohamed Abdullah</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jan 2025 16:57:43 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/community/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Apr 2025 11:51:43 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/community/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alaskan Summer of Code</title>
+      <link>http://localhost:1313/posts/asoc/</link>
+      <pubDate>Sun, 06 Apr 2025 11:51:43 +0530</pubDate>
+      
+      <guid>http://localhost:1313/posts/asoc/</guid>
+      
+      <description>&lt;embed src=&#34;http://localhost:1313/assets/asoc.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34; /&gt;</description>
+      
+    </item>
+    
     <item>
       <title>Beehive: Leveraging the expression of marginalised peoples.</title>
       <link>http://localhost:1313/projects/beehive/</link>
