@@ -79,7 +79,7 @@ disqusShortname = ''
   # See https://gohugo.io/functions/format/#hugo-date-and-time-templating-reference for available date formats
 
 [params.author]
-  avatar = "art.png" # put the file in assets folder; also ensure that image has same height and width
+  avatar = "saltfish.png" # put the file in assets folder; also ensure that image has same height and width
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
   intro = "Mohamed Abdullah"
   name = "Mohamed Abdullah"
