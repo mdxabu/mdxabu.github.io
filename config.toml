@@ -85,6 +85,10 @@ name = "x"
 url = "https://x.com/mdxabu"
 
 [[params.socialIcons]]
+name = "bluesky"
+url = "https://bsky.app/profile/mdxabu.bsky.social"
+
+[[params.socialIcons]]
 name = "linkedin"
 url = "https://linkedin.com/in/mdxabu"
 
