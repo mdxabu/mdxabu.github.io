@@ -30,17 +30,17 @@ disqusShortname = ''
     url = '/'
     weight = 10
   [[menu.main]]
-    pageRef="Musings"
-    name = 'Musings'
+    pageRef="posts"  # Changed from "Musings" to "posts" to match actual section name
+    name = 'Musings' 
     url = '/posts/'
     weight = 20
   [[menu.main]]
-    pageRef="Projects"
+    pageRef="projects"  # Changed to lowercase to match section name
     name = 'Projects'
     url = '/projects/'
     weight = 30
   [[menu.main]]
-    pageRef = "Tags"
+    pageRef = "tags"  # Changed to lowercase to match section name
     name = 'Tags'
     url = '/tags/'
     weight = 40
@@ -67,7 +67,7 @@ disqusShortname = ''
   avatar = "saltfish.png"
   intro = "Mohamed Abdullah"
   name = "Mohamed Abdullah"
-  description = "Welcome to my quirky corner of the internet! Here, I share my wacky thoughts, peculiar posts, and more. Buckle up and enjoy the ride!💓"
+  description = "I’m Mohamed, and this is my personal blog. I love open source and have always been curious about how the internet works. I enjoy exploring how things are built, whether it's systems, products, or ideas. I love tinkering, reading, and asking “why” and “how.”"
 
 [params.webmanifest]
   name = "sitename"
