@@ -30,8 +30,8 @@ disqusShortname = ''
     url = '/'
     weight = 10
   [[menu.main]]
-    pageRef="Musings"
-    name = 'Musings'
+    pageRef="Posts"
+    name = 'Posts'
     url = '/posts/'
     weight = 30
   [[menu.main]]
