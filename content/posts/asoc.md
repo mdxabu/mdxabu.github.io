@@ -5,7 +5,8 @@ title : 'Alaskan Season of Code'
 toc : false
 tags: ["open source","community"]
 ---
-
+<meta property="og:image" content="https://pbs.twimg.com/profile_images/1912373522057355264/CewVNmln_400x400.jpg">
+<meta name="twitter:image" content="https://pbs.twimg.com/profile_images/1912373522057355264/CewVNmln_400x400.jpg">
 Alaskan Season of Code is a volunteer-based, remote coding program where students collaborate on open-source projects, learning not just technical skills, but also how to work within a diverse, interdisciplinary environment. The program is designed to connect students with faculty mentors from the University of Alaska.
 
 For more information, you can read about the program [here](https://github.com/uaanchorage/GSoC/blob/main/Alaskan-Season-of-Code.md)

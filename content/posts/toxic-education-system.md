@@ -5,6 +5,8 @@ title : 'How to Waste a CS Degree: A Masterclass by My College'
 toc : false
 tags: [community, education, slice of life]
 ---
+<meta property="og:image" content="https://pbs.twimg.com/profile_images/1912373522057355264/CewVNmln_400x400.jpg">
+<meta name="twitter:image" content="https://pbs.twimg.com/profile_images/1912373522057355264/CewVNmln_400x400.jpg">
 
 ## The Art of Useless Electives
 
