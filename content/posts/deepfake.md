@@ -5,8 +5,7 @@ title : 'Deepfake: The AI That’s Too Good at Scamming You and Ruining Your Lif
 toc : false
 tags: ["social awareness"]
 ---
-<meta property="og:image" content="https://pbs.twimg.com/profile_images/1912373522057355264/CewVNmln_400x400.jpg">
-<meta name="twitter:image" content="https://pbs.twimg.com/profile_images/1912373522057355264/CewVNmln_400x400.jpg">
+
 
 # The Dark Side of Deepfake Technology: Scams, Blackmail, and Financial Fraud
 

@@ -5,8 +5,7 @@ title: 'My Open Source Journey in 2024'
 toc: false
 tags: [open source,community]
 ---
-<meta property="og:image" content="https://pbs.twimg.com/profile_images/1912373522057355264/CewVNmln_400x400.jpg">
-<meta name="twitter:image" content="https://pbs.twimg.com/profile_images/1912373522057355264/CewVNmln_400x400.jpg">
+
 
 ![banner](https://images.pexels.com/photos/2041638/pexels-photo-2041638.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 # My Open Source Journey in 2024

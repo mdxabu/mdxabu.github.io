@@ -5,8 +5,7 @@ title : 'Beware of Fraudulent Loan Apps: The Hidden Dangers and How to Protect Y
 toc : false
 tags: ["app","social awareness"]
 ---
-<meta property="og:image" content="https://pbs.twimg.com/profile_images/1912373522057355264/CewVNmln_400x400.jpg">
-<meta name="twitter:image" content="https://pbs.twimg.com/profile_images/1912373522057355264/CewVNmln_400x400.jpg">
+
 
 ![](https://images.indianexpress.com/2023/12/fraud-loan-app.jpg "fraud apps")
 

@@ -48,12 +48,20 @@ disqusShortname = ''
 [params]
   sitename = "Awesome hugo blog"
   defaultColor = "light"
-  description = "Minimal Hugo blog theme with light and dark mode support"
+  description = "Mohamed Abdullah's personal website - Open Source Software Contributor and Developer"
   mainSections = ['posts']
   toc = true
   goToTop = true
   additionalScripts = ['js/custom.js', 'js/custom-2.js']
   dateFormat = "January 2, 2006"
+  
+  # Default social sharing image (needs to be in the static directory)
+  ogimage = "/images/saltfish.png"  # Changed path to be from static directory
+  
+  # Twitter card settings
+  twitterSite = "@mdxabu"
+  twitterCreator = "@mdxabu"
+  twitterCardType = "summary_large_image"
 
 [params.author]
   avatar = "saltfish.png"
@@ -96,8 +104,3 @@ url = "https://linkedin.com/in/mdxabu"
 name = "email"
 url = "mailto:me.mdxabu@gmail.com"
 
-[params.socialMeta]
-  title = "Mohamed Abdullah's Website"
-  description = "Welcome to Mohamed Abdullah's personal blog. Here, I share my quirky thoughts, peculiar posts, and more."
-  image = "https://mdxabu.github.io/saltfish_huc0fd1c040a9cd944ac42a9f3e9e67b02_505296_100x100_fill_q75_h2_box_smart1_3.webp"  # Path to an image that will appear as the preview thumbnail
-  url = "https://mdxabu.github.io"
