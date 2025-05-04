@@ -2,9 +2,6 @@
     {{- partial "meta/main.html" . }}
     {{- hugo.Generator }}
 
-    {{/* Add custom social media meta tags */}}
-    {{ partial "custom-meta.html" . }}
-
     {{/* Canonical link, RSS */}}
     <link rel="canonical" href="{{ .Permalink }}">
     {{- with .OutputFormats.Get "RSS" }}
@@ -17,9 +14,6 @@
     <link href="{{ $style.RelPermalink }}" rel="stylesheet">
     {{- $code_syntax_highlight_css := resources.Get "code-highlight.css" | minify | fingerprint }}
     <link href="{{ $code_syntax_highlight_css.RelPermalink }}" rel="stylesheet">
-
-    {{- /* Favicons */ -}}
-    {{- partial "favicons.html" . }}
     
     {{- /* Custom head elements */ -}}
     {{- if templates.Exists "partials/custom-head.html" -}}
