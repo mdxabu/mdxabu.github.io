@@ -30,20 +30,20 @@ disqusShortname = ''
     url = '/'
     weight = 10
   [[menu.main]]
-    pageRef="Posts"
-    name = 'Posts'
+    pageRef="Musings"
+    name = 'Musings'
     url = '/posts/'
-    weight = 30
+    weight = 20
   [[menu.main]]
     pageRef="Projects"
     name = 'Projects'
     url = '/projects/'
-    weight = 40
+    weight = 30
   [[menu.main]]
     pageRef = "Tags"
     name = 'Tags'
     url = '/tags/'
-    weight = 50
+    weight = 40
 
 [params]
   sitename = "Awesome hugo blog"
