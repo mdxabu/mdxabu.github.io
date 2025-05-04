@@ -56,7 +56,7 @@ disqusShortname = ''
   dateFormat = "January 2, 2006"
   
   # Default social sharing image (needs to be in the static directory)
-  ogimage = "/images/saltfish.png"  # Changed path to be from static directory
+  ogimage = "/images/saltfish.png"  # Add leading slash if using path from static directory
   
   # Twitter card settings
   twitterSite = "@mdxabu"
