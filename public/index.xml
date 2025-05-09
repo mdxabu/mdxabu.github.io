@@ -14,9 +14,10 @@
       
       <guid>http://localhost:1313/posts/deepfake/</guid>
       
-      <description>&lt;h1 id=&#34;the-dark-side-of-deepfake-technology-scams-blackmail-and-financial-fraud&#34;&gt;The Dark Side of Deepfake Technology: Scams, Blackmail, and Financial Fraud&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;Deepfake Technology: A Double-Edged Knife&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Deepfake technology, which involves the manipulation of images, videos, or audio using artificial intelligence, has emerged as one of the most dangerous advancements in recent years. While deepfakes have legitimate uses in entertainment, such as resurrecting deceased celebrities for films or creating AI-generated voices for songs, their negative impact has been growing—particularly in the world of scams and blackmail.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;deepfake-technology-a-double-edged-knife&#34;&gt;Deepfake Technology: A Double-Edged Knife&lt;/h2&gt;
+&lt;p&gt;Deepfake technology, which involves the manipulation of images, videos, or audio using artificial intelligence, has emerged as one of the most dangerous advancements in recent years. While deepfakes have legitimate uses in entertainment, such as resurrecting deceased celebrities for films or creating AI-generated voices for songs, their negative impact has been growing—particularly in the world of scams and blackmail.&lt;/p&gt;
+&lt;h2 id=&#34;what-is-deepfake-technology-and-its-uses&#34;&gt;What Is Deepfake Technology and Its Uses?&lt;/h2&gt;
+&lt;p&gt;Deepfake refers to the use of AI tools or advanced video editing software to create realistic images, videos, or audio that are manipulated to mislead viewers. It has found positive uses in the entertainment industry, with AI-generated voices from late singers and the recreation of deceased actors&amp;rsquo; appearances for films. However, this same technology is being exploited for more malicious purposes.&lt;/p&gt;</description>
       
     </item>
     
@@ -90,13 +91,23 @@
     </item>
     
     <item>
-      <title>About me</title>
-      <link>http://localhost:1313/about/</link>
+      <title>News</title>
+      <link>http://localhost:1313/news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>http://localhost:1313/news/</guid>
       
-      <description>&lt;p&gt;I am Mohamed Abdullah, an Open Source Software (OSS) Contributor. I have a passion for contributing to various open source projects and collaborating with developers from around the world. My contributions span across different domains, and I am always eager to learn and share my knowledge with the community. In addition to coding, I enjoy writing documentation, fixing bugs, and improving the overall quality of open source software.&lt;/p&gt;</description>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;08/05/2025 - Got Selected for GSoC 2025 with Organization &lt;strong&gt;Alaska&lt;/strong&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;15/09/2024 - Completed my &lt;a href=&#34;http://localhost:1313/posts/asoc&#34;&gt;Alaskan Season of Code&lt;/a&gt; for Beehive Project.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;01/05/2024 - Rejected for GSoC 2024 with Organization &lt;strong&gt;Alaska&lt;/strong&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
       
     </item>
     
