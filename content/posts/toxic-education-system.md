@@ -1,7 +1,7 @@
 ---
 date : '2025-04-22T11:14:25+05:30'
 draft : false
-title : 'How to Waste a CS Degree: A Masterclass by My College'
+title : 'How to Waste a CS Degree 101: A Masterclass by My College'
 toc : false
 tags: [community, education, slice of life]
 ---
