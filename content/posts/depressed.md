@@ -5,6 +5,7 @@ title: 'Depressed.'
 toc: false
 tags: ["slice of life","mental health"]
 ---
+![](https://preview.redd.it/lee-chandler-doesnt-leave-you-alone-after-watching-v0-1sodg8fecrge1.png?width=640&crop=smart&auto=webp&s=17eac35541dd8ccfca7de73697073fe0478a6449)
 
 I don't know why I feel depressed these days. Every morning, I wake up to my parents scolding me, and my days go by with very low energy and negative thoughts.
 
@@ -22,4 +23,4 @@ Everyone is pressuring me to do something with my life, but I'm still doing some
 
 I'm fucking tired, guys. Very tired...
 
-![](https://preview.redd.it/lee-chandler-doesnt-leave-you-alone-after-watching-v0-1sodg8fecrge1.png?width=640&crop=smart&auto=webp&s=17eac35541dd8ccfca7de73697073fe0478a6449)
+
