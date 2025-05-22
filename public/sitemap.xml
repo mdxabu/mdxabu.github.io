@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/deepfake/</loc>
-    <lastmod>2025-05-04T19:35:55+05:30</lastmod>
+    <loc>http://localhost:1313/posts/depressed/</loc>
+    <lastmod>2025-05-22T09:26:07+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-05-04T19:35:55+05:30</lastmod>
+    <lastmod>2025-05-22T09:26:07+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-05-22T09:26:07+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/deepfake/</loc>
     <lastmod>2025-05-04T19:35:55+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/social-awareness/</loc>
