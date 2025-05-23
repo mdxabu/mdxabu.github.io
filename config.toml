@@ -96,7 +96,7 @@ url = "https://github.com/mdxabu"
 
 [[params.socialIcons]]
 name = "x"
-url = "https://x.com/mdxabu"
+url = "https://x.com/intent/user?screen_name=mdxabu"
 
 [[params.socialIcons]]
 name = "bluesky"
