@@ -5,19 +5,25 @@
     <loc>http://localhost:1313/posts/depressed/</loc>
     <lastmod>2025-05-22T09:26:07+05:30</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/mental-health/</loc>
+    <lastmod>2025-05-22T09:26:07+05:30</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2025-05-22T09:26:07+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-05-22T09:26:07+05:30</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/slice-of-life/</loc>
+    <lastmod>2025-05-22T09:26:07+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-05-22T09:26:07+05:30</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/deepfake/</loc>
     <lastmod>2025-05-04T19:35:55+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/social-awareness/</loc>
-    <lastmod>2025-05-04T19:35:55+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-05-04T19:35:55+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/community/</loc>
@@ -27,9 +33,6 @@
     <lastmod>2025-04-22T11:14:25+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/toxic-education-system/</loc>
-    <lastmod>2025-04-22T11:14:25+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/slice-of-life/</loc>
     <lastmod>2025-04-22T11:14:25+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/asoc/</loc>

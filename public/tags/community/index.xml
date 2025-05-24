@@ -4,63 +4,37 @@
     <title>Community on Mohamed Abdullah</title>
     <link>http://localhost:1313/tags/community/</link>
     <description>Recent content in Community on Mohamed Abdullah</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Apr 2025 11:14:25 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/community/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Apr 2025 11:14:25 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/community/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Waste a CS Degree 101: A Masterclass by My College</title>
       <link>http://localhost:1313/posts/toxic-education-system/</link>
       <pubDate>Tue, 22 Apr 2025 11:14:25 +0530</pubDate>
-      
       <guid>http://localhost:1313/posts/toxic-education-system/</guid>
-      
-      <description>&lt;h2 id=&#34;the-art-of-useless-electives&#34;&gt;The Art of Useless Electives&lt;/h2&gt;
-&lt;p&gt;I&amp;rsquo;ve held onto a lot of vengeance toward my college because of their actions and the useless courses they force on computer science students. Every semester, we have to pick 2-3 open elective subjects. There are so many actually useful electives for computer science like cloud computing or application development, but what do they pick? Social studies and environmental science. Completely unrelated! They choose these subjects because they&amp;rsquo;re easy to teach, not because they&amp;rsquo;re relevant. And even then, they can&amp;rsquo;t teach them properly. Absolutely fucking not.&lt;/p&gt;</description>
-      
+      <description>&lt;h2 id=&#34;the-art-of-useless-electives&#34;&gt;The Art of Useless Electives&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve held onto a lot of vengeance toward my college because of their actions and the useless courses they force on computer science students. Every semester, we have to pick 2-3 open elective subjects. There are so many actually useful electives for computer science like cloud computing or application development, but what do they pick? Social studies and environmental science. Completely unrelated! They choose these subjects because they&amp;rsquo;re easy to teach, not because they&amp;rsquo;re relevant. And even then, they can&amp;rsquo;t teach them properly. Absolutely fucking not.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Alaskan Season of Code</title>
       <link>http://localhost:1313/posts/asoc/</link>
       <pubDate>Sun, 06 Apr 2025 11:51:43 +0530</pubDate>
-      
       <guid>http://localhost:1313/posts/asoc/</guid>
-      
-      <description>&lt;p&gt;Alaskan Season of Code is a volunteer-based, remote coding program where students collaborate on open-source projects, learning not just technical skills, but also how to work within a diverse, interdisciplinary environment. The program is designed to connect students with faculty mentors from the University of Alaska.&lt;/p&gt;
-&lt;p&gt;For more information, you can read about the program &lt;a href=&#34;https://github.com/uaanchorage/GSoC/blob/main/Alaskan-Season-of-Code.md&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
-&lt;embed src=&#34;http://localhost:1313/assets/asoc.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34; /&gt;
-&lt;h1 id=&#34;my-role-in-the-program&#34;&gt;My Role in the Program&lt;/h1&gt;
-&lt;p&gt;I was fortunate enough to participate in this program from May 1st, 2024, to September 15th, 2024, under the mentorship of Dr. Pradeeban Kathiravelu, an Assistant Professor of Computer Science at the University of Alaska Anchorage. During the internship, I worked on the Beehive project, a data federation approach to analyze behavioral health and complement healthcare practices with community health metrics in Alaska.&lt;/p&gt;</description>
-      
+      <description>&lt;p&gt;Alaskan Season of Code is a volunteer-based, remote coding program where students collaborate on open-source projects, learning not just technical skills, but also how to work within a diverse, interdisciplinary environment. The program is designed to connect students with faculty mentors from the University of Alaska.&lt;/p&gt;&#xA;&lt;p&gt;For more information, you can read about the program &lt;a href=&#34;https://github.com/uaanchorage/GSoC/blob/main/Alaskan-Season-of-Code.md&#34;&gt;here&lt;/a&gt;&lt;/p&gt;&#xA;&lt;embed src=&#34;http://localhost:1313/assets/asoc.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34; /&gt;&#xD;&#xA;&lt;h1 id=&#34;my-role-in-the-program&#34;&gt;My Role in the Program&lt;/h1&gt;&#xA;&lt;p&gt;I was fortunate enough to participate in this program from May 1st, 2024, to September 15th, 2024, under the mentorship of Dr. Pradeeban Kathiravelu, an Assistant Professor of Computer Science at the University of Alaska Anchorage. During the internship, I worked on the Beehive project, a data federation approach to analyze behavioral health and complement healthcare practices with community health metrics in Alaska.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Beehive: Leveraging the expression of marginalised peoples.</title>
       <link>http://localhost:1313/projects/beehive/</link>
       <pubDate>Thu, 23 Jan 2025 16:57:43 +0530</pubDate>
-      
       <guid>http://localhost:1313/projects/beehive/</guid>
-      
-      <description>&lt;h1 id=&#34;beehive&#34;&gt;Beehive&lt;/h1&gt;
-&lt;p&gt;Beehive is the open source project&lt;/p&gt;</description>
-      
+      <description>&lt;h1 id=&#34;beehive&#34;&gt;Beehive&lt;/h1&gt;&#xA;&lt;p&gt;Beehive is the open source project&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>My Open Source Journey in 2024</title>
       <link>http://localhost:1313/posts/opensource2024/</link>
       <pubDate>Tue, 31 Dec 2024 21:00:28 +0530</pubDate>
-      
       <guid>http://localhost:1313/posts/opensource2024/</guid>
-      
-      <description>&lt;p&gt;&lt;img src=&#34;https://images.pexels.com/photos/2041638/pexels-photo-2041638.jpeg?auto=compress&amp;amp;cs=tinysrgb&amp;amp;w=1260&amp;amp;h=750&amp;amp;dpr=1&#34; alt=&#34;banner&#34;&gt;&lt;/p&gt;
-&lt;h1 id=&#34;my-open-source-journey-in-2024&#34;&gt;My Open Source Journey in 2024&lt;/h1&gt;
-&lt;p&gt;This year, I decided to take my open-source contributions seriously, and it&amp;rsquo;s been an incredible learning experience. I’ve had the opportunity to explore some fantastic open-source projects, tools, and communities, without any bias, and I’ve learned a great deal along the way.&lt;/p&gt;
-&lt;h3 id=&#34;starting-with-the-docker-maven-plugin&#34;&gt;Starting with the Docker Maven Plugin&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;https://images.pexels.com/photos/1250452/pexels-photo-1250452.jpeg?auto=compress&amp;amp;cs=tinysrgb&amp;amp;w=1260&amp;amp;h=750&amp;amp;dpr=1&#34; alt=&#34;banner&#34;&gt;&lt;/p&gt;
-&lt;p&gt;My open-source journey began with a contribution to the popular &lt;a href=&#34;https://github.com/fabric8io/docker-maven-plugin&#34;&gt;Docker Maven Plugin&lt;/a&gt;. While my contribution was relatively small—updating dependency versions and refactoring a few methods—it taught me a lot about the process of contributing to open-source projects. I was guided through this experience by &lt;a href=&#34;https://github.com/rohanKanojia&#34;&gt;Rohan Kanojia&lt;/a&gt;, who showed me the ropes of contributing within an organization and maintaining quality in a collaborative environment.&lt;/p&gt;</description>
-      
+      <description>&lt;p&gt;&lt;img src=&#34;https://images.pexels.com/photos/2041638/pexels-photo-2041638.jpeg?auto=compress&amp;amp;cs=tinysrgb&amp;amp;w=1260&amp;amp;h=750&amp;amp;dpr=1&#34; alt=&#34;banner&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;my-open-source-journey-in-2024&#34;&gt;My Open Source Journey in 2024&lt;/h1&gt;&#xA;&lt;p&gt;This year, I decided to take my open-source contributions seriously, and it&amp;rsquo;s been an incredible learning experience. I’ve had the opportunity to explore some fantastic open-source projects, tools, and communities, without any bias, and I’ve learned a great deal along the way.&lt;/p&gt;&#xA;&lt;h3 id=&#34;starting-with-the-docker-maven-plugin&#34;&gt;Starting with the Docker Maven Plugin&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://images.pexels.com/photos/1250452/pexels-photo-1250452.jpeg?auto=compress&amp;amp;cs=tinysrgb&amp;amp;w=1260&amp;amp;h=750&amp;amp;dpr=1&#34; alt=&#34;banner&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;My open-source journey began with a contribution to the popular &lt;a href=&#34;https://github.com/fabric8io/docker-maven-plugin&#34;&gt;Docker Maven Plugin&lt;/a&gt;. While my contribution was relatively small—updating dependency versions and refactoring a few methods—it taught me a lot about the process of contributing to open-source projects. I was guided through this experience by &lt;a href=&#34;https://github.com/rohanKanojia&#34;&gt;Rohan Kanojia&lt;/a&gt;, who showed me the ropes of contributing within an organization and maintaining quality in a collaborative environment.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
