@@ -70,7 +70,7 @@ disqusShortname = ''
   twitterCardType = "summary_large_image"
 
 [params.author]
-  avatar = "saltfish.png"
+  avatar = "thorfinn.jpg"
   intro = "Mohamed Abdullah"
   name = "Mohamed Abdullah"
   description = "I’m Mohamed, and this is my personal blog. I love open source and have always been curious about how the internet works. I enjoy exploring how things are built, whether it's systems, products, or ideas. I love tinkering, reading, and asking “why” and “how.”"
