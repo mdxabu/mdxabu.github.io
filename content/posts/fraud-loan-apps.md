@@ -41,3 +41,38 @@ To learn more about the dangers of fraudulent loan apps and how they operate, he
 5. **Tamil Nadu Man Dies by Suicide Due to Online Loan App Blackmail**  
    *India Today* covers the tragic story of a Tamil Nadu man who took his life after being blackmailed by a fraudulent loan app.  
    [Read more here](https://www.indiatoday.in/india/tamil-nadu/story/tamil-nadu-man-dies-suicide-blackmail-online-loan-app-2537340-2024-05-10)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Comment Section Configurations! -->
+<script src="https://giscus.app/client.js"
+        data-repo="mdxabu/mdxabu.github.io"
+        data-repo-id="R_kgDOLs5FtQ"
+        data-category="Blogs"
+        data-category-id="DIC_kwDOLs5Ftc4CrYy-"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="0"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="light_protanopia"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>

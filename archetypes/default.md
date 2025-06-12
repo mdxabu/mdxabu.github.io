@@ -37,7 +37,7 @@ tags: []
 
 
 
-
+<!-- Comment Section Configurations! -->
 <script src="https://giscus.app/client.js"
         data-repo="mdxabu/mdxabu.github.io"
         data-repo-id="R_kgDOLs5FtQ"
@@ -48,7 +48,7 @@ tags: []
         data-reactions-enabled="0"
         data-emit-metadata="0"
         data-input-position="top"
-        data-theme="https://github.com/mdxabu/mdxabu.github.io/blob/main/style/themes/noborder_light.css"
+        data-theme="light_protanopia"
         data-lang="en"
         crossorigin="anonymous"
         async>

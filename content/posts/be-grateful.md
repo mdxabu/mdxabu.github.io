@@ -19,3 +19,37 @@ Another incident comes to mind. In 7th grade, I was a low-performing student, ra
 ![](https://static1.srcdn.com/wordpress/wp-content/uploads/2021/04/The-Office-Season-7-Episode-22---Goodbye-Michael-.jpg)
 
 Be grateful for what you have and what you have. Be kind, and help those who are still learning!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Comment Section Configurations! -->
+<script src="https://giscus.app/client.js"
+        data-repo="mdxabu/mdxabu.github.io"
+        data-repo-id="R_kgDOLs5FtQ"
+        data-category="Blogs"
+        data-category-id="DIC_kwDOLs5Ftc4CrYy-"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="0"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="light_protanopia"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>

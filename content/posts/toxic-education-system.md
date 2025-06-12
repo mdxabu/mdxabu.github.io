@@ -24,3 +24,32 @@ Why should I have to compromise my grade for this nonsense? I could question the
 ![](https://pbs.twimg.com/media/Go_gK4_aUAAAooc?format=png&name=small)
 
 Once I finished my college I'll post every fucking thing in my blog...
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Comment Section Configurations! -->
+<script src="https://giscus.app/client.js"
+        data-repo="mdxabu/mdxabu.github.io"
+        data-repo-id="R_kgDOLs5FtQ"
+        data-category="Blogs"
+        data-category-id="DIC_kwDOLs5Ftc4CrYy-"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="0"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="light_protanopia"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>

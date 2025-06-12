@@ -29,3 +29,37 @@ The hard work paid off! I am now a first author on a research paper that will be
 ### Looking Ahead: More to Learn, More to Contribute 
 As I reflect on 2024, I see how much open-source has taught me about collaboration, persistence, and community. It’s been a journey of growth, and I’m looking forward to continuing to contribute to new projects, tackle fresh challenges, and connect with even more amazing people in the coming year. 
 In 2025, I plan to dive into more complicated coding contributions. I’m excited to take on more challenging tasks, learn new techniques, and push my coding skills to the next level. Here’s to an exciting 2025, filled with new opportunities, continued learning, and ambitious goals!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Comment Section Configurations! -->
+<script src="https://giscus.app/client.js"
+        data-repo="mdxabu/mdxabu.github.io"
+        data-repo-id="R_kgDOLs5FtQ"
+        data-category="Blogs"
+        data-category-id="DIC_kwDOLs5Ftc4CrYy-"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="0"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="light_protanopia"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
