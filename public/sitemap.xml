@@ -2,16 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-06-12T16:20:24+05:30</lastmod>
+    <loc>http://localhost:1313/posts/be-grateful/</loc>
+    <lastmod>2025-05-27T21:06:56+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/new/</loc>
-    <lastmod>2025-06-12T16:20:24+05:30</lastmod>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-05-27T21:06:56+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-06-12T16:20:24+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/be-grateful/</loc>
     <lastmod>2025-05-27T21:06:56+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/depressed/</loc>
