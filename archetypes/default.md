@@ -45,10 +45,10 @@ tags: []
         data-category-id="DIC_kwDOLs5Ftc4CrYy-"
         data-mapping="pathname"
         data-strict="0"
+        data-reactions-enabled="0"
         data-emit-metadata="0"
         data-input-position="top"
-        data-theme="custom"
-        data-theme-url="style/themes/noborder_light.css"
+        data-theme="https://github.com/mdxabu/mdxabu.github.io/blob/main/style/themes/noborder_light.css"
         data-lang="en"
         crossorigin="anonymous"
         async>
