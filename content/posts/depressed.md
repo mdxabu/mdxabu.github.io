@@ -21,7 +21,7 @@ Right now, my mindset is just to get a job in another city or state and move out
 
 Everyone is pressuring me to do something with my life, but I'm still doing something b@st@rds. I really need to talk openly with someone!
 
-I'm fucking tired, guys. Very tired...
+I'm fcuking tired, guys. Very tired...
 
 
 
