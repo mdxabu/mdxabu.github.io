@@ -18,7 +18,7 @@ Another incident comes to mind. In 7th grade, I was a low-performing student, ra
 
 ![](https://static1.srcdn.com/wordpress/wp-content/uploads/2021/04/The-Office-Season-7-Episode-22---Goodbye-Michael-.jpg)
 
-Be grateful for what you have and what you have. Be kind, and help those who are still learning!
+Be grateful for what you have and what you had. Be kind, and help those who are still learning!
 
 
 
