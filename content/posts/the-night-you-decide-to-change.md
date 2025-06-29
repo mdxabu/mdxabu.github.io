@@ -3,7 +3,7 @@ date: '2025-06-29T21:22:50+05:30'
 draft: false
 title: 'The Night You Decide to Change'
 toc: false
-tags: []
+tags: ["slice of life","mental health"]
 ---
 
 There comes a night was very quiet, a little heavier than usual and you realized that you’ve messed up your life.
