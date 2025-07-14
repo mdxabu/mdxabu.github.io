@@ -1,7 +1,7 @@
 title = "Mohamed Abdullah"
 baseURL = 'https://mdxabu.github.io'
 languageCode = 'en-us'
-image = 'saltfish.png'
+# image = 'Abu.png'
 theme = "hugo-blog-awesome"
 
 defaultContentLanguage = "en-gb"
@@ -70,7 +70,7 @@ disqusShortname = ''
   twitterCardType = "summary_large_image"
 
 [params.author]
-  avatar = "saltfish.png"
+  avatar = "fight-club.jpg"  # Ensure this image exists in the static/images directory
   intro = "Mohamed Abdullah"
   name = "Mohamed Abdullah"
   description = "I’m Mohamed, and this is my public space where I talk about things I love."
