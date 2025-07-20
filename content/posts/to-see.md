@@ -1,7 +1,7 @@
 ---
 date : '2025-07-20T22:52:46+05:30'
 draft : false
-title : 'A Stranger, A Spark, A Feeling'
+title : 'Hearts Rise Unexpectedly'
 toc : false
 tags: ["slice of life"]
 image: "https://health.wyo.gov/wp-content/uploads/2020/08/sun-with-cloudy-sky.jpg"
