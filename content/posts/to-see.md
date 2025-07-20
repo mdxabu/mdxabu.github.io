@@ -4,7 +4,7 @@ draft : false
 title : 'A Stranger, A Spark, A Feeling'
 toc : false
 tags: ["slice of life"]
-image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREog14wCHRTjLl0WwTzAo2SsOaWw9COWfyIg&s"
+image: "https://health.wyo.gov/wp-content/uploads/2020/08/sun-with-cloudy-sky.jpg"
 ---
 
 
