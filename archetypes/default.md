@@ -4,6 +4,7 @@ draft : false
 title : '{{ replace .File.ContentBaseName "-" " " | title }}'
 toc : false
 tags: []
+image: ""
 ---
 
 
