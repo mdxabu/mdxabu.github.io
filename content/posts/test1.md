@@ -1,61 +1,25 @@
 ---
-title: testing
-date: '2025-07-26T07:51:32.984Z'
-description: ''
-tags:
-  - opensource
-  - testing
+date: 2025-07-26T09:55:32.391Z
+title: Testing the outdoorblog
+tags: - open source
 ---
 
-Writing blogs from outdoorblog
+# Hello 
+by outdoor blogs
 
-# Hello
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- Comment Section Configurations! -->
-<script src="https://giscus.app/client.js"
-        data-repo="mdxabu/mdxabu.github.io"
-        data-repo-id="R_kgDOLs5FtQ"
-        data-category="Blogs"
-        data-category-id="DIC_kwDOLs5Ftc4CrYy-"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="0"
-        data-emit-metadata="0"
-        data-input-position="top"
-        data-theme="light_protanopia"
-        data-lang="en"
-        crossorigin="anonymous"
-        async>
+<script
+  src="https://giscus.app/client.js"
+  data-repo="mdxabu/mdxabu.github.io"
+  data-repo-id=""
+  data-category=""
+  data-category-id=""
+  data-mapping="pathname"
+  data-strict="0"
+  data-reactions-enabled="1"
+  data-emit-metadata="0"
+  data-input-position="bottom"
+  data-theme="light"
+  data-lang="en"
+  crossorigin="anonymous"
+  async>
 </script>
-
-
-<!-- Giscus comment system -->
-<script src="https://giscus.app/client.js" data-repo="mdxabu/mdxabu.github.io" data-repo-id="" data-category="General" data-category-id="" data-mapping="pathname" data-strict="0" data-reactions-enabled="1" data-emit-metadata="0" data-input-position="bottom" data-theme="light" crossorigin="anonymous" async></script>
