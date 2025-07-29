@@ -6,7 +6,34 @@
     <description>Recent content on Mohamed Abdullah</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Jul 2025 21:33:06 +0530</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Jul 2025 11:42:42 +0530</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testing</title>
+      <link>http://localhost:1313/posts/testing/</link>
+      <pubDate>Tue, 29 Jul 2025 11:42:42 +0530</pubDate>
+      
+      <guid>http://localhost:1313/posts/testing/</guid>
+      
+      <description>&lt;p&gt;testing mailchimp&lt;/p&gt;
+&lt;!-- Comment Section Configurations! --&gt;
+&lt;script src=&#34;https://giscus.app/client.js&#34;
+        data-repo=&#34;mdxabu/mdxabu.github.io&#34;
+        data-repo-id=&#34;R_kgDOLs5FtQ&#34;
+        data-category=&#34;Blogs&#34;
+        data-category-id=&#34;DIC_kwDOLs5Ftc4CrYy-&#34;
+        data-mapping=&#34;pathname&#34;
+        data-strict=&#34;0&#34;
+        data-reactions-enabled=&#34;0&#34;
+        data-emit-metadata=&#34;0&#34;
+        data-input-position=&#34;top&#34;
+        data-theme=&#34;light_protanopia&#34;
+        data-lang=&#34;en&#34;
+        crossorigin=&#34;anonymous&#34;
+        async&gt;
+&lt;/script&gt;</description>
+      
+    </item>
+    
     <item>
       <title>Is this project important?</title>
       <link>http://localhost:1313/posts/is-this-project-important/</link>
