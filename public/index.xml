@@ -205,5 +205,16 @@ A little “Who have I become?”&lt;/p&gt;
       
     </item>
     
+    <item>
+      <title></title>
+      <link>http://localhost:1313/subscribe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/subscribe/</guid>
+      
+      <description>&lt;script id=&#34;mcjs&#34;&gt;!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,&#34;script&#34;,&#34;https://chimpstatic.com/mcjs-connected/js/users/dbe14da6cf33cf8096cd28315/bee55c40e87b992e113f43090.js&#34;);&lt;/script&gt;</description>
+      
+    </item>
+    
   </channel>
 </rss>

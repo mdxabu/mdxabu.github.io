@@ -6,7 +6,29 @@
     <description>Recent content in Tags on Mohamed Abdullah</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Jul 2025 22:52:46 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Jul 2025 21:33:06 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project</title>
+      <link>http://localhost:1313/tags/project/</link>
+      <pubDate>Fri, 25 Jul 2025 21:33:06 +0530</pubDate>
+      
+      <guid>http://localhost:1313/tags/project/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Open Source</title>
+      <link>http://localhost:1313/tags/open-source/</link>
+      <pubDate>Fri, 25 Jul 2025 21:33:06 +0530</pubDate>
+      
+      <guid>http://localhost:1313/tags/open-source/</guid>
+      
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>Slice of Life</title>
       <link>http://localhost:1313/tags/slice-of-life/</link>
@@ -41,17 +63,6 @@
     </item>
     
     <item>
-      <title>Community</title>
-      <link>http://localhost:1313/tags/community/</link>
-      <pubDate>Tue, 22 Apr 2025 11:14:25 +0530</pubDate>
-      
-      <guid>http://localhost:1313/tags/community/</guid>
-      
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Education</title>
       <link>http://localhost:1313/tags/education/</link>
       <pubDate>Tue, 22 Apr 2025 11:14:25 +0530</pubDate>
@@ -63,11 +74,11 @@
     </item>
     
     <item>
-      <title>Open Source</title>
-      <link>http://localhost:1313/tags/open-source/</link>
-      <pubDate>Sun, 06 Apr 2025 11:51:43 +0530</pubDate>
+      <title>Community</title>
+      <link>http://localhost:1313/tags/community/</link>
+      <pubDate>Tue, 22 Apr 2025 11:14:25 +0530</pubDate>
       
-      <guid>http://localhost:1313/tags/open-source/</guid>
+      <guid>http://localhost:1313/tags/community/</guid>
       
       <description></description>
       

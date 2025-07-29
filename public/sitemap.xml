@@ -8,16 +8,22 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2025-07-25T21:33:06+05:30</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/open-source/</loc>
+    <lastmod>2025-07-25T21:33:06+05:30</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-07-25T21:33:06+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/project/</loc>
+    <lastmod>2025-07-25T21:33:06+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-07-25T21:33:06+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/to-see/</loc>
     <lastmod>2025-07-20T22:52:46+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/slice-of-life/</loc>
-    <lastmod>2025-07-20T22:52:46+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-07-20T22:52:46+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/mental-health/</loc>
@@ -50,9 +56,6 @@
     <loc>http://localhost:1313/posts/asoc/</loc>
     <lastmod>2025-04-06T11:51:43+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/open-source/</loc>
-    <lastmod>2025-04-06T11:51:43+05:30</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/app/</loc>
     <lastmod>2025-02-03T10:58:22+05:30</lastmod>
   </url><url>
@@ -67,6 +70,8 @@
   </url><url>
     <loc>http://localhost:1313/posts/opensource2024/</loc>
     <lastmod>2024-12-31T21:00:28+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/subscribe/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>

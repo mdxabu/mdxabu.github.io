@@ -50,6 +50,11 @@ disqusShortname = ''
     name = 'Tags'
     url = '/tags/'
     weight = 50
+  [[menu.main]]
+    pageRef = "subscribe"  # Changed to lowercase to match section name
+    name = 'Subscribe'
+    url = '/subscribe/'
+    weight = 60
 
 [params]
   sitename = "Awesome hugo blog"
