@@ -36,7 +36,7 @@ disqusShortname = ''
     weight = 20
   [[menu.main]]
     pageRef = "techlog"  # Changed to lowercase to match section name
-    name = 'Techlog'
+    name = 'Tech Log'
     url = '/techlog'
     weight = 30
   [[menu.main]]
