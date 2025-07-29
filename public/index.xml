@@ -6,16 +6,15 @@
     <description>Recent content on Mohamed Abdullah</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Jul 2025 11:42:42 +0530</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Jul 2025 22:10:04 +0530</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Testing</title>
-      <link>http://localhost:1313/posts/testing/</link>
-      <pubDate>Tue, 29 Jul 2025 11:42:42 +0530</pubDate>
+      <title>Hbd My Friend</title>
+      <link>http://localhost:1313/posts/hbd-my-friend/</link>
+      <pubDate>Tue, 29 Jul 2025 22:10:04 +0530</pubDate>
       
-      <guid>http://localhost:1313/posts/testing/</guid>
+      <guid>http://localhost:1313/posts/hbd-my-friend/</guid>
       
-      <description>&lt;p&gt;testing mailchimp&lt;/p&gt;
-&lt;!-- Comment Section Configurations! --&gt;
+      <description>&lt;!-- Comment Section Configurations! --&gt;
 &lt;script src=&#34;https://giscus.app/client.js&#34;
         data-repo=&#34;mdxabu/mdxabu.github.io&#34;
         data-repo-id=&#34;R_kgDOLs5FtQ&#34;
@@ -36,10 +35,10 @@
     
     <item>
       <title>Is this project important?</title>
-      <link>http://localhost:1313/posts/is-this-project-important/</link>
+      <link>http://localhost:1313/techlog/is-this-project-important/</link>
       <pubDate>Fri, 25 Jul 2025 21:33:06 +0530</pubDate>
       
-      <guid>http://localhost:1313/posts/is-this-project-important/</guid>
+      <guid>http://localhost:1313/techlog/is-this-project-important/</guid>
       
       <description>&lt;p&gt;So I had this weird idea: what if I could run Docker containers that only use IPv6, but still let them connect to all the old-school IPv4-only services that most of the internet still runs on?&lt;/p&gt;
 &lt;p&gt;it’s not something Docker just magically does out of the box, but it turns out&amp;hellip; with a little NAT64 and DNS64 magic, you can actually make it work.&lt;/p&gt;
@@ -127,10 +126,10 @@ A little “Who have I become?”&lt;/p&gt;
     
     <item>
       <title>Deepfake: The AI That’s Too Good at Scamming You and Ruining Your Life!</title>
-      <link>http://localhost:1313/posts/deepfake/</link>
+      <link>http://localhost:1313/techlog/deepfake/</link>
       <pubDate>Sun, 04 May 2025 19:35:55 +0530</pubDate>
       
-      <guid>http://localhost:1313/posts/deepfake/</guid>
+      <guid>http://localhost:1313/techlog/deepfake/</guid>
       
       <description>&lt;h2 id=&#34;deepfake-technology-a-double-edged-knife&#34;&gt;Deepfake Technology: A Double-Edged Knife&lt;/h2&gt;
 &lt;p&gt;Deepfake technology, which involves the manipulation of images, videos, or audio using artificial intelligence, has emerged as one of the most dangerous advancements in recent years. While deepfakes have legitimate uses in entertainment, such as resurrecting deceased celebrities for films or creating AI-generated voices for songs, their negative impact has been growing—particularly in the world of scams and blackmail.&lt;/p&gt;
@@ -153,10 +152,10 @@ A little “Who have I become?”&lt;/p&gt;
     
     <item>
       <title>Alaskan Season of Code</title>
-      <link>http://localhost:1313/posts/asoc/</link>
+      <link>http://localhost:1313/techlog/asoc/</link>
       <pubDate>Sun, 06 Apr 2025 11:51:43 +0530</pubDate>
       
-      <guid>http://localhost:1313/posts/asoc/</guid>
+      <guid>http://localhost:1313/techlog/asoc/</guid>
       
       <description>&lt;p&gt;Alaskan Season of Code is a volunteer-based, remote coding program where students collaborate on open-source projects, learning not just technical skills, but also how to work within a diverse, interdisciplinary environment. The program is designed to connect students with faculty mentors from the University of Alaska.&lt;/p&gt;
 &lt;p&gt;For more information, you can read about the program &lt;a href=&#34;https://github.com/uaanchorage/GSoC/blob/main/Alaskan-Season-of-Code.md&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
@@ -168,10 +167,10 @@ A little “Who have I become?”&lt;/p&gt;
     
     <item>
       <title>Beware of Fraudulent Loan Apps: The Hidden Dangers and How to Protect Yourself</title>
-      <link>http://localhost:1313/posts/fraud-loan-apps/</link>
+      <link>http://localhost:1313/techlog/fraud-loan-apps/</link>
       <pubDate>Mon, 03 Feb 2025 10:58:22 +0530</pubDate>
       
-      <guid>http://localhost:1313/posts/fraud-loan-apps/</guid>
+      <guid>http://localhost:1313/techlog/fraud-loan-apps/</guid>
       
       <description>&lt;p&gt;&lt;img src=&#34;https://images.indianexpress.com/2023/12/fraud-loan-app.jpg&#34; alt=&#34;&#34; title=&#34;fraud apps&#34;&gt;&lt;/p&gt;
 &lt;p&gt;In India, there are many fraudulent loan apps out there, like Instant Loan Apps, which offer loans of amounts such as 1000 rupees or some limited amount.&lt;/p&gt;
@@ -194,10 +193,10 @@ A little “Who have I become?”&lt;/p&gt;
     
     <item>
       <title>My Open Source Journey in 2024</title>
-      <link>http://localhost:1313/posts/opensource2024/</link>
+      <link>http://localhost:1313/techlog/opensource2024/</link>
       <pubDate>Tue, 31 Dec 2024 21:00:28 +0530</pubDate>
       
-      <guid>http://localhost:1313/posts/opensource2024/</guid>
+      <guid>http://localhost:1313/techlog/opensource2024/</guid>
       
       <description>&lt;p&gt;&lt;img src=&#34;https://images.pexels.com/photos/2041638/pexels-photo-2041638.jpeg?auto=compress&amp;amp;cs=tinysrgb&amp;amp;w=1260&amp;amp;h=750&amp;amp;dpr=1&#34; alt=&#34;banner&#34;&gt;&lt;/p&gt;
 &lt;h1 id=&#34;my-open-source-journey-in-2024&#34;&gt;My Open Source Journey in 2024&lt;/h1&gt;
@@ -205,21 +204,6 @@ A little “Who have I become?”&lt;/p&gt;
 &lt;h3 id=&#34;starting-with-the-docker-maven-plugin&#34;&gt;Starting with the Docker Maven Plugin&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&#34;https://images.pexels.com/photos/1250452/pexels-photo-1250452.jpeg?auto=compress&amp;amp;cs=tinysrgb&amp;amp;w=1260&amp;amp;h=750&amp;amp;dpr=1&#34; alt=&#34;banner&#34;&gt;&lt;/p&gt;
 &lt;p&gt;My open-source journey began with a contribution to the popular &lt;a href=&#34;https://github.com/fabric8io/docker-maven-plugin&#34;&gt;Docker Maven Plugin&lt;/a&gt;. While my contribution was relatively small—updating dependency versions and refactoring a few methods—it taught me a lot about the process of contributing to open-source projects. I was guided through this experience by &lt;a href=&#34;https://github.com/rohanKanojia&#34;&gt;Rohan Kanojia&lt;/a&gt;, who showed me the ropes of contributing within an organization and maintaining quality in a collaborative environment.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Subscribe :)</title>
-      <link>http://localhost:1313/subscribe/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/subscribe/</guid>
-      
-      <description>&lt;p&gt;&lt;em&gt;Dear friend,&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Do you remember when we used to wait by the mailbox for our favorite magazine? That sweet anticipation, the rustle of fresh pages, the smell of new ink?&lt;/p&gt;
-&lt;p&gt;In this endless scroll of notifications and fleeting content, I want to bring back that feeling.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Why subscribe?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Because sometimes, in the quiet moments of our day, we want something &lt;em&gt;real&lt;/em&gt;. Something thoughtful. Something that doesn&amp;rsquo;t yell at us but quietly says: &amp;ldquo;Hey, I have something cool to share with you.&amp;rdquo;&lt;/p&gt;</description>
       
     </item>
     

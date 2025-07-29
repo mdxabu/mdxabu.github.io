@@ -35,26 +35,27 @@ disqusShortname = ''
     url = '/posts/'
     weight = 20
   [[menu.main]]
-    pageRef="News"  # Changed to lowercase to match section name
-    name = 'News'
-    url = '/News'
+    pageRef = "techlog"  # Changed to lowercase to match section name
+    name = 'Techlog'
+    url = '/techlog'
     weight = 30
-  
+  [[menu.main]]
+    pageRef="news"  # Changed to lowercase to match section name
+    name = 'News'
+    url = '/news'
+    weight = 40
   [[menu.main]]
     pageRef="projects"  # Changed to lowercase to match section name
     name = 'Projects'
     url = '/projects/'
-    weight = 40
+    weight = 50
+  
   [[menu.main]]
     pageRef = "tags"  # Changed to lowercase to match section name
     name = 'Tags'
     url = '/tags/'
-    weight = 50
-  [[menu.main]]
-    pageRef = "subscribe"  # Changed to lowercase to match section name
-    name = 'Subscribe'
-    url = '/subscribe/'
     weight = 60
+  
 
 [params]
   sitename = "Awesome hugo blog"

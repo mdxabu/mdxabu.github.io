@@ -21,10 +21,10 @@
     
     <item>
       <title>Alaskan Season of Code</title>
-      <link>http://localhost:1313/posts/asoc/</link>
+      <link>http://localhost:1313/techlog/asoc/</link>
       <pubDate>Sun, 06 Apr 2025 11:51:43 +0530</pubDate>
       
-      <guid>http://localhost:1313/posts/asoc/</guid>
+      <guid>http://localhost:1313/techlog/asoc/</guid>
       
       <description>&lt;p&gt;Alaskan Season of Code is a volunteer-based, remote coding program where students collaborate on open-source projects, learning not just technical skills, but also how to work within a diverse, interdisciplinary environment. The program is designed to connect students with faculty mentors from the University of Alaska.&lt;/p&gt;
 &lt;p&gt;For more information, you can read about the program &lt;a href=&#34;https://github.com/uaanchorage/GSoC/blob/main/Alaskan-Season-of-Code.md&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
@@ -48,10 +48,10 @@
     
     <item>
       <title>My Open Source Journey in 2024</title>
-      <link>http://localhost:1313/posts/opensource2024/</link>
+      <link>http://localhost:1313/techlog/opensource2024/</link>
       <pubDate>Tue, 31 Dec 2024 21:00:28 +0530</pubDate>
       
-      <guid>http://localhost:1313/posts/opensource2024/</guid>
+      <guid>http://localhost:1313/techlog/opensource2024/</guid>
       
       <description>&lt;p&gt;&lt;img src=&#34;https://images.pexels.com/photos/2041638/pexels-photo-2041638.jpeg?auto=compress&amp;amp;cs=tinysrgb&amp;amp;w=1260&amp;amp;h=750&amp;amp;dpr=1&#34; alt=&#34;banner&#34;&gt;&lt;/p&gt;
 &lt;h1 id=&#34;my-open-source-journey-in-2024&#34;&gt;My Open Source Journey in 2024&lt;/h1&gt;
