@@ -71,10 +71,10 @@
     <loc>http://localhost:1313/posts/opensource2024/</loc>
     <lastmod>2024-12-31T21:00:28+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/subscribe/</loc>
-  </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/news/</loc>
+  </url><url>
+    <loc>http://localhost:1313/subscribe/</loc>
   </url>
 </urlset>

@@ -182,6 +182,21 @@ A little “Who have I become?”&lt;/p&gt;
     </item>
     
     <item>
+      <title>Subscribe :)</title>
+      <link>http://localhost:1313/subscribe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/subscribe/</guid>
+      
+      <description>&lt;p&gt;&lt;em&gt;Dear friend,&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Do you remember when we used to wait by the mailbox for our favorite magazine? That sweet anticipation, the rustle of fresh pages, the smell of new ink?&lt;/p&gt;
+&lt;p&gt;In this endless scroll of notifications and fleeting content, I want to bring back that feeling.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Why subscribe?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Because sometimes, in the quiet moments of our day, we want something &lt;em&gt;real&lt;/em&gt;. Something thoughtful. Something that doesn&amp;rsquo;t yell at us but quietly says: &amp;ldquo;Hey, I have something cool to share with you.&amp;rdquo;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
       <title>News</title>
       <link>http://localhost:1313/news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -202,17 +217,6 @@ A little “Who have I become?”&lt;/p&gt;
 &lt;p&gt;01/05/2024 - Rejected for GSoC 2024 with Organization &lt;strong&gt;Alaska&lt;/strong&gt;.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://localhost:1313/subscribe/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/subscribe/</guid>
-      
-      <description>&lt;script id=&#34;mcjs&#34;&gt;!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,&#34;script&#34;,&#34;https://chimpstatic.com/mcjs-connected/js/users/dbe14da6cf33cf8096cd28315/bee55c40e87b992e113f43090.js&#34;);&lt;/script&gt;</description>
       
     </item>
     
