@@ -11,7 +11,7 @@ Happy Birthday, My Friend!
 
 First of all Happy Birthday, my friend! 🎉
 
-I still remember the very first time I saw you back in college, sitting behind me. Honestly, I was a little scared at first. You looked totally stoned, and I thought, "I better stay away from this guy..."
+I still remember the very first time I saw you back in college, sitting behind me. Honestly, I was a little scared at first. You looked totally stoned, and I thought, *"I better stay away from this guy..."*
 
 ![](https://i.redd.it/t751qzpfuvzd1.png)
 
@@ -28,7 +28,7 @@ But jokes apart, what really stood out to me is your genuine character.
 
 I remember once when we were eating snacks, I carelessly threw my trash on the ground. But you? You quietly picked yours up… and even picked up mine. You didn’t say anything. You just did it. That moment stuck with me. That’s the kind of thing that inspires others without even trying.
 
-So today, on your birthday, I just want to say—thank you for being you.
+So today, on your birthday, I just want to say thank you for being you.
 
 Wishing you more great games, Unemployment and a year full of good vibes.
 
