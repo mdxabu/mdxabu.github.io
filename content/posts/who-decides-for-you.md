@@ -4,7 +4,7 @@ draft : false
 title : 'Who Decides for You?'
 toc : false
 tags: ["slice of life","mental health"]
-image: ""
+image: "https://www.outridebrand.com/wp-content/uploads/2019/01/itw4.jpg"
 ---
 
 Lately, I’ve been thinking about how often people try to interfere with decisions that are really no one’s business but your own. Not just close family, but people outside that circle. Distant relatives, neighbors, family friends, and sometimes even people who barely know you. They ask questions like, “Why didn’t you tell me first?” or “You should’ve asked me,” as if your personal choices need to go through some kind of approval system.
