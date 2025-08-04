@@ -4,7 +4,7 @@ draft : false
 title : 'மௌன பார்வைகள்'
 toc : false
 tags: []
-image: ""
+image: "https://media.istockphoto.com/id/1217790470/photo/western-ghats-over-green-fields.jpg?s=612x612&w=0&k=20&c=lmQEZU36faCgodYF9RVUFY_03ZUqCTsakUNkhVnDm70="
 ---
 
 
