@@ -14,90 +14,89 @@ ignoreErrors = ["additional-script-loading-error"]
 disqusShortname = ''
 
 [markup]
-  [markup.highlight]
-    noClasses = false
-  [markup.goldmark.renderer]
-    unsafe = true
-    [markup.tableOfContents]
-        startLevel = 2
-        endLevel = 4
-        ordered = false
+[markup.highlight]
+noClasses = false
+[markup.goldmark.renderer]
+unsafe = true
+[markup.tableOfContents]
+startLevel = 1
+endLevel = 4
+ordered = false
 
 [menu]
-  [[menu.main]]
-    pageRef="/"
-    name = 'Home'
-    url = '/'
-    weight = 10
-  [[menu.main]]
-    pageRef = "techlog"  
-    name = 'Tech Log'
-    url = '/techlog'
-    weight = 20
-  [[menu.main]]
-    pageRef="posts"  
-    name = 'Musings' 
-    url = '/posts/'
-    weight = 30
-  [[menu.main]]
-    pageRef="news"  
-    name = 'News'
-    url = '/news'
-    weight = 40
-  [[menu.main]]
-    pageRef="projects"  
-    name = 'Projects'
-    url = '/projects/'
-    weight = 50
-  
-  [[menu.main]]
-    pageRef = "tags"  
-    name = 'Tags'
-    url = '/tags/'
-    weight = 60
-  
+[[menu.main]]
+pageRef = "/"
+name = 'Home'
+url = '/'
+weight = 10
+[[menu.main]]
+pageRef = "techlog"
+name = 'Tech Log'
+url = '/techlog'
+weight = 20
+[[menu.main]]
+pageRef = "posts"
+name = 'Musings'
+url = '/posts/'
+weight = 30
+[[menu.main]]
+pageRef = "news"
+name = 'News'
+url = '/news'
+weight = 40
+[[menu.main]]
+pageRef = "projects"
+name = 'Projects'
+url = '/projects/'
+weight = 50
+
+[[menu.main]]
+pageRef = "tags"
+name = 'Tags'
+url = '/tags/'
+weight = 60
+
 
 [params]
-  sitename = "Awesome hugo blog"
-  defaultColor = "light"
-  description = "Mohamed Abdullah's personal website - Open Source Software Contributor and Developer"
-  mainSections = ['posts']
-  toc = true
-  goToTop = true
-  additionalScripts = ['js/custom.js', 'js/custom-2.js']
-  dateFormat = "January 2, 2006"
-  
-  # Default social sharing image (needs to be in the static directory)
-  ogimage = "/images/saltfish.png"  # Add leading slash if using path from static directory
-  
-  # Twitter card settings
-  twitterSite = "@mdxabu"
-  twitterCreator = "@mdxabu"
-  twitterCardType = "summary_large_image"
+sitename = "Awesome hugo blog"
+defaultColor = "light"
+description = "Mohamed Abdullah's personal website - Open Source Software Contributor and Developer"
+mainSections = ['posts']
+toc = true
+goToTop = true
+additionalScripts = ['js/custom.js', 'js/custom-2.js']
+dateFormat = "January 2, 2006"
+
+# Default social sharing image (needs to be in the static directory)
+ogimage = "/images/saltfish.png" # Add leading slash if using path from static directory
+
+# Twitter card settings
+twitterSite = "@mdxabu"
+twitterCreator = "@mdxabu"
+twitterCardType = "summary_large_image"
 
 [params.author]
-  avatar = "fight-club.jpg"  # Ensure this image exists in the static/images directory
-  intro = "Mohamed Abdullah"
-  name = "Mohamed Abdullah"
-  description = "I’m Mohamed, and this is my public space where I talk about things I love."
-
+avatar = "fight-club.jpg"                                                                  # Ensure this image exists in the static/images directory
+intro = "Mohamed Abdullah"
+name = "Mohamed Abdullah"
+description = "I’m Mohamed, and this is my public space where I talk about things I love."
 
 
 [params.webmanifest]
-  name = "sitename"
-  short_name = "sitename"
-  start_url = "/"
-  theme_color = "#434648"
-  background_color = "#fff"
-  display = "standalone"
+name = "sitename"
+short_name = "sitename"
+start_url = "/"
+theme_color = "#434648"
+background_color = "#fff"
+display = "standalone"
 
 [params.browserconfig]
-  TileColor = "#fff"
+TileColor = "#fff"
 
 [[params.socialIcons]]
-    name = "Rss"
-    url = "index.xml"
-    
+name = "Rss"
+url = "index.xml"
+
 [[params.socialIcons]]
 name = "github"
 url = "https://github.com/mdxabu"
@@ -117,4 +116,3 @@ url = "https://linkedin.com/in/mdxabu"
 [[params.socialIcons]]
 name = "email"
 url = "mailto:me.mdxabu@gmail.com"
-

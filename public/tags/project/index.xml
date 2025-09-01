@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Project on Mohamed Abdullah</title>
-    <link>http://localhost:1313/tags/project/</link>
+    <link>http://localhost:51955/tags/project/</link>
     <description>Recent content in Project on Mohamed Abdullah</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Jul 2025 21:33:06 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/project/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Jul 2025 21:33:06 +0530</lastBuildDate><atom:link href="http://localhost:51955/tags/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Is this project important?</title>
-      <link>http://localhost:1313/techlog/is-this-project-important/</link>
+      <link>http://localhost:51955/techlog/is-this-project-important/</link>
       <pubDate>Fri, 25 Jul 2025 21:33:06 +0530</pubDate>
       
-      <guid>http://localhost:1313/techlog/is-this-project-important/</guid>
+      <guid>http://localhost:51955/techlog/is-this-project-important/</guid>
       
       <description>&lt;p&gt;So I had this weird idea: what if I could run Docker containers that only use IPv6, but still let them connect to all the old-school IPv4-only services that most of the internet still runs on?&lt;/p&gt;
 &lt;p&gt;it’s not something Docker just magically does out of the box, but it turns out&amp;hellip; with a little NAT64 and DNS64 magic, you can actually make it work.&lt;/p&gt;

@@ -3,21 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-08-04T22:09:15+05:30</lastmod>
+    <lastmod>2025-09-01T21:51:38+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-08-04T22:09:15+05:30</lastmod>
+    <lastmod>2025-09-01T21:51:38+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/slice-of-life/</loc>
+    <lastmod>2025-09-01T21:51:38+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-09-01T21:51:38+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/umrah2025/</loc>
+    <lastmod>2025-09-01T21:51:38+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/travel/</loc>
+    <lastmod>2025-09-01T21:51:38+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/silent-glances/</loc>
     <lastmod>2025-08-04T22:09:15+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/mental-health/</loc>
-    <lastmod>2025-08-01T21:37:32+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/slice-of-life/</loc>
-    <lastmod>2025-08-01T21:37:32+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-08-01T21:37:32+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/who-decides-for-you/</loc>
@@ -86,5 +92,31 @@
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/news/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/s/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/sl/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/sli/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/slice/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/slice-/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/slice-o/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/slice-o-/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/slice-o-l/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/slice-of/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/slice-of-l/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/slice-of-li/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/slice-of-lif/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/slice-of-life-/</loc>
   </url>
 </urlset>
