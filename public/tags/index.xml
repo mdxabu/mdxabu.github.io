@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Mohamed Abdullah</title>
-    <link>http://localhost:51955/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Mohamed Abdullah</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Sep 2025 21:51:38 +0530</lastBuildDate><atom:link href="http://localhost:51955/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Sep 2025 21:51:38 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Travel</title>
-      <link>http://localhost:51955/tags/travel/</link>
+      <link>http://localhost:1313/tags/travel/</link>
       <pubDate>Mon, 01 Sep 2025 21:51:38 +0530</pubDate>
       
-      <guid>http://localhost:51955/tags/travel/</guid>
+      <guid>http://localhost:1313/tags/travel/</guid>
       
       <description></description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>Slice of Life</title>
-      <link>http://localhost:51955/tags/slice-of-life/</link>
+      <link>http://localhost:1313/tags/slice-of-life/</link>
       <pubDate>Mon, 01 Sep 2025 21:51:38 +0530</pubDate>
       
-      <guid>http://localhost:51955/tags/slice-of-life/</guid>
+      <guid>http://localhost:1313/tags/slice-of-life/</guid>
       
       <description></description>
       
@@ -31,10 +31,10 @@
     
     <item>
       <title>Mental Health</title>
-      <link>http://localhost:51955/tags/mental-health/</link>
+      <link>http://localhost:1313/tags/mental-health/</link>
       <pubDate>Fri, 01 Aug 2025 21:37:32 +0530</pubDate>
       
-      <guid>http://localhost:51955/tags/mental-health/</guid>
+      <guid>http://localhost:1313/tags/mental-health/</guid>
       
       <description></description>
       
@@ -42,10 +42,10 @@
     
     <item>
       <title>Project</title>
-      <link>http://localhost:51955/tags/project/</link>
+      <link>http://localhost:1313/tags/project/</link>
       <pubDate>Fri, 25 Jul 2025 21:33:06 +0530</pubDate>
       
-      <guid>http://localhost:51955/tags/project/</guid>
+      <guid>http://localhost:1313/tags/project/</guid>
       
       <description></description>
       
@@ -53,10 +53,10 @@
     
     <item>
       <title>Open Source</title>
-      <link>http://localhost:51955/tags/open-source/</link>
+      <link>http://localhost:1313/tags/open-source/</link>
       <pubDate>Fri, 25 Jul 2025 21:33:06 +0530</pubDate>
       
-      <guid>http://localhost:51955/tags/open-source/</guid>
+      <guid>http://localhost:1313/tags/open-source/</guid>
       
       <description></description>
       
@@ -64,10 +64,10 @@
     
     <item>
       <title>Social Awareness</title>
-      <link>http://localhost:51955/tags/social-awareness/</link>
+      <link>http://localhost:1313/tags/social-awareness/</link>
       <pubDate>Sun, 04 May 2025 19:35:55 +0530</pubDate>
       
-      <guid>http://localhost:51955/tags/social-awareness/</guid>
+      <guid>http://localhost:1313/tags/social-awareness/</guid>
       
       <description></description>
       
@@ -75,10 +75,10 @@
     
     <item>
       <title>Education</title>
-      <link>http://localhost:51955/tags/education/</link>
+      <link>http://localhost:1313/tags/education/</link>
       <pubDate>Tue, 22 Apr 2025 11:14:25 +0530</pubDate>
       
-      <guid>http://localhost:51955/tags/education/</guid>
+      <guid>http://localhost:1313/tags/education/</guid>
       
       <description></description>
       
@@ -86,10 +86,10 @@
     
     <item>
       <title>Community</title>
-      <link>http://localhost:51955/tags/community/</link>
+      <link>http://localhost:1313/tags/community/</link>
       <pubDate>Tue, 22 Apr 2025 11:14:25 +0530</pubDate>
       
-      <guid>http://localhost:51955/tags/community/</guid>
+      <guid>http://localhost:1313/tags/community/</guid>
       
       <description></description>
       
@@ -97,10 +97,10 @@
     
     <item>
       <title>App</title>
-      <link>http://localhost:51955/tags/app/</link>
+      <link>http://localhost:1313/tags/app/</link>
       <pubDate>Mon, 03 Feb 2025 10:58:22 +0530</pubDate>
       
-      <guid>http://localhost:51955/tags/app/</guid>
+      <guid>http://localhost:1313/tags/app/</guid>
       
       <description></description>
       

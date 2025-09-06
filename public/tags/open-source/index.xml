@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Open Source on Mohamed Abdullah</title>
-    <link>http://localhost:51955/tags/open-source/</link>
+    <link>http://localhost:1313/tags/open-source/</link>
     <description>Recent content in Open Source on Mohamed Abdullah</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Jul 2025 21:33:06 +0530</lastBuildDate><atom:link href="http://localhost:51955/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Jul 2025 21:33:06 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Is this project important?</title>
-      <link>http://localhost:51955/techlog/is-this-project-important/</link>
+      <link>http://localhost:1313/techlog/is-this-project-important/</link>
       <pubDate>Fri, 25 Jul 2025 21:33:06 +0530</pubDate>
       
-      <guid>http://localhost:51955/techlog/is-this-project-important/</guid>
+      <guid>http://localhost:1313/techlog/is-this-project-important/</guid>
       
       <description>&lt;p&gt;So I had this weird idea: what if I could run Docker containers that only use IPv6, but still let them connect to all the old-school IPv4-only services that most of the internet still runs on?&lt;/p&gt;
 &lt;p&gt;it’s not something Docker just magically does out of the box, but it turns out&amp;hellip; with a little NAT64 and DNS64 magic, you can actually make it work.&lt;/p&gt;
@@ -23,14 +23,14 @@
     
     <item>
       <title>Alaskan Season of Code</title>
-      <link>http://localhost:51955/techlog/asoc/</link>
+      <link>http://localhost:1313/techlog/asoc/</link>
       <pubDate>Sun, 06 Apr 2025 11:51:43 +0530</pubDate>
       
-      <guid>http://localhost:51955/techlog/asoc/</guid>
+      <guid>http://localhost:1313/techlog/asoc/</guid>
       
       <description>&lt;p&gt;Alaskan Season of Code is a volunteer-based, remote coding program where students collaborate on open-source projects, learning not just technical skills, but also how to work within a diverse, interdisciplinary environment. The program is designed to connect students with faculty mentors from the University of Alaska.&lt;/p&gt;
 &lt;p&gt;For more information, you can read about the program &lt;a href=&#34;https://github.com/uaanchorage/GSoC/blob/main/Alaskan-Season-of-Code.md&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
-&lt;embed src=&#34;http://localhost:51955/assets/asoc.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34; /&gt;
+&lt;embed src=&#34;http://localhost:1313/assets/asoc.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34; /&gt;
 &lt;h1 id=&#34;my-role-in-the-program&#34;&gt;My Role in the Program&lt;/h1&gt;
 &lt;p&gt;I was fortunate enough to participate in this program from May 1st, 2024, to September 15th, 2024, under the mentorship of Dr. Pradeeban Kathiravelu, an Assistant Professor of Computer Science at the University of Alaska Anchorage. During the internship, I worked on the Beehive project, a data federation approach to analyze behavioral health and complement healthcare practices with community health metrics in Alaska.&lt;/p&gt;</description>
       
@@ -38,10 +38,10 @@
     
     <item>
       <title>Beehive: Leveraging the expression of marginalised peoples.</title>
-      <link>http://localhost:51955/projects/beehive/</link>
+      <link>http://localhost:1313/projects/beehive/</link>
       <pubDate>Thu, 23 Jan 2025 16:57:43 +0530</pubDate>
       
-      <guid>http://localhost:51955/projects/beehive/</guid>
+      <guid>http://localhost:1313/projects/beehive/</guid>
       
       <description>&lt;h1 id=&#34;beehive&#34;&gt;Beehive&lt;/h1&gt;
 &lt;p&gt;Beehive is the open source project&lt;/p&gt;</description>
@@ -50,10 +50,10 @@
     
     <item>
       <title>My Open Source Journey in 2024</title>
-      <link>http://localhost:51955/techlog/opensource2024/</link>
+      <link>http://localhost:1313/techlog/opensource2024/</link>
       <pubDate>Tue, 31 Dec 2024 21:00:28 +0530</pubDate>
       
-      <guid>http://localhost:51955/techlog/opensource2024/</guid>
+      <guid>http://localhost:1313/techlog/opensource2024/</guid>
       
       <description>&lt;p&gt;&lt;img src=&#34;https://images.pexels.com/photos/2041638/pexels-photo-2041638.jpeg?auto=compress&amp;amp;cs=tinysrgb&amp;amp;w=1260&amp;amp;h=750&amp;amp;dpr=1&#34; alt=&#34;banner&#34;&gt;&lt;/p&gt;
 &lt;h1 id=&#34;my-open-source-journey-in-2024&#34;&gt;My Open Source Journey in 2024&lt;/h1&gt;

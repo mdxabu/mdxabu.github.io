@@ -92,31 +92,5 @@
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/news/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/s/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/sl/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/sli/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/slice/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/slice-/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/slice-o/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/slice-o-/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/slice-o-l/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/slice-of/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/slice-of-l/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/slice-of-li/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/slice-of-lif/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/slice-of-life-/</loc>
   </url>
 </urlset>
