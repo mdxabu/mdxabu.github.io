@@ -66,7 +66,8 @@ toc = true
 goToTop = true
 additionalScripts = ['js/custom.js', 'js/custom-2.js']
 dateFormat = "January 2, 2006"
-
+favicon = true
+faviconSVG = true
 # Default social sharing image (needs to be in the static directory)
 ogimage = "/images/saltfish.png" # Add leading slash if using path from static directory
 
@@ -76,6 +77,7 @@ twitterCreator = "@mdxabu"
 twitterCardType = "summary_large_image"
 
 [params.author]
+favicon = "icons/favicon.svg"                                                                                                      # Path to favicon image in static directory
 avatar = "https://avatars.githubusercontent.com/u/115330277?v=4"                                                                  # External URL for avatar image
 intro = "Mohamed Abdullah"
 name = "Mohamed Abdullah"
