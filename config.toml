@@ -1,7 +1,7 @@
 title = "Mohamed Abdullah"
 baseURL = 'https://mdxabu.github.io'
 languageCode = 'en-us'
-# image = 'Abu.png'
+# image = 'Abu.jpg'
 theme = "hugo-blog-awesome"
 
 defaultContentLanguage = "en-gb"
@@ -76,7 +76,7 @@ twitterCreator = "@mdxabu"
 twitterCardType = "summary_large_image"
 
 [params.author]
-avatar = "fight-club.jpg"                                                                  # Ensure this image exists in the static/images directory
+avatar = "https://avatars.githubusercontent.com/u/115330277?v=4"                                                                  # External URL for avatar image
 intro = "Mohamed Abdullah"
 name = "Mohamed Abdullah"
 description = "I’m Mohamed, and this is my public space where I talk about things I love."
