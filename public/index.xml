@@ -214,14 +214,16 @@ A little “Who have I become?”&lt;/p&gt;
     </item>
     
     <item>
-      <title>Beehive: Leveraging the expression of marginalised peoples.</title>
+      <title>Beehive: Leveraging the Expression of Marginalised Peoples.</title>
       <link>http://localhost:1313/projects/beehive/</link>
       <pubDate>Thu, 23 Jan 2025 16:57:43 +0530</pubDate>
       
       <guid>http://localhost:1313/projects/beehive/</guid>
       
-      <description>&lt;h1 id=&#34;beehive&#34;&gt;Beehive&lt;/h1&gt;
-&lt;p&gt;Beehive is the open source project&lt;/p&gt;</description>
+      <description>&lt;p&gt;This project is compelling for its core aim of supporting marginalised people. Many individuals use art to express their emotions, and this work helps researchers understand behavioral and emotional patterns within these communities.&lt;/p&gt;
+&lt;h2 id=&#34;beehive&#34;&gt;Beehive&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;A data federation approach to analyze behavioral health and complement healthcare practice with community health metrics.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;This project analyzes behavioral health and complements healthcare practice with community health metrics in Alaska using a data federation approach. By leveraging data from diverse sources, it generates insights into behavioral health patterns and helps improve healthcare practices in the community.&lt;/p&gt;</description>
       
     </item>
     
@@ -249,6 +251,9 @@ A little “Who have I become?”&lt;/p&gt;
       <guid>http://localhost:1313/news/</guid>
       
       <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;08/09/2025 - officially Completed my Google Summer of Code with Alaska.&lt;/p&gt;
+&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;07/07/2025 - Rejected by &lt;code&gt;Zoho&lt;/code&gt; for the Software Developer role.&lt;/p&gt;
 &lt;/li&gt;
