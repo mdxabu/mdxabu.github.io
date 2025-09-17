@@ -3,6 +3,8 @@ draft = false
 title = 'News'
 toc = false
 +++
+- 10/09/2025 - Unemployment Starts.
+
 - 08/09/2025 - officially Completed my Google Summer of Code with Alaska.
 
 - 07/07/2025 - Rejected by `Zoho` for the Software Developer role.
