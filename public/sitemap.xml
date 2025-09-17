@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-09-13T19:26:23+05:30</lastmod>
+    <loc>http://localhost:1313/tags/mental-health/</loc>
+    <lastmod>2025-09-17T22:37:25+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/cycle/</loc>
-    <lastmod>2025-09-13T19:26:23+05:30</lastmod>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-09-17T22:37:25+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-09-13T19:26:23+05:30</lastmod>
+    <lastmod>2025-09-17T22:37:25+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/slice-of-life/</loc>
-    <lastmod>2025-09-13T19:26:23+05:30</lastmod>
+    <lastmod>2025-09-17T22:37:25+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-09-17T22:37:25+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/unemployment-peak/</loc>
+    <lastmod>2025-09-17T22:37:25+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/cycle/</loc>
     <lastmod>2025-09-13T19:26:23+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/umrah2025/</loc>
@@ -25,9 +31,6 @@
   </url><url>
     <loc>http://localhost:1313/posts/silent-glances/</loc>
     <lastmod>2025-08-04T22:09:15+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/mental-health/</loc>
-    <lastmod>2025-08-01T21:37:32+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/who-decides-for-you/</loc>
     <lastmod>2025-08-01T21:37:32+05:30</lastmod>
