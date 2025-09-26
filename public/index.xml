@@ -6,7 +6,20 @@
     <description>Recent content on Mohamed Abdullah</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Sep 2025 22:37:25 +0530</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Sep 2025 17:42:52 +0530</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dodo - Say goodbye to accidental secrets and messy Git history with a smarter, simpler CLI tool.</title>
+      <link>http://localhost:1313/techlog/dodo/</link>
+      <pubDate>Fri, 26 Sep 2025 17:42:52 +0530</pubDate>
+      
+      <guid>http://localhost:1313/techlog/dodo/</guid>
+      
+      <description>&lt;p&gt;I got an idea when I was in the shower, and it made total sense! It has the potential to be a great open-source project. There are so many projects out there that aren’t really useful, but people still use them—like lazy commit! It&amp;rsquo;s just generating commit messages based on your code modifications with AI using Groq.&lt;/p&gt;
+&lt;p&gt;Then I realized, my project idea could be even better!&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s dive into the idea…&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>Unemployment - Phase I</title>
       <link>http://localhost:1313/posts/unemployment-peak/</link>
