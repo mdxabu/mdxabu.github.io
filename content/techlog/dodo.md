@@ -4,7 +4,7 @@ draft : false
 title : 'Dodo - Say goodbye to accidental secrets and messy Git history with a smarter, simpler CLI tool.'
 toc : false
 tags: ["open source","project"]
-image: ""
+image: "https://cdn.britannica.com/13/245613-050-F2F1BA7B/Dodo-bird-Black-and-white-engraving.jpg"
 ---
 
 
