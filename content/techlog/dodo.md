@@ -12,6 +12,8 @@ I got an idea when I was in the shower, and it made total sense! It has the pote
 
 Then I realized, my project idea could be even better!
 
+![](https://i.imgflip.com/42164z.jpg)
+
 Let's dive into the idea…
 
 ### Project Overview
