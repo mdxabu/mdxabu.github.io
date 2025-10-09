@@ -66,3 +66,11 @@ And when I finally get into bed, sleep doesn’t come easily. So, I reach for my
         crossorigin="anonymous"
         async>
 </script>
+
+
+<form action="https://github.com/mdxabu/mdxabu.github.io/issues/new" target="_blank">
+  <input type="hidden" name="title" value="Subscribe request">
+  <label>Email:</label>
+  <input type="email" name="body" placeholder="you@example.com" required>
+  <button type="submit">Subscribe via GitHub</button>
+</form>

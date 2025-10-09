@@ -1,0 +1,33 @@
+name: Notify Subscribers
+
+on:
+  push:
+    paths:
+      - "content/posts/**"   # Run only when posts change
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch RSS feed
+        run: |
+          curl -s https://mdxabu.com/posts/index.xml -o rss.xml
+
+      - name: Extract latest post info
+        id: latest
+        run: |
+          # Extract first <title> and <link> from RSS feed
+          TITLE=$(grep -m1 '<title>' rss.xml | sed 's/.*<title>//;s/<\/title>.*//')
+          URL=$(grep -m1 '<link>' rss.xml | sed 's/.*<link>//;s/<\/link>.*//')
+          echo "title=$TITLE" >> $GITHUB_OUTPUT
+          echo "url=$URL" >> $GITHUB_OUTPUT
+
+      - name: Send email via Vercel service
+        run: |
+          curl -X POST https://mdxabu-subscribers.vercel.app/api/sendEmails \
+            -H "Content-Type: application/json" \
+            -d "{\"subject\":\"New post: ${{ steps.latest.outputs.title }}\", \"body\":\"${{ steps.latest.outputs.title }}\n${{ steps.latest.outputs.url }}\"}"

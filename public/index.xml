@@ -6,7 +6,22 @@
     <description>Recent content on Mohamed Abdullah</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Sep 2025 17:42:52 +0530</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Oct 2025 16:38:02 +0530</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Subscribe</title>
+      <link>http://localhost:1313/subscribe/</link>
+      <pubDate>Thu, 09 Oct 2025 16:38:02 +0530</pubDate>
+      
+      <guid>http://localhost:1313/subscribe/</guid>
+      
+      <description>&lt;form action=&#34;https://mdxabu-subscribers.vercel.app/api/subscribe&#34; method=&#34;POST&#34;&gt;
+  &lt;label for=&#34;email&#34;&gt;Subscribe to get notifications:&lt;/label&gt;
+  &lt;input type=&#34;email&#34; name=&#34;email&#34; placeholder=&#34;you@example.com&#34; required&gt;
+  &lt;button type=&#34;submit&#34;&gt;Subscribe&lt;/button&gt;
+&lt;/form&gt;</description>
+      
+    </item>
+    
     <item>
       <title>Dodo - Say goodbye to accidental secrets and messy Git history with a smarter, simpler CLI tool.</title>
       <link>http://localhost:1313/techlog/dodo/</link>
@@ -23,10 +38,10 @@
     
     <item>
       <title>Unemployment - Phase I</title>
-      <link>http://localhost:1313/posts/unemployment-peak/</link>
+      <link>http://localhost:1313/posts/unemployment-i/</link>
       <pubDate>Wed, 17 Sep 2025 22:37:25 +0530</pubDate>
       
-      <guid>http://localhost:1313/posts/unemployment-peak/</guid>
+      <guid>http://localhost:1313/posts/unemployment-i/</guid>
       
       <description>&lt;p&gt;The last four months have been as precious as gems because I spent them in my home, in my bed, doing absolutely nothing.&lt;/p&gt;
 &lt;p&gt;This phase literally feels like a scene from the movie VIP (Velaiyilla Pattathari)&amp;hellip;&lt;/p&gt;
