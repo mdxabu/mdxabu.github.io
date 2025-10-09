@@ -3,7 +3,7 @@ name: Notify Subscribers
 on:
   push:
     paths:
-      - "content/posts/**"   # Run only when posts change
+      - "content/posts/**"   # Trigger only on new/updated posts
 
 jobs:
   notify:
@@ -20,7 +20,6 @@ jobs:
       - name: Extract latest post info
         id: latest
         run: |
-          # Extract first <title> and <link> from RSS feed
           TITLE=$(grep -m1 '<title>' rss.xml | sed 's/.*<title>//;s/<\/title>.*//')
           URL=$(grep -m1 '<link>' rss.xml | sed 's/.*<link>//;s/<\/link>.*//')
           echo "title=$TITLE" >> $GITHUB_OUTPUT
