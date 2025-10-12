@@ -8,6 +8,10 @@ image: "https://content.imageresizer.com/images/memes/There-is-Nothing-We-Can-Do
 ---
 
 
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5vGzsfpKWggKf7xh1xj1iC?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+
 The last four months have been as precious as gems because I spent them in my home, in my bed, doing absolutely nothing.
 
 This phase literally feels like a scene from the movie VIP (Velaiyilla Pattathari)...
