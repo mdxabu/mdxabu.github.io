@@ -66,7 +66,7 @@ Be grateful for what you have, and proud of what you're working toward.
         data-category-id="DIC_kwDOLs5Ftc4CrYy-"
         data-mapping="pathname"
         data-strict="0"
-        data-reactions-enabled="0"
+        data-reactions-enabled="1"
         data-emit-metadata="0"
         data-input-position="top"
         data-theme="light_protanopia"

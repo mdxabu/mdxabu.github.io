@@ -58,7 +58,7 @@ And when I finally get into bed, sleep doesn’t come easily. So, I reach for my
         data-category-id="DIC_kwDOLs5Ftc4CrYy-"
         data-mapping="pathname"
         data-strict="0"
-        data-reactions-enabled="0"
+        data-reactions-enabled="1"
         data-emit-metadata="0"
         data-input-position="top"
         data-theme="light_protanopia"
@@ -68,9 +68,3 @@ And when I finally get into bed, sleep doesn’t come easily. So, I reach for my
 </script>
 
 
-<form action="https://github.com/mdxabu/mdxabu.github.io/issues/new" target="_blank">
-  <input type="hidden" name="title" value="Subscribe request">
-  <label>Email:</label>
-  <input type="email" name="body" placeholder="you@example.com" required>
-  <button type="submit">Subscribe via GitHub</button>
-</form>
