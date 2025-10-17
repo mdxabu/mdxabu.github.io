@@ -6,7 +6,18 @@
     <description>Recent content in Open Source on Mohamed Abdullah</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Sep 2025 17:42:52 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Oct 2025 15:01:51 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Maven Tutorial 101: Guide to Dependency Management and Build Automation</title>
+      <link>http://localhost:1313/techlog/mvn101/</link>
+      <pubDate>Fri, 17 Oct 2025 15:01:51 +0530</pubDate>
+      
+      <guid>http://localhost:1313/techlog/mvn101/</guid>
+      
+      <description>&lt;p&gt;Ah, &lt;strong&gt;Apache Maven&lt;/strong&gt;. The tool that promises to solve your build problems but can occasionally feel like a high school group project where everyone has their own idea of how things should be done. But fear not! Whether you’re new to Maven or just looking to freshen up your knowledge, this guide will help you navigate through the complexities of dependency management and build automation. And yes, we’ve got memes to make it fun.&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>Dodo - Say goodbye to accidental secrets and messy Git history with a smarter, simpler CLI tool.</title>
       <link>http://localhost:1313/techlog/dodo/</link>
