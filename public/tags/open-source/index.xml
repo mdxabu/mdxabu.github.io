@@ -14,7 +14,8 @@
       
       <guid>http://localhost:1313/techlog/mvn101/</guid>
       
-      <description>&lt;p&gt;Ah, &lt;strong&gt;Apache Maven&lt;/strong&gt;. The tool that promises to solve your build problems but can occasionally feel like a high school group project where everyone has their own idea of how things should be done. But fear not! Whether you’re new to Maven or just looking to freshen up your knowledge, this guide will help you navigate through the complexities of dependency management and build automation. And yes, we’ve got memes to make it fun.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://i.programmerhumor.io/2024/07/programmerhumor-io-java-memes-programming-memes-9689c09aebaafe6.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Ah, &lt;strong&gt;Apache Maven&lt;/strong&gt;. The tool that promises to solve your build problems but can occasionally feel like a high school group project where everyone has their own idea of how things should be done. But fear not! Whether you’re new to Maven or just looking to freshen up your knowledge, this guide will help you navigate through the complexities of dependency management and build automation. And yes, we’ve got memes to make it fun.&lt;/p&gt;</description>
       
     </item>
     
