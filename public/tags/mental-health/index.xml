@@ -15,7 +15,9 @@
       <guid>http://localhost:1313/posts/unemployment-2/</guid>
       
       <description>&lt;iframe data-testid=&#34;embed-iframe&#34; style=&#34;border-radius:12px&#34; src=&#34;https://open.spotify.com/embed/track/5vGzsfpKWggKf7xh1xj1iC?utm_source=generator&amp;theme=0&#34; width=&#34;100%&#34; height=&#34;152&#34; frameBorder=&#34;0&#34; allowfullscreen=&#34;&#34; allow=&#34;autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/Ft4sAPGaQAMQVCq.jpg:large&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure class=&#34;image-figure&#34;&gt;
+  &lt;img src=&#34;https://pbs.twimg.com/media/Ft4sAPGaQAMQVCq.jpg:large&#34; alt=&#34;&#34;  loading=&#34;lazy&#34;&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;It’s been five months now, five months of not having a job, not having a clear path.&lt;/p&gt;
 &lt;p&gt;Some days feel like a break, like I finally have time for myself.
 I enjoy the quiet, the lack of pressure. I sleep in, relax, and do things I never had time for before.
@@ -57,7 +59,9 @@ But then there are days when it hits me hard. I feel stuck, like I’m not movin
       
       <description>&lt;p&gt;There comes a night was very quiet, a little heavier than usual and you realized that you’ve messed up your life.&lt;/p&gt;
 &lt;p&gt;Not in a dramatic or world-ending way, but in a way that makes you feel uncomfortable in your own skin.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://i.redd.it/v9v4h2rb3y4b1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure class=&#34;image-figure&#34;&gt;
+  &lt;img src=&#34;https://i.redd.it/v9v4h2rb3y4b1.jpg&#34; alt=&#34;&#34;  loading=&#34;lazy&#34;&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;It doesn’t hit all at once. It arrives in waves,
 A little shame.&lt;br&gt;
 A little fear.&lt;br&gt;
@@ -87,7 +91,9 @@ A little “Who have I become?”&lt;/p&gt;
       
       <guid>http://localhost:1313/posts/depressed/</guid>
       
-      <description>&lt;p&gt;&lt;img src=&#34;https://preview.redd.it/lee-chandler-doesnt-leave-you-alone-after-watching-v0-1sodg8fecrge1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=17eac35541dd8ccfca7de73697073fe0478a6449&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;figure class=&#34;image-figure&#34;&gt;
+  &lt;img src=&#34;https://preview.redd.it/lee-chandler-doesnt-leave-you-alone-after-watching-v0-1sodg8fecrge1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=17eac35541dd8ccfca7de73697073fe0478a6449&#34; alt=&#34;&#34;  loading=&#34;lazy&#34;&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;I don&amp;rsquo;t know why I feel depressed these days. Every morning, I wake up to my parents scolding me, and my days go by with very low energy and negative thoughts.&lt;/p&gt;
 &lt;p&gt;If any problem occurs at home because of me, they bring up my unemployment. I&amp;rsquo;m just about to finish college in two weeks.&lt;/p&gt;
 &lt;p&gt;Day by day, my mental health is declining&amp;hellip;&lt;/p&gt;

@@ -73,6 +73,13 @@
 <meta name="twitter:image" content="https://www.pngitem.com/pimgs/m/788-7882333_wojak-png-transparent-png.png" />
 
 
+
+
+  
+  <link href="/custom.min.f7b94d654750113d43499f40371a724a515b040a08595fa0c8018d2b1be40e82.css" rel="stylesheet">
+
+
+
   
 </head>
 <body data-theme = "light" class="notransition">
@@ -208,14 +215,18 @@ By default, your IPv6-only container can’t even <code>curl google.com</code>, 
 <li>Point the containers&rsquo; DNS to that DNS64 server</li>
 <li>Try accessing IPv4-only services from inside the container and see what breaks</li>
 </ol>
-<p><img src="https://www.researchgate.net/profile/Gabor-Lencse/publication/299405560/figure/fig3/AS:667671179849730@1536196622082/The-operation-of-the-DNS64-NAT64-solution-an-IPv6-only-client-communicates-with-and-IPv4.png" alt=""></p>
+<p><figure class="image-figure">
+  <img src="https://www.researchgate.net/profile/Gabor-Lencse/publication/299405560/figure/fig3/AS:667671179849730@1536196622082/The-operation-of-the-DNS64-NAT64-solution-an-IPv6-only-client-communicates-with-and-IPv4.png" alt=""  loading="lazy"></figure>
+</p>
 <h2 id="why-go">Why Go?</h2>
 <p>There is no specific reasons because I just want to learn go and Creating CLI apps in golang was very fun and easy!</p>
 <h2 id="why-nat64dns64">Why NAT64/DNS64?</h2>
 <p>Because they trick your IPv6-only container into thinking the whole world is IPv6-friendly.</p>
 <p>When your container tries to resolve example.com, the DNS64 server synthesizes a fake IPv6 address like 64:ff9b::93.184.216.34. The container connects to it via IPv6.</p>
 <p>Then the NAT64 gateway on your host intercepts that packet, converts it to IPv4, sends it to the real service, and returns the response back over IPv6.</p>
-<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Farmer_meme_with_apostrophe.jpg/1200px-Farmer_meme_with_apostrophe.jpg" alt=""></p>
+<p><figure class="image-figure">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Farmer_meme_with_apostrophe.jpg/1200px-Farmer_meme_with_apostrophe.jpg" alt=""  loading="lazy"></figure>
+</p>
 <h2 id="what-could-go-wrong">What Could Go Wrong?</h2>
 <p>Let’s be real, probably a lot will go wrong!</p>
 <ul>

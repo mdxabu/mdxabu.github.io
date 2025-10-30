@@ -48,3 +48,10 @@
 <meta name="twitter:title" content="{{ $title }} | {{ .Site.Title }}" />
 <meta name="twitter:description" content="{{ $description }}" />
 {{ with $image }}<meta name="twitter:image" content="{{ . }}" />{{ end }}
+
+<!-- Custom CSS for image captions -->
+{{ $customCSS := resources.Get "custom.css" }}
+{{ if $customCSS }}
+  {{ $customCSS := $customCSS | minify | fingerprint }}
+  <link href="{{ $customCSS.RelPermalink }}" rel="stylesheet">
+{{ end }}

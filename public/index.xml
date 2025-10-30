@@ -15,7 +15,9 @@
       <guid>http://localhost:1313/posts/unemployment-2/</guid>
       
       <description>&lt;iframe data-testid=&#34;embed-iframe&#34; style=&#34;border-radius:12px&#34; src=&#34;https://open.spotify.com/embed/track/5vGzsfpKWggKf7xh1xj1iC?utm_source=generator&amp;theme=0&#34; width=&#34;100%&#34; height=&#34;152&#34; frameBorder=&#34;0&#34; allowfullscreen=&#34;&#34; allow=&#34;autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/Ft4sAPGaQAMQVCq.jpg:large&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure class=&#34;image-figure&#34;&gt;
+  &lt;img src=&#34;https://pbs.twimg.com/media/Ft4sAPGaQAMQVCq.jpg:large&#34; alt=&#34;&#34;  loading=&#34;lazy&#34;&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;It’s been five months now, five months of not having a job, not having a clear path.&lt;/p&gt;
 &lt;p&gt;Some days feel like a break, like I finally have time for myself.
 I enjoy the quiet, the lack of pressure. I sleep in, relax, and do things I never had time for before.
@@ -30,7 +32,9 @@ But then there are days when it hits me hard. I feel stuck, like I’m not movin
       
       <guid>http://localhost:1313/techlog/mvn101/</guid>
       
-      <description>&lt;p&gt;&lt;img src=&#34;https://i.programmerhumor.io/2024/07/programmerhumor-io-java-memes-programming-memes-9689c09aebaafe6.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;figure class=&#34;image-figure&#34;&gt;
+  &lt;img src=&#34;https://i.programmerhumor.io/2024/07/programmerhumor-io-java-memes-programming-memes-9689c09aebaafe6.jpg&#34; alt=&#34;&#34;  loading=&#34;lazy&#34;&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;Ah, &lt;strong&gt;Apache Maven&lt;/strong&gt;. The tool that promises to solve your build problems but can occasionally feel like a high school group project where everyone has their own idea of how things should be done. But fear not! Whether you’re new to Maven or just looking to freshen up your knowledge, this guide will help you navigate through the complexities of dependency management and build automation. And yes, we’ve got memes to make it fun.&lt;/p&gt;</description>
       
     </item>
@@ -115,7 +119,9 @@ But the one who doesn&amp;rsquo;t answer, remains a flower.&lt;/p&gt;</descripti
       <description>&lt;p&gt;Happy Birthday, My Friend!&lt;/p&gt;
 &lt;p&gt;First of all Happy Birthday, my friend! 🎉&lt;/p&gt;
 &lt;p&gt;I still remember the very first time I saw you back in college, sitting behind me. Honestly, I was a little scared at first. You looked totally stoned, and I thought, &lt;em&gt;&amp;ldquo;I better stay away from this guy&amp;hellip;&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://i.redd.it/t751qzpfuvzd1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure class=&#34;image-figure&#34;&gt;
+  &lt;img src=&#34;https://i.redd.it/t751qzpfuvzd1.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34;&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;But then, surprise! You turned out to be on the same bus route as me. Slowly, we started talking, and I realized you’re actually a really cool guy.&lt;/p&gt;</description>
       
     </item>
@@ -173,7 +179,9 @@ But the one who doesn&amp;rsquo;t answer, remains a flower.&lt;/p&gt;</descripti
       
       <description>&lt;p&gt;There comes a night was very quiet, a little heavier than usual and you realized that you’ve messed up your life.&lt;/p&gt;
 &lt;p&gt;Not in a dramatic or world-ending way, but in a way that makes you feel uncomfortable in your own skin.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://i.redd.it/v9v4h2rb3y4b1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure class=&#34;image-figure&#34;&gt;
+  &lt;img src=&#34;https://i.redd.it/v9v4h2rb3y4b1.jpg&#34; alt=&#34;&#34;  loading=&#34;lazy&#34;&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;It doesn’t hit all at once. It arrives in waves,
 A little shame.&lt;br&gt;
 A little fear.&lt;br&gt;
@@ -203,7 +211,9 @@ A little “Who have I become?”&lt;/p&gt;
       
       <guid>http://localhost:1313/posts/depressed/</guid>
       
-      <description>&lt;p&gt;&lt;img src=&#34;https://preview.redd.it/lee-chandler-doesnt-leave-you-alone-after-watching-v0-1sodg8fecrge1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=17eac35541dd8ccfca7de73697073fe0478a6449&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;figure class=&#34;image-figure&#34;&gt;
+  &lt;img src=&#34;https://preview.redd.it/lee-chandler-doesnt-leave-you-alone-after-watching-v0-1sodg8fecrge1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=17eac35541dd8ccfca7de73697073fe0478a6449&#34; alt=&#34;&#34;  loading=&#34;lazy&#34;&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;I don&amp;rsquo;t know why I feel depressed these days. Every morning, I wake up to my parents scolding me, and my days go by with very low energy and negative thoughts.&lt;/p&gt;
 &lt;p&gt;If any problem occurs at home because of me, they bring up my unemployment. I&amp;rsquo;m just about to finish college in two weeks.&lt;/p&gt;
 &lt;p&gt;Day by day, my mental health is declining&amp;hellip;&lt;/p&gt;
@@ -259,7 +269,9 @@ A little “Who have I become?”&lt;/p&gt;
       
       <guid>http://localhost:1313/techlog/fraud-loan-apps/</guid>
       
-      <description>&lt;p&gt;&lt;img src=&#34;https://images.indianexpress.com/2023/12/fraud-loan-app.jpg&#34; alt=&#34;&#34; title=&#34;fraud apps&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;figure class=&#34;image-figure&#34;&gt;
+  &lt;img src=&#34;https://images.indianexpress.com/2023/12/fraud-loan-app.jpg&#34; alt=&#34;&#34; title=&#34;fraud apps&#34; loading=&#34;lazy&#34;&gt;&lt;figcaption&gt;fraud apps&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;In India, there are many fraudulent loan apps out there, like Instant Loan Apps, which offer loans of amounts such as 1000 rupees or some limited amount.&lt;/p&gt;
 &lt;p&gt;Just think: why would they give you money without any formal process, unlike a bank? A bank is the correct institution for providing loans.&lt;/p&gt;
 &lt;p&gt;These kinds of apps ask for permission to access your contacts, gallery, and other data on your mobile. Many people click &amp;ldquo;Allow&amp;rdquo; without reading the permissions carefully. As a result, they can view and download your gallery images and contacts.&lt;/p&gt;</description>
@@ -287,11 +299,15 @@ A little “Who have I become?”&lt;/p&gt;
       
       <guid>http://localhost:1313/techlog/opensource2024/</guid>
       
-      <description>&lt;p&gt;&lt;img src=&#34;https://images.pexels.com/photos/2041638/pexels-photo-2041638.jpeg?auto=compress&amp;amp;cs=tinysrgb&amp;amp;w=1260&amp;amp;h=750&amp;amp;dpr=1&#34; alt=&#34;banner&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;figure class=&#34;image-figure&#34;&gt;
+  &lt;img src=&#34;https://images.pexels.com/photos/2041638/pexels-photo-2041638.jpeg?auto=compress&amp;amp;cs=tinysrgb&amp;amp;w=1260&amp;amp;h=750&amp;amp;dpr=1&#34; alt=&#34;banner&#34;  loading=&#34;lazy&#34;&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;h1 id=&#34;my-open-source-journey-in-2024&#34;&gt;My Open Source Journey in 2024&lt;/h1&gt;
 &lt;p&gt;This year, I decided to take my open-source contributions seriously, and it&amp;rsquo;s been an incredible learning experience. I’ve had the opportunity to explore some fantastic open-source projects, tools, and communities, without any bias, and I’ve learned a great deal along the way.&lt;/p&gt;
 &lt;h3 id=&#34;starting-with-the-docker-maven-plugin&#34;&gt;Starting with the Docker Maven Plugin&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;https://images.pexels.com/photos/1250452/pexels-photo-1250452.jpeg?auto=compress&amp;amp;cs=tinysrgb&amp;amp;w=1260&amp;amp;h=750&amp;amp;dpr=1&#34; alt=&#34;banner&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure class=&#34;image-figure&#34;&gt;
+  &lt;img src=&#34;https://images.pexels.com/photos/1250452/pexels-photo-1250452.jpeg?auto=compress&amp;amp;cs=tinysrgb&amp;amp;w=1260&amp;amp;h=750&amp;amp;dpr=1&#34; alt=&#34;banner&#34;  loading=&#34;lazy&#34;&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;My open-source journey began with a contribution to the popular &lt;a href=&#34;https://github.com/fabric8io/docker-maven-plugin&#34;&gt;Docker Maven Plugin&lt;/a&gt;. While my contribution was relatively small—updating dependency versions and refactoring a few methods—it taught me a lot about the process of contributing to open-source projects. I was guided through this experience by &lt;a href=&#34;https://github.com/rohanKanojia&#34;&gt;Rohan Kanojia&lt;/a&gt;, who showed me the ropes of contributing within an organization and maintaining quality in a collaborative environment.&lt;/p&gt;</description>
       
     </item>
