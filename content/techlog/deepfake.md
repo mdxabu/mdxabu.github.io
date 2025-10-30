@@ -1,7 +1,7 @@
 ---
 date : '2025-05-04T19:35:55+05:30'
 draft : false
-title : 'Deepfake: The AI That’s Too Good at Scamming You and Ruining Your Life!'
+title : 'Deepfake: Ruining Your Life!'
 toc : false
 tags: ["social awareness"]
 ---
