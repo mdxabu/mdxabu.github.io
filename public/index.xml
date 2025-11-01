@@ -6,7 +6,40 @@
     <description>Recent content on Mohamed Abdullah</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Oct 2025 22:38:04 +0530</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Nov 2025 17:13:32 +0530</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Enough</title>
+      <link>http://localhost:1313/posts/tired/</link>
+      <pubDate>Sat, 01 Nov 2025 17:13:32 +0530</pubDate>
+      
+      <guid>http://localhost:1313/posts/tired/</guid>
+      
+      <description>&lt;p&gt;These days I&amp;rsquo;m feeling very low and have lost interest in all things.&lt;/p&gt;
+&lt;p&gt;&lt;figure class=&#34;image-figure&#34;&gt;
+  &lt;img src=&#34;https://www.slashfilm.com/img/gallery/blade-runner-2049-ending-explained-a-fresh-twist-on-the-old-chosen-one-narrative/l-intro-1634571326.jpg&#34; alt=&#34;&#34; title=&#34;enough!&#34; loading=&#34;lazy&#34;&gt;&lt;figcaption&gt;enough!&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Enough of being unproductive and just doing useless things for my life!!! Gonna work on myself from Monday (3/11/2025)&amp;hellip;&lt;/p&gt;
+&lt;!-- Comment Section Configurations! --&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;script src=&#34;https://giscus.app/client.js&#34;
+        data-repo=&#34;mdxabu/mdxabu.github.io&#34;
+        data-repo-id=&#34;R_kgDOLs5FtQ&#34;
+        data-category=&#34;Blogs&#34;
+        data-category-id=&#34;DIC_kwDOLs5Ftc4CrYy-&#34;
+        data-mapping=&#34;pathname&#34;
+        data-strict=&#34;0&#34;
+        data-reactions-enabled=&#34;1&#34;
+        data-emit-metadata=&#34;0&#34;
+        data-input-position=&#34;top&#34;
+        data-theme=&#34;light_protanopia&#34;
+        data-lang=&#34;en&#34;
+        crossorigin=&#34;anonymous&#34;
+        async&gt;
+&lt;/script&gt;</description>
+      
+    </item>
+    
     <item>
       <title>Unemployment - Phase II</title>
       <link>http://localhost:1313/posts/unemployment-2/</link>
@@ -33,7 +66,7 @@ But then there are days when it hits me hard. I feel stuck, like I’m not movin
       <guid>http://localhost:1313/techlog/mvn101/</guid>
       
       <description>&lt;p&gt;&lt;figure class=&#34;image-figure&#34;&gt;
-  &lt;img src=&#34;https://i.programmerhumor.io/2024/07/programmerhumor-io-java-memes-programming-memes-9689c09aebaafe6.jpg&#34; alt=&#34;&#34; title=&#34;test&#34; loading=&#34;lazy&#34;&gt;&lt;figcaption&gt;test&lt;/figcaption&gt;&lt;/figure&gt;
+  &lt;img src=&#34;https://i.programmerhumor.io/2024/07/programmerhumor-io-java-memes-programming-memes-9689c09aebaafe6.jpg&#34; alt=&#34;&#34;  loading=&#34;lazy&#34;&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Ah, &lt;strong&gt;Apache Maven&lt;/strong&gt;. The tool that promises to solve your build problems but can occasionally feel like a high school group project where everyone has their own idea of how things should be done. But fear not! Whether you’re new to Maven or just looking to freshen up your knowledge, this guide will help you navigate through the complexities of dependency management and build automation. And yes, we’ve got memes to make it fun.&lt;/p&gt;</description>
       

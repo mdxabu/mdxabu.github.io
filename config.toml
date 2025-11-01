@@ -78,7 +78,7 @@ twitterCardType = "summary_large_image"
 
 [params.author]
 favicon = "icons/favicon.svg"                                  # Path to favicon image in static directory
-avatar = "https://64.media.tumblr.com/c533a09e58fbea892a64a6e9a0570aab/6855af81e2624449-99/s540x810/35eb83523df9ea31f11ae1add4dedcfdd9af19b7.gif"                                                                  # External URL for avatar image
+avatar = "https://i.redd.it/2qzi9lat4ty51.jpg"                                                                  # External URL for avatar image
 intro = "Mohamed Abdullah"
 # name = "Mohamed Abdullah"
 description = "I’m Mohamed, and this is my public space where I talk about things I love."
