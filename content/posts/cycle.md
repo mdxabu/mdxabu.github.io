@@ -38,27 +38,3 @@ I’m still happily riding it with my earphones in!
         <img src="https://i.pinimg.com/474x/15/1c/ef/151cefc772a8dc2fe2a2a4208e329efb.jpg">
 </div>
 
-
-
-
-
-
-
-<!-- Comment Section Configurations! -->
-<br>
-<br>
-<script src="https://giscus.app/client.js"
-        data-repo="mdxabu/mdxabu.github.io"
-        data-repo-id="R_kgDOLs5FtQ"
-        data-category="Blogs"
-        data-category-id="DIC_kwDOLs5Ftc4CrYy-"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="top"
-        data-theme="light_protanopia"
-        data-lang="en"
-        crossorigin="anonymous"
-        async>
-</script>

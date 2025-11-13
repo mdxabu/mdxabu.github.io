@@ -53,22 +53,3 @@ And when I finally get into bed, sleep doesn’t come easily. So, I reach for my
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8vhbTdWqXgU?si=WUBqMCX0VEje84-n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>    
-
-<!-- Comment Section Configurations! -->
-<script src="https://giscus.app/client.js"
-        data-repo="mdxabu/mdxabu.github.io"
-        data-repo-id="R_kgDOLs5FtQ"
-        data-category="Blogs"
-        data-category-id="DIC_kwDOLs5Ftc4CrYy-"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="top"
-        data-theme="light_protanopia"
-        data-lang="en"
-        crossorigin="anonymous"
-        async>
-</script>
-
-

@@ -22,34 +22,3 @@ The goal of the Beehive project is to create a platform that supports marginaliz
 I would like to express my deepest gratitude to Dr. Pradeeban Kathiravelu for his mentorship and support throughout this project. His guidance not only helped me develop technical skills but also gave me invaluable insights into the intersection of technology, healthcare, and social change. I also want to thank the entire team at the University of Alaska Anchorage for running such a wonderful program and providing students like me with the opportunity to learn, grow, and contribute to meaningful projects.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- Comment Section Configurations! -->
-<script src="https://giscus.app/client.js"
-        data-repo="mdxabu/mdxabu.github.io"
-        data-repo-id="R_kgDOLs5FtQ"
-        data-category="Blogs"
-        data-category-id="DIC_kwDOLs5Ftc4CrYy-"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="0"
-        data-emit-metadata="0"
-        data-input-position="top"
-        data-theme="light_protanopia"
-        data-lang="en"
-        crossorigin="anonymous"
-        async>
-</script>
