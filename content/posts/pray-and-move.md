@@ -8,7 +8,7 @@ image: "https://i.pinimg.com/736x/f1/28/45/f128453ec792d74bb02f34fa77660de1.jpg"
 ---
 
 
-Prayer Is Powerful, but Action Is What Brings Results
+Prayer Is Powerful, but Action Is What Brings Results...
 
 People often say, “Just pray and everything will happen for you. Ask big things from God and you’ll receive them.” It sounds comforting, but it leaves out an important truth: prayer alone is not enough.
 
