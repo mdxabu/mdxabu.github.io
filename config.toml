@@ -29,21 +29,25 @@ pageRef = "/"
 name = 'Home'
 url = '/'
 weight = 10
+
 [[menu.main]]
 pageRef = "techlog"
 name = 'Tech Log'
 url = '/techlog'
 weight = 20
+
 [[menu.main]]
 pageRef = "posts"
 name = 'Musings'
 url = '/posts/'
 weight = 30
+
 [[menu.main]]
 pageRef = "news"
 name = 'News'
 url = '/news'
 weight = 40
+
 [[menu.main]]
 pageRef = "projects"
 name = 'Projects'
@@ -78,10 +82,10 @@ twitterCardType = "summary_large_image"
 
 [params.author]
 favicon = "icons/favicon.svg"                                  # Path to favicon image in static directory
-avatar = "https://i.redd.it/2qzi9lat4ty51.jpg"                                                                  # External URL for avatar image
-intro = "Mohamed Abdullah"
-# name = "Mohamed Abdullah"
-description = "I’m Mohamed, and this is my public space where I talk about things I love."
+avatar = "https://i.redd.it/njm8d70cc3lb1.jpg"                                                                  # External URL for avatar image
+name = "Mohamed Abdullah (Abu)"
+username = "@mdxabu"
+description = "I’m Abu, This is where I share what I love."
 
 
 [params.webmanifest]
