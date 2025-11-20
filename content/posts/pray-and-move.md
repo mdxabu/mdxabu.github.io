@@ -55,4 +55,7 @@ Keep your work ethic strong.
 Pray with your heart, and work with your hands.
 That’s where real success is created.
 
+
+**"All is Well"**
+
 ![](https://4kwallpapers.com/images/wallpapers/miyamoto-musashi-3440x1440-15204.jpg)
