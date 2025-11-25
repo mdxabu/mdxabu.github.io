@@ -3,7 +3,7 @@ date : '2025-07-25T21:33:06+05:30'
 draft : false
 title : "Is this project important?"
 toc : true
-tags: ["open source", "project"]
+tags: ["Open source", "Project"]
 image: "https://www.pngitem.com/pimgs/m/788-7882333_wojak-png-transparent-png.png"
 ---
 

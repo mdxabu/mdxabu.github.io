@@ -3,7 +3,7 @@ date : '2025-11-06T13:42:21+05:30'
 draft : false
 title : 'Why SDKMAN?'
 toc : true
-tags: ["open source","java"]
+tags: ["Open source","Java"]
 image: "https://motionarray.imgix.net/motion-array-3131563-wIrwqJkNp6-high_0012.jpg?w=660&q=60&fit=max&auto=format"
 ---
 

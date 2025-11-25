@@ -3,7 +3,7 @@ date : '2025-02-03T10:58:22+05:30'
 draft : false
 title : 'Beware of Fraudulent Loan Apps'
 toc : false
-tags: ["app","social awareness"]
+tags: ["App","Social Awareness"]
 ---
 
 
