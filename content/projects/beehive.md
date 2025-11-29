@@ -48,4 +48,5 @@ This project is both technically sound and socially impactful, giving marginaliz
 
 The project also participated in Google Summer of Code 2025 with Alaska, and Ishaan Gupta contributed outstanding work.
 
+
 See the project here: https://github.com/KathiraveluLab/Beehive
