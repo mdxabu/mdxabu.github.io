@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mohamed Abdullah</title>
-    <link>https://mdxabu.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Mohamed Abdullah</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Nov 2025 11:11:03 +0530</lastBuildDate><atom:link href="https://mdxabu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Nov 2025 11:11:03 +0530</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>So You Want to Get Into Google Summer of Code?</title>
-      <link>https://mdxabu.github.io/techlog/gsoc/</link>
+      <link>http://localhost:1313/techlog/gsoc/</link>
       <pubDate>Tue, 25 Nov 2025 11:11:03 +0530</pubDate>
       
-      <guid>https://mdxabu.github.io/techlog/gsoc/</guid>
+      <guid>http://localhost:1313/techlog/gsoc/</guid>
       
       <description>&lt;h1 id=&#34;let-me-be-honest-for-a-minute&#34;&gt;Let Me Be Honest For A Minute&lt;/h1&gt;
 &lt;p&gt;Every year a wave of students suddenly becomes deeply passionate about open source the moment they hear something about stipends, selections and resume glory. It is almost poetic. What is less poetic is the fact that most people treat open source like a limited time festival instead of an actual community. If your motivation begins and ends with a program name or a payout, you are already starting on the wrong foot.&lt;/p&gt;</description>
@@ -21,10 +21,10 @@
     
     <item>
       <title>Pray and Move</title>
-      <link>https://mdxabu.github.io/posts/pray-and-move/</link>
+      <link>http://localhost:1313/posts/pray-and-move/</link>
       <pubDate>Thu, 20 Nov 2025 22:11:48 +0530</pubDate>
       
-      <guid>https://mdxabu.github.io/posts/pray-and-move/</guid>
+      <guid>http://localhost:1313/posts/pray-and-move/</guid>
       
       <description>&lt;p&gt;Prayer Is Powerful, but Action Is What Brings Results&amp;hellip;&lt;/p&gt;
 &lt;p&gt;People often say, “Just pray and everything will happen for you. Ask big things from God and you’ll receive them.” It sounds comforting, but it leaves out an important truth: prayer alone is not enough.&lt;/p&gt;
@@ -34,10 +34,10 @@
     
     <item>
       <title>The Child I Left Behind</title>
-      <link>https://mdxabu.github.io/posts/unfinished-journey/</link>
+      <link>http://localhost:1313/posts/unfinished-journey/</link>
       <pubDate>Thu, 13 Nov 2025 21:57:49 +0530</pubDate>
       
-      <guid>https://mdxabu.github.io/posts/unfinished-journey/</guid>
+      <guid>http://localhost:1313/posts/unfinished-journey/</guid>
       
       <description>&lt;p&gt;We&amp;rsquo;re all out here grinding, aren&amp;rsquo;t we? Doing everything we&amp;rsquo;re supposed to do. Work, studies, showing up for family, being there for friends when they need us. Ticking all the boxes that society laid out for us.&lt;/p&gt;
 &lt;p&gt;But somewhere in this endless cycle of obligations and expectations, I lost myself. We all did, I think.&lt;/p&gt;
@@ -47,10 +47,10 @@
     
     <item>
       <title>Why SDKMAN?</title>
-      <link>https://mdxabu.github.io/techlog/sdkman/</link>
+      <link>http://localhost:1313/techlog/sdkman/</link>
       <pubDate>Thu, 06 Nov 2025 13:42:21 +0530</pubDate>
       
-      <guid>https://mdxabu.github.io/techlog/sdkman/</guid>
+      <guid>http://localhost:1313/techlog/sdkman/</guid>
       
       <description>&lt;p&gt;If you’ve ever tried contributing to multiple open-source Java projects, you’ve probably run into this:
 Project A needs Java 8, Project B screams for Java 17, and Project C? It says, “Java 21 or I won’t even compile.”&lt;/p&gt;
@@ -65,10 +65,10 @@ Project A needs Java 8, Project B screams for Java 17, and Project C? It says, �
     
     <item>
       <title>Unemployment - Phase II</title>
-      <link>https://mdxabu.github.io/posts/unemployment-2/</link>
+      <link>http://localhost:1313/posts/unemployment-2/</link>
       <pubDate>Sat, 18 Oct 2025 22:38:04 +0530</pubDate>
       
-      <guid>https://mdxabu.github.io/posts/unemployment-2/</guid>
+      <guid>http://localhost:1313/posts/unemployment-2/</guid>
       
       <description>&lt;iframe data-testid=&#34;embed-iframe&#34; style=&#34;border-radius:12px&#34; src=&#34;https://open.spotify.com/embed/track/5vGzsfpKWggKf7xh1xj1iC?utm_source=generator&amp;theme=0&#34; width=&#34;100%&#34; height=&#34;152&#34; frameBorder=&#34;0&#34; allowfullscreen=&#34;&#34; allow=&#34;autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;figure class=&#34;image-figure&#34;&gt;
@@ -83,10 +83,10 @@ But then there are days when it hits me hard. I feel stuck, like I’m not movin
     
     <item>
       <title>Maven Tutorial 101</title>
-      <link>https://mdxabu.github.io/techlog/mvn101/</link>
+      <link>http://localhost:1313/techlog/mvn101/</link>
       <pubDate>Fri, 17 Oct 2025 15:01:51 +0530</pubDate>
       
-      <guid>https://mdxabu.github.io/techlog/mvn101/</guid>
+      <guid>http://localhost:1313/techlog/mvn101/</guid>
       
       <description>&lt;p&gt;&lt;figure class=&#34;image-figure&#34;&gt;
   &lt;img src=&#34;https://i.programmerhumor.io/2024/07/programmerhumor-io-java-memes-programming-memes-9689c09aebaafe6.jpg&#34; alt=&#34;&#34;  loading=&#34;lazy&#34;&gt;&lt;/figure&gt;
@@ -97,10 +97,10 @@ But then there are days when it hits me hard. I feel stuck, like I’m not movin
     
     <item>
       <title>Unemployment - Phase I</title>
-      <link>https://mdxabu.github.io/posts/unemployment-i/</link>
+      <link>http://localhost:1313/posts/unemployment-i/</link>
       <pubDate>Wed, 17 Sep 2025 22:37:25 +0530</pubDate>
       
-      <guid>https://mdxabu.github.io/posts/unemployment-i/</guid>
+      <guid>http://localhost:1313/posts/unemployment-i/</guid>
       
       <description>&lt;iframe data-testid=&#34;embed-iframe&#34; style=&#34;border-radius:12px&#34; src=&#34;https://open.spotify.com/embed/track/5vGzsfpKWggKf7xh1xj1iC?utm_source=generator&amp;theme=0&#34; width=&#34;100%&#34; height=&#34;152&#34; frameBorder=&#34;0&#34; allowfullscreen=&#34;&#34; allow=&#34;autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;The last four months have been as precious as gems because I spent them in my home, in my bed, doing absolutely nothing.&lt;/p&gt;
@@ -111,10 +111,10 @@ But then there are days when it hits me hard. I feel stuck, like I’m not movin
     
     <item>
       <title>Pedaling Through Time</title>
-      <link>https://mdxabu.github.io/posts/cycle/</link>
+      <link>http://localhost:1313/posts/cycle/</link>
       <pubDate>Sat, 13 Sep 2025 19:26:23 +0530</pubDate>
       
-      <guid>https://mdxabu.github.io/posts/cycle/</guid>
+      <guid>http://localhost:1313/posts/cycle/</guid>
       
       <description>&lt;iframe data-testid=&#34;embed-iframe&#34; style=&#34;border-radius:12px&#34; src=&#34;https://open.spotify.com/embed/track/30MUg69xz21zFaiOEHh9sL?utm_source=generator&amp;theme=0&#34; width=&#34;100%&#34; height=&#34;152&#34; frameBorder=&#34;0&#34; allowfullscreen=&#34;&#34; allow=&#34;autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;First of all, play the music above and read this blog :)&lt;/p&gt;
@@ -124,10 +124,10 @@ But then there are days when it hits me hard. I feel stuck, like I’m not movin
     
     <item>
       <title>The Moment of a Lifetime</title>
-      <link>https://mdxabu.github.io/posts/umrah2025/</link>
+      <link>http://localhost:1313/posts/umrah2025/</link>
       <pubDate>Mon, 01 Sep 2025 21:51:38 +0530</pubDate>
       
-      <guid>https://mdxabu.github.io/posts/umrah2025/</guid>
+      <guid>http://localhost:1313/posts/umrah2025/</guid>
       
       <description>&lt;p&gt;This trip was everyone&amp;rsquo;s dream and I got the chance to go!!! It was my first international trip and I hadn&amp;rsquo;t even seen many places in Tamil Nadu itself like Ooty and Kodaikanal!&lt;/p&gt;
 &lt;p&gt;With the Google Summer of Code 2025 first stipend, I planned to perform Umrah in August itself, and I started to enquire about the Umrah packages from different travel agencies.&lt;/p&gt;
@@ -137,10 +137,10 @@ But then there are days when it hits me hard. I feel stuck, like I’m not movin
     
     <item>
       <title>Silent Glances</title>
-      <link>https://mdxabu.github.io/posts/silent-glances/</link>
+      <link>http://localhost:1313/posts/silent-glances/</link>
       <pubDate>Mon, 04 Aug 2025 22:09:15 +0530</pubDate>
       
-      <guid>https://mdxabu.github.io/posts/silent-glances/</guid>
+      <guid>http://localhost:1313/posts/silent-glances/</guid>
       
       <description>&lt;iframe data-testid=&#34;embed-iframe&#34; style=&#34;border-radius:12px&#34; src=&#34;https://open.spotify.com/embed/track/6Xejo9F1hr17aXInilcKZ7?utm_source=generator&#34; width=&#34;100%&#34; height=&#34;152&#34; frameBorder=&#34;0&#34; allowfullscreen=&#34;&#34; allow=&#34;autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;A smile that has lost its sight,&lt;br&gt;
@@ -156,10 +156,10 @@ But the one who doesn&amp;rsquo;t answer, remains a flower.&lt;/p&gt;</descripti
     
     <item>
       <title>Who Decides for You?</title>
-      <link>https://mdxabu.github.io/posts/who-decides-for-you/</link>
+      <link>http://localhost:1313/posts/who-decides-for-you/</link>
       <pubDate>Fri, 01 Aug 2025 21:37:32 +0530</pubDate>
       
-      <guid>https://mdxabu.github.io/posts/who-decides-for-you/</guid>
+      <guid>http://localhost:1313/posts/who-decides-for-you/</guid>
       
       <description>&lt;p&gt;Lately, I’ve been thinking about how often people try to interfere with decisions that are really no one’s business but your own. Not just close family, but people outside that circle. Distant relatives, neighbors, family friends, and sometimes even people who barely know you. They ask questions like, “Why didn’t you tell me first?” or “You should’ve asked me,” as if your personal choices need to go through some kind of approval system.&lt;/p&gt;</description>
       
@@ -167,10 +167,10 @@ But the one who doesn&amp;rsquo;t answer, remains a flower.&lt;/p&gt;</descripti
     
     <item>
       <title>Happy Birthday, My friend</title>
-      <link>https://mdxabu.github.io/posts/hbd-my-friend/</link>
+      <link>http://localhost:1313/posts/hbd-my-friend/</link>
       <pubDate>Tue, 29 Jul 2025 22:10:04 +0530</pubDate>
       
-      <guid>https://mdxabu.github.io/posts/hbd-my-friend/</guid>
+      <guid>http://localhost:1313/posts/hbd-my-friend/</guid>
       
       <description>&lt;p&gt;Happy Birthday, My Friend!&lt;/p&gt;
 &lt;p&gt;First of all Happy Birthday, my friend! 🎉&lt;/p&gt;
@@ -184,10 +184,10 @@ But the one who doesn&amp;rsquo;t answer, remains a flower.&lt;/p&gt;</descripti
     
     <item>
       <title>Is this project important?</title>
-      <link>https://mdxabu.github.io/techlog/is-this-project-important/</link>
+      <link>http://localhost:1313/techlog/is-this-project-important/</link>
       <pubDate>Fri, 25 Jul 2025 21:33:06 +0530</pubDate>
       
-      <guid>https://mdxabu.github.io/techlog/is-this-project-important/</guid>
+      <guid>http://localhost:1313/techlog/is-this-project-important/</guid>
       
       <description>&lt;p&gt;So I had this weird idea: what if I could run Docker containers that only use IPv6, but still let them connect to all the old-school IPv4-only services that most of the internet still runs on?&lt;/p&gt;
 &lt;p&gt;it’s not something Docker just magically does out of the box, but it turns out&amp;hellip; with a little NAT64 and DNS64 magic, you can actually make it work.&lt;/p&gt;
@@ -198,10 +198,10 @@ But the one who doesn&amp;rsquo;t answer, remains a flower.&lt;/p&gt;</descripti
     
     <item>
       <title>Hearts Rise Unexpectedly</title>
-      <link>https://mdxabu.github.io/posts/to-see/</link>
+      <link>http://localhost:1313/posts/to-see/</link>
       <pubDate>Sun, 20 Jul 2025 22:52:46 +0530</pubDate>
       
-      <guid>https://mdxabu.github.io/posts/to-see/</guid>
+      <guid>http://localhost:1313/posts/to-see/</guid>
       
       <description>&lt;p&gt;Sometimes life can be unpredictable, with sudden downfalls, but some small things can make you feel overwhelmed and great about living!&lt;/p&gt;
 &lt;p&gt;I had a moment like this!&lt;/p&gt;
@@ -212,10 +212,10 @@ But the one who doesn&amp;rsquo;t answer, remains a flower.&lt;/p&gt;</descripti
     
     <item>
       <title>The Night You Decide to Change</title>
-      <link>https://mdxabu.github.io/posts/the-night-you-decide-to-change/</link>
+      <link>http://localhost:1313/posts/the-night-you-decide-to-change/</link>
       <pubDate>Sun, 29 Jun 2025 21:22:50 +0530</pubDate>
       
-      <guid>https://mdxabu.github.io/posts/the-night-you-decide-to-change/</guid>
+      <guid>http://localhost:1313/posts/the-night-you-decide-to-change/</guid>
       
       <description>&lt;p&gt;There comes a night was very quiet, a little heavier than usual and you realized that you’ve messed up your life.&lt;/p&gt;
 &lt;p&gt;Not in a dramatic or world-ending way, but in a way that makes you feel uncomfortable in your own skin.&lt;/p&gt;
@@ -233,10 +233,10 @@ A little “Who have I become?”&lt;/p&gt;
     
     <item>
       <title>Be Grateful and Kind</title>
-      <link>https://mdxabu.github.io/posts/be-grateful/</link>
+      <link>http://localhost:1313/posts/be-grateful/</link>
       <pubDate>Tue, 27 May 2025 21:06:56 +0530</pubDate>
       
-      <guid>https://mdxabu.github.io/posts/be-grateful/</guid>
+      <guid>http://localhost:1313/posts/be-grateful/</guid>
       
       <description>&lt;p&gt;I want to share a childhood incident that made me grateful for everything and taught me to be patient.&lt;/p&gt;
 &lt;p&gt;Between the ages of 12 and 16, all my friends had bicycles. I also asked my parents to buy me one, but they didn&amp;rsquo;t.&lt;/p&gt;
@@ -246,10 +246,10 @@ A little “Who have I become?”&lt;/p&gt;
     
     <item>
       <title>Depressed.</title>
-      <link>https://mdxabu.github.io/posts/depressed/</link>
+      <link>http://localhost:1313/posts/depressed/</link>
       <pubDate>Thu, 22 May 2025 09:26:07 +0530</pubDate>
       
-      <guid>https://mdxabu.github.io/posts/depressed/</guid>
+      <guid>http://localhost:1313/posts/depressed/</guid>
       
       <description>&lt;p&gt;&lt;figure class=&#34;image-figure&#34;&gt;
   &lt;img src=&#34;https://preview.redd.it/lee-chandler-doesnt-leave-you-alone-after-watching-v0-1sodg8fecrge1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=17eac35541dd8ccfca7de73697073fe0478a6449&#34; alt=&#34;&#34;  loading=&#34;lazy&#34;&gt;&lt;/figure&gt;
@@ -263,10 +263,10 @@ A little “Who have I become?”&lt;/p&gt;
     
     <item>
       <title>Deepfake: Ruining Your Life!</title>
-      <link>https://mdxabu.github.io/techlog/deepfake/</link>
+      <link>http://localhost:1313/techlog/deepfake/</link>
       <pubDate>Sun, 04 May 2025 19:35:55 +0530</pubDate>
       
-      <guid>https://mdxabu.github.io/techlog/deepfake/</guid>
+      <guid>http://localhost:1313/techlog/deepfake/</guid>
       
       <description>&lt;h2 id=&#34;deepfake-technology-a-double-edged-knife&#34;&gt;Deepfake Technology: A Double-Edged Knife&lt;/h2&gt;
 &lt;p&gt;Deepfake technology, which involves the manipulation of images, videos, or audio using artificial intelligence, has emerged as one of the most dangerous advancements in recent years. While deepfakes have legitimate uses in entertainment, such as resurrecting deceased celebrities for films or creating AI-generated voices for songs, their negative impact has been growing—particularly in the world of scams and blackmail.&lt;/p&gt;
@@ -277,10 +277,10 @@ A little “Who have I become?”&lt;/p&gt;
     
     <item>
       <title>How to Waste a CS Degree 101: A Masterclass by My College</title>
-      <link>https://mdxabu.github.io/posts/toxic-education-system/</link>
+      <link>http://localhost:1313/posts/toxic-education-system/</link>
       <pubDate>Tue, 22 Apr 2025 11:14:25 +0530</pubDate>
       
-      <guid>https://mdxabu.github.io/posts/toxic-education-system/</guid>
+      <guid>http://localhost:1313/posts/toxic-education-system/</guid>
       
       <description>&lt;h2 id=&#34;the-art-of-useless-electives&#34;&gt;The Art of Useless Electives&lt;/h2&gt;
 &lt;p&gt;I&amp;rsquo;ve held onto a lot of vengeance toward my college because of their actions and the useless courses they force on computer science students. Every semester, we have to pick 2-3 open elective subjects. There are so many actually useful electives for computer science like cloud computing or application development, but what do they pick? Social studies and environmental science. Completely unrelated! They choose these subjects because they&amp;rsquo;re easy to teach, not because they&amp;rsquo;re relevant. And even then, they can&amp;rsquo;t teach them properly. Absolutely fucking not.&lt;/p&gt;</description>
@@ -289,14 +289,14 @@ A little “Who have I become?”&lt;/p&gt;
     
     <item>
       <title>Alaskan Season of Code</title>
-      <link>https://mdxabu.github.io/techlog/asoc/</link>
+      <link>http://localhost:1313/techlog/asoc/</link>
       <pubDate>Sun, 06 Apr 2025 11:51:43 +0530</pubDate>
       
-      <guid>https://mdxabu.github.io/techlog/asoc/</guid>
+      <guid>http://localhost:1313/techlog/asoc/</guid>
       
       <description>&lt;p&gt;Alaskan Season of Code is a volunteer-based, remote coding program where students collaborate on open-source projects, learning not just technical skills, but also how to work within a diverse, interdisciplinary environment. The program is designed to connect students with faculty mentors from the University of Alaska.&lt;/p&gt;
 &lt;p&gt;For more information, you can read about the program &lt;a href=&#34;https://github.com/uaanchorage/GSoC/blob/main/Alaskan-Season-of-Code.md&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
-&lt;embed src=&#34;https://mdxabu.github.io/assets/asoc.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34; /&gt;
+&lt;embed src=&#34;http://localhost:1313/assets/asoc.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34; /&gt;
 &lt;h1 id=&#34;my-role-in-the-program&#34;&gt;My Role in the Program&lt;/h1&gt;
 &lt;p&gt;I was fortunate enough to participate in this program from May 1st, 2024, to September 15th, 2024, under the mentorship of Dr. Pradeeban Kathiravelu, an Assistant Professor of Computer Science at the University of Alaska Anchorage. During the internship, I worked on the Beehive project, a data federation approach to analyze behavioral health and complement healthcare practices with community health metrics in Alaska.&lt;/p&gt;</description>
       
@@ -304,10 +304,10 @@ A little “Who have I become?”&lt;/p&gt;
     
     <item>
       <title>Beware of Fraudulent Loan Apps</title>
-      <link>https://mdxabu.github.io/techlog/fraud-loan-apps/</link>
+      <link>http://localhost:1313/techlog/fraud-loan-apps/</link>
       <pubDate>Mon, 03 Feb 2025 10:58:22 +0530</pubDate>
       
-      <guid>https://mdxabu.github.io/techlog/fraud-loan-apps/</guid>
+      <guid>http://localhost:1313/techlog/fraud-loan-apps/</guid>
       
       <description>&lt;p&gt;&lt;figure class=&#34;image-figure&#34;&gt;
   &lt;img src=&#34;https://images.indianexpress.com/2023/12/fraud-loan-app.jpg&#34; alt=&#34;&#34; title=&#34;fraud apps&#34; loading=&#34;lazy&#34;&gt;&lt;figcaption&gt;fraud apps&lt;/figcaption&gt;&lt;/figure&gt;
@@ -320,10 +320,10 @@ A little “Who have I become?”&lt;/p&gt;
     
     <item>
       <title>Beehive: Leveraging the Expression of Marginalised Peoples.</title>
-      <link>https://mdxabu.github.io/projects/beehive/</link>
+      <link>http://localhost:1313/projects/beehive/</link>
       <pubDate>Thu, 23 Jan 2025 16:57:43 +0530</pubDate>
       
-      <guid>https://mdxabu.github.io/projects/beehive/</guid>
+      <guid>http://localhost:1313/projects/beehive/</guid>
       
       <description>&lt;p&gt;This project is compelling for its core aim of supporting marginalised people. Many individuals use art to express their emotions, and this work helps researchers understand behavioral and emotional patterns within these communities.&lt;/p&gt;
 &lt;h2 id=&#34;beehive&#34;&gt;Beehive&lt;/h2&gt;
@@ -334,10 +334,10 @@ A little “Who have I become?”&lt;/p&gt;
     
     <item>
       <title>My Open Source Journey in 2024</title>
-      <link>https://mdxabu.github.io/techlog/opensource2024/</link>
+      <link>http://localhost:1313/techlog/opensource2024/</link>
       <pubDate>Tue, 31 Dec 2024 21:00:28 +0530</pubDate>
       
-      <guid>https://mdxabu.github.io/techlog/opensource2024/</guid>
+      <guid>http://localhost:1313/techlog/opensource2024/</guid>
       
       <description>&lt;p&gt;&lt;figure class=&#34;image-figure&#34;&gt;
   &lt;img src=&#34;https://images.pexels.com/photos/2041638/pexels-photo-2041638.jpeg?auto=compress&amp;amp;cs=tinysrgb&amp;amp;w=1260&amp;amp;h=750&amp;amp;dpr=1&#34; alt=&#34;banner&#34;  loading=&#34;lazy&#34;&gt;&lt;/figure&gt;
@@ -354,10 +354,10 @@ A little “Who have I become?”&lt;/p&gt;
     
     <item>
       <title>News</title>
-      <link>https://mdxabu.github.io/news/</link>
+      <link>http://localhost:1313/news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mdxabu.github.io/news/</guid>
+      <guid>http://localhost:1313/news/</guid>
       
       <description>&lt;ul&gt;
 &lt;li&gt;
@@ -373,7 +373,7 @@ A little “Who have I become?”&lt;/p&gt;
 &lt;p&gt;08/05/2025 - Got Selected for &lt;code&gt;GSoC 2025&lt;/code&gt; with Organization &lt;code&gt;Alaska&lt;/code&gt;.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;15/09/2024 - Completed my &lt;a href=&#34;https://mdxabu.github.io/posts/asoc&#34;&gt;Alaskan Season of Code&lt;/a&gt; for &lt;code&gt;Beehive Project&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;15/09/2024 - Completed my &lt;a href=&#34;http://localhost:1313/techlog/asoc&#34;&gt;Alaskan Season of Code&lt;/a&gt; for &lt;code&gt;Beehive Project&lt;/code&gt;.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;01/05/2024 - Rejected for GSoC 2024 with Organization &lt;code&gt;Alaska&lt;/code&gt;.&lt;/p&gt;
