@@ -56,6 +56,6 @@ Pray with your heart, and work with your hands.
 That’s where real success is created.
 
 
-**"All is Well"**
+# *<center> All is Well </center>*
 
 ![](https://4kwallpapers.com/images/wallpapers/miyamoto-musashi-3440x1440-15204.jpg)
