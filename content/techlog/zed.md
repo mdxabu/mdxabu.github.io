@@ -23,7 +23,7 @@ Zed even has its own AI agents! But since I have access to the Student Developer
 
 While Zed's AI features aren’t fully polished yet, they’re definitely usable. The overall experience is very smooth, especially if you’re into AI-assisted development.
 
-Zed offers a lot of great features, and I’ve highlighted some of my favorites that really set it apart from other editors. Even if you're not ready to make the switch, I highly encourage you to give it a try—it's an awesome editor, and I think you’ll love using it.
+Zed offers a lot of great features, and I’ve highlighted some of my favorites that really set it apart from other editors. Even if you're not ready to make the switch, I highly encourage you to give it a try. It's an awesome editor, and I think you’ll love using it.
 
 Below is my settings.json file configuration:
 
