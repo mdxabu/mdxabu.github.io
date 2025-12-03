@@ -82,7 +82,7 @@ twitterCardType = "summary_large_image"
 
 [params.author]
 favicon = "icons/favicon.svg"                                  # Path to favicon image in static directory
-avatar = "https://pbs.twimg.com/profile_images/1982780397676113920/iBBpIxsx_400x400.jpg"                                                                  # External URL for avatar image
+avatar = "https://cdn.bsky.app/img/avatar/plain/did:plc:lxumoihgzdaiwkg2kwexwqur/bafkreielysw523233w3kktxdgtjsh7xn2mkpf32ojde6nfgsri2g762dyi@jpeg"                                                                  # External URL for avatar image
 name = "Mohamed Abdullah (Abu)"
 username = "@mdxabu"
 description = "I’m Abu, This is where I share what I love."
