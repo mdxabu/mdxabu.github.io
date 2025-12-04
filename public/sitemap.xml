@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/mental-health/</loc>
+    <lastmod>2025-12-04T21:13:37+05:30</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2025-12-04T21:13:37+05:30</lastmod>
   </url><url>
@@ -11,13 +14,16 @@
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-12-04T21:13:37+05:30</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/slice-of-life/</loc>
+    <lastmod>2025-12-04T21:13:37+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-12-04T21:13:37+05:30</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/ide/</loc>
     <lastmod>2025-12-03T19:54:57+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/open-source/</loc>
-    <lastmod>2025-12-03T19:54:57+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-12-03T19:54:57+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/techlog/</loc>
@@ -35,13 +41,7 @@
     <loc>http://localhost:1313/techlog/gsoc/</loc>
     <lastmod>2025-11-25T11:11:03+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/mental-health/</loc>
-    <lastmod>2025-11-20T22:11:48+05:30</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/pray-and-move/</loc>
-    <lastmod>2025-11-20T22:11:48+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/slice-of-life/</loc>
     <lastmod>2025-11-20T22:11:48+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/unfinished-journey/</loc>
