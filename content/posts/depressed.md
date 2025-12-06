@@ -3,7 +3,7 @@ date: '2025-05-22T09:26:07+05:30'
 draft: false
 title: 'Depressed.'
 toc: false
-tags: ["slice of life","mental health"]
+tags: ["Slice of Life","Mental Health"]
 ---
 ![](https://preview.redd.it/lee-chandler-doesnt-leave-you-alone-after-watching-v0-1sodg8fecrge1.png?width=640&crop=smart&auto=webp&s=17eac35541dd8ccfca7de73697073fe0478a6449)
 

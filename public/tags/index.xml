@@ -6,13 +6,35 @@
     <description>Recent content in Tags on Mohamed Abdullah</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Dec 2025 21:13:37 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Dec 2025 20:37:34 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Slice of Life</title>
       <link>http://localhost:1313/tags/slice-of-life/</link>
-      <pubDate>Thu, 04 Dec 2025 21:13:37 +0530</pubDate>
+      <pubDate>Sat, 06 Dec 2025 20:37:34 +0530</pubDate>
       
       <guid>http://localhost:1313/tags/slice-of-life/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>http://localhost:1313/tags/education/</link>
+      <pubDate>Sat, 06 Dec 2025 20:37:34 +0530</pubDate>
+      
+      <guid>http://localhost:1313/tags/education/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Community</title>
+      <link>http://localhost:1313/tags/community/</link>
+      <pubDate>Sat, 06 Dec 2025 20:37:34 +0530</pubDate>
+      
+      <guid>http://localhost:1313/tags/community/</guid>
       
       <description></description>
       
@@ -63,17 +85,6 @@
     </item>
     
     <item>
-      <title>Community</title>
-      <link>http://localhost:1313/tags/community/</link>
-      <pubDate>Tue, 25 Nov 2025 11:11:03 +0530</pubDate>
-      
-      <guid>http://localhost:1313/tags/community/</guid>
-      
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Java</title>
       <link>http://localhost:1313/tags/java/</link>
       <pubDate>Thu, 06 Nov 2025 13:42:21 +0530</pubDate>
@@ -112,17 +123,6 @@
       <pubDate>Sun, 04 May 2025 19:35:55 +0530</pubDate>
       
       <guid>http://localhost:1313/tags/social-awareness/</guid>
-      
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Education</title>
-      <link>http://localhost:1313/tags/education/</link>
-      <pubDate>Tue, 22 Apr 2025 11:14:25 +0530</pubDate>
-      
-      <guid>http://localhost:1313/tags/education/</guid>
       
       <description></description>
       

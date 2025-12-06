@@ -3,7 +3,7 @@ date : '2025-09-17T22:37:25+05:30'
 draft : false
 title : 'Unemployment - Phase I'
 toc : false
-tags: ["slice of life", "mental health"]
+tags: ["Slice of Life", "Mental Health"]
 image: "https://content.imageresizer.com/images/memes/There-is-Nothing-We-Can-Do-meme-803pij.jpg"
 ---
 

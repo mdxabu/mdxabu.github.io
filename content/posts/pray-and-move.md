@@ -3,7 +3,7 @@ date : '2025-11-20T22:11:48+05:30'
 draft : false
 title : 'Pray and Move'
 toc : false
-tags: ["slice of life", "mental health"]
+tags: ["Slice of Life", "Mental Health"]
 image: "https://i.pinimg.com/736x/f1/28/45/f128453ec792d74bb02f34fa77660de1.jpg"
 ---
 

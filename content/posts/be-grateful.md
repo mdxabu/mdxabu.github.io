@@ -3,7 +3,7 @@ date: '2025-05-27T21:06:56+05:30'
 draft: false
 title: 'Be Grateful and Kind'
 toc: false
-tags: ["slice of life","mental health"]
+tags: ["Slice of Life","Mental Health"]
 ---
 
 I want to share a childhood incident that made me grateful for everything and taught me to be patient.

@@ -3,7 +3,7 @@ date : '2025-09-13T19:26:23+05:30'
 draft : false
 title : 'Pedaling Through Time'
 toc : false
-tags: ["slice of life"]
+tags: ["Slice of Life"]
 image: "https://www.artzolo.com/cdn/shop/files/Forgotten-BiCycle-and-old-wall-ArtZolo-com-1656.jpg?v=1706724578"
 ---
 

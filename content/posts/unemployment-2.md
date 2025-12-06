@@ -3,7 +3,7 @@ date : '2025-10-18T22:38:04+05:30'
 draft : false
 title : 'Unemployment - Phase II'
 toc : false
-tags: ["slice of life", "mental health"]
+tags: ["Slice of Life", "Mental Health"]
 image: "https://wallpapers.com/images/hd/vaaranam-aayiram-surya-with-furrowed-brow-t82dat5ckynjle2x.jpg"
 ---
 

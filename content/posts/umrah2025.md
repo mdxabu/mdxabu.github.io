@@ -3,7 +3,7 @@ date : '2025-09-01T21:51:38+05:30'
 draft : false
 title : 'The Moment of a Lifetime'
 toc : false
-tags: ["slice of life", "travel"]
+tags: ["Slice of Life", "Travel"]
 image: "https://images.pexels.com/photos/3911869/pexels-photo-3911869.jpeg?cs=srgb&dl=pexels-dimasnaufalf-3911869.jpg&fm=jpg"
 ---
 
