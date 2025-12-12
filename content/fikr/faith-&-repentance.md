@@ -4,7 +4,7 @@ draft : false
 title : 'Faith & Repentance'
 toc : false
 tags: ["Faith","Repent"]
-image: ""
+image: "https://images.saatchiart.com/saatchi/848088/art/11663611/10725851-EDVPUUMZ-7.jpg"
 ---
 
 
