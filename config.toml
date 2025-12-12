@@ -55,10 +55,16 @@ url = '/projects/'
 weight = 50
 
 [[menu.main]]
+pageRef="fikr"
+name="Fikr"
+url="/fikr"
+weight = 60
+
+[[menu.main]]
 pageRef = "tags"
 name = 'Tags'
 url = '/tags/'
-weight = 60
+weight = 70
 
 
 [params]

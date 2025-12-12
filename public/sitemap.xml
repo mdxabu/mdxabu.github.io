@@ -2,6 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/faith/</loc>
+    <lastmod>2025-12-12T22:03:41+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fikr/faith--repentance/</loc>
+    <lastmod>2025-12-12T22:03:41+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fikr/</loc>
+    <lastmod>2025-12-12T22:03:41+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-12-12T22:03:41+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/repent/</loc>
+    <lastmod>2025-12-12T22:03:41+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-12-12T22:03:41+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/enna-panrathune-therlaye/</loc>
+    <lastmod>2025-12-10T23:19:49+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/mental-health/</loc>
+    <lastmod>2025-12-10T23:19:49+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-12-10T23:19:49+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/slice-of-life/</loc>
+    <lastmod>2025-12-10T23:19:49+05:30</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/community/</loc>
     <lastmod>2025-12-06T20:37:34+05:30</lastmod>
   </url><url>
@@ -10,21 +40,6 @@
   </url><url>
     <loc>http://localhost:1313/posts/uni-scams/</loc>
     <lastmod>2025-12-06T20:37:34+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-12-06T20:37:34+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-12-06T20:37:34+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/slice-of-life/</loc>
-    <lastmod>2025-12-06T20:37:34+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-12-06T20:37:34+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/mental-health/</loc>
-    <lastmod>2025-12-04T21:13:37+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/no-respect/</loc>
     <lastmod>2025-12-04T21:13:37+05:30</lastmod>
