@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/faith/</loc>
-    <lastmod>2025-12-12T22:03:41+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/fikr/faith--repentance/</loc>
-    <lastmod>2025-12-12T22:03:41+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/fikr/</loc>
-    <lastmod>2025-12-12T22:03:41+05:30</lastmod>
+    <loc>http://localhost:1313/tags/community/</loc>
+    <lastmod>2025-12-14T10:45:48+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-12-12T22:03:41+05:30</lastmod>
+    <lastmod>2025-12-14T10:45:48+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/repent/</loc>
-    <lastmod>2025-12-12T22:03:41+05:30</lastmod>
+    <loc>http://localhost:1313/tags/open-source/</loc>
+    <lastmod>2025-12-14T10:45:48+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/techlog/2025-oss/</loc>
+    <lastmod>2025-12-14T10:45:48+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-12-12T22:03:41+05:30</lastmod>
+    <lastmod>2025-12-14T10:45:48+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/techlog/</loc>
+    <lastmod>2025-12-14T10:45:48+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/enna-panrathune-therlaye/</loc>
     <lastmod>2025-12-10T23:19:49+05:30</lastmod>
@@ -32,9 +32,6 @@
     <loc>http://localhost:1313/tags/slice-of-life/</loc>
     <lastmod>2025-12-10T23:19:49+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/community/</loc>
-    <lastmod>2025-12-06T20:37:34+05:30</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/education/</loc>
     <lastmod>2025-12-06T20:37:34+05:30</lastmod>
   </url><url>
@@ -45,12 +42,6 @@
     <lastmod>2025-12-04T21:13:37+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/ide/</loc>
-    <lastmod>2025-12-03T19:54:57+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/open-source/</loc>
-    <lastmod>2025-12-03T19:54:57+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/techlog/</loc>
     <lastmod>2025-12-03T19:54:57+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/techlog/zed/</loc>

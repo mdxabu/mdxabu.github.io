@@ -6,7 +6,20 @@
     <description>Recent content in Community on Mohamed Abdullah</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Dec 2025 20:37:34 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/community/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Dec 2025 10:45:48 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/community/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open Source Software that i used in 2025</title>
+      <link>http://localhost:1313/techlog/2025-oss/</link>
+      <pubDate>Sun, 14 Dec 2025 10:45:48 +0530</pubDate>
+      
+      <guid>http://localhost:1313/techlog/2025-oss/</guid>
+      
+      <description>&lt;h1 id=&#34;zed&#34;&gt;Zed&lt;/h1&gt;
+&lt;p&gt;I use Zed as a primary code editor! Zed is an open-source code editor for Linux, macOS, and Windows written using the Rust programming language. It was started by Nathan Sobo, one of the creators of Atom, and is developed by Zed Industries. The editor itself is free to use, but users must pay to use some of the AI features.&lt;/p&gt;
+&lt;p&gt;This code editor was good and distraction free!&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>Four Years for What?</title>
       <link>http://localhost:1313/posts/uni-scams/</link>
