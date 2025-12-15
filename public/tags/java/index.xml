@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Java on Mohamed Abdullah</title>
-    <link>http://localhost:49904/tags/java/</link>
+    <link>https://mdxabu.github.io/tags/java/</link>
     <description>Recent content in Java on Mohamed Abdullah</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Nov 2025 13:42:21 +0530</lastBuildDate><atom:link href="http://localhost:49904/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Nov 2025 13:42:21 +0530</lastBuildDate><atom:link href="https://mdxabu.github.io/tags/java/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why SDKMAN?</title>
-      <link>http://localhost:49904/techlog/sdkman/</link>
+      <link>https://mdxabu.github.io/techlog/sdkman/</link>
       <pubDate>Thu, 06 Nov 2025 13:42:21 +0530</pubDate>
       
-      <guid>http://localhost:49904/techlog/sdkman/</guid>
+      <guid>https://mdxabu.github.io/techlog/sdkman/</guid>
       
       <description>&lt;p&gt;If you’ve ever tried contributing to multiple open-source Java projects, you’ve probably run into this:
 Project A needs Java 8, Project B screams for Java 17, and Project C? It says, “Java 21 or I won’t even compile.”&lt;/p&gt;
@@ -27,10 +27,10 @@ Project A needs Java 8, Project B screams for Java 17, and Project C? It says, �
     
     <item>
       <title>Maven Tutorial 101</title>
-      <link>http://localhost:49904/techlog/mvn101/</link>
+      <link>https://mdxabu.github.io/techlog/mvn101/</link>
       <pubDate>Fri, 17 Oct 2025 15:01:51 +0530</pubDate>
       
-      <guid>http://localhost:49904/techlog/mvn101/</guid>
+      <guid>https://mdxabu.github.io/techlog/mvn101/</guid>
       
       <description>&lt;p&gt;&lt;figure class=&#34;image-figure&#34;&gt;
   &lt;img src=&#34;https://i.programmerhumor.io/2024/07/programmerhumor-io-java-memes-programming-memes-9689c09aebaafe6.jpg&#34; alt=&#34;&#34;  loading=&#34;lazy&#34;&gt;&lt;/figure&gt;

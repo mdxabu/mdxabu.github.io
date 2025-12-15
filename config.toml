@@ -71,6 +71,7 @@ toc = true
 goToTop = true
 additionalScripts = ['js/custom.js', 'js/custom-2.js']
 dateFormat = "January 2, 2006"
+comments = true
 favicon = true
 faviconSVG = true
 # Default social sharing image (needs to be in the static directory)

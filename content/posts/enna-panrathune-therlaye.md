@@ -3,6 +3,7 @@ date : '2025-12-10T23:19:49+05:30'
 draft : false
 title : 'Enna Panrathune Therlaye'
 toc : false
+comments: false
 tags: ["Slice of Life","Mental Health"]
 image: "https://d1itqg25xtlgws.cloudfront.net/thumb/EAOaUETUgdrL3pLIlvyp8SZjcR7SMWWODnUbTfSR.png"
 ---
