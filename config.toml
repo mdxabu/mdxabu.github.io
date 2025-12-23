@@ -1,4 +1,4 @@
-title = "Mohamed Abdullah"
+title = "M."
 baseURL = 'https://mdxabu.github.io'
 languageCode = 'en-us'
 # image = 'Abu.jpg'
@@ -84,8 +84,8 @@ twitterCardType = "summary_large_image"
 
 [params.author]
 favicon = "icons/favicon.svg"                                  # Path to favicon image in static directory
-avatar = "https://cdn.bsky.app/img/avatar/plain/did:plc:lxumoihgzdaiwkg2kwexwqur/bafkreicw3db7lgmgaldqndxmjf5baxdchpjnwex6qpyqr7azeu6n3tce7u@jpeg"                                                                  # External URL for avatar image
-name = "Mohamed Abdullah (Abu)"
+avatar = "https://pbs.twimg.com/profile_images/2003428997208928256/NXpYyBKA_400x400.jpg"                                                                  # External URL for avatar image
+name = "M. (Abu)"
 username = "@mdxabu"
 description = "I’m Abu, This is where I share what I love."
 
