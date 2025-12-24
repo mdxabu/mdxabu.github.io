@@ -55,8 +55,7 @@
 
 
 <meta property="og:title" content="Subscribe | M." />
-<meta property="og:description" content="Get email updates whenever I publish a new post.
-Subscribe " />
+<meta property="og:description" content=" Subscribe " />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="http://localhost:1313/subscribe/" />
 
@@ -72,8 +71,7 @@ Subscribe " />
 <meta name="twitter:site" content="@mdxabu" />
 <meta name="twitter:creator" content="@mdxabu" />
 <meta name="twitter:title" content="Subscribe | M." />
-<meta name="twitter:description" content="Get email updates whenever I publish a new post.
-Subscribe " />
+<meta name="twitter:description" content=" Subscribe " />
 <meta name="twitter:image" content="http://localhost:1313/images/saltfish.png" />
 
 
@@ -186,12 +184,11 @@ stroke-linejoin="round" class="feather feather-home">
             </header>
             
             <div class="page-content">
-                <p>Get email updates whenever I publish a new post.</p>
-<form id="subscribe-form">
+                <form id="subscribe-form">
   <input
     type="email"
     id="email"
-    placeholder="you@example.com"
+    placeholder="Enter your email"
     required
   />
   <button type="submit">Subscribe</button>
@@ -204,25 +201,23 @@ document.getElementById("subscribe-form").addEventListener("submit", async (e) =
   const email = document.getElementById("email").value;
   const msg = document.getElementById("msg");
 
-  msg.innerText = "Subscribing...";
-
-  const res = await fetch("https://api.github.com/repos/mdxabu/rss-mailer/dispatches", {
+  await fetch("https://api.github.com/repos/YOUR_USERNAME/rss-mailer/dispatches", {
     method: "POST",
     headers: {
       "Accept": "application/vnd.github+json",
-      "Authorization": "Bearer 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"
+      "Authorization": "token PUBLIC_TRIGGER_TOKEN",
+      "Content-Type": "application/json"
     },
     body: JSON.stringify({
-      event_type: "subscribe",
+      event_type: "new_subscriber",
       client_payload: { email }
     })
   });
 
-  msg.innerText = res.ok
-    ? "Subscription successful!"
-    : "Something went wrong";
+  msg.innerText = "Check your inbox!";
 });
 </script>
+<p></script></p>
 
             </div>
             
