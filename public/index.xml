@@ -456,7 +456,7 @@ document.getElementById(&#34;subscribe-form&#34;).addEventListener(&#34;submit&#
   const email = document.getElementById(&#34;email&#34;).value;
   const msg = document.getElementById(&#34;msg&#34;);
 
-  await fetch(&#34;https://api.github.com/repos/YOUR_USERNAME/rss-mailer/dispatches&#34;, {
+  await fetch(&#34;https://api.github.com/repos/mdxabu/rss-mailer/dispatches&#34;, {
     method: &#34;POST&#34;,
     headers: {
       &#34;Accept&#34;: &#34;application/vnd.github+json&#34;,
