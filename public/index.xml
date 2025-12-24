@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>M.</title>
+    <title>Mohamed Abdullah</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on M.</description>
+    <description>Recent content on Mohamed Abdullah</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 14 Dec 2025 10:45:48 +0530</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
@@ -439,40 +439,7 @@ A little “Who have I become?”&lt;/p&gt;
       
       <guid>http://localhost:1313/subscribe/</guid>
       
-      <description>&lt;form id=&#34;subscribe-form&#34;&gt;
-  &lt;input
-    type=&#34;email&#34;
-    id=&#34;email&#34;
-    placeholder=&#34;Enter your email&#34;
-    required
-  /&gt;
-  &lt;button type=&#34;submit&#34;&gt;Subscribe&lt;/button&gt;
-&lt;/form&gt;
-&lt;p id=&#34;msg&#34;&gt;&lt;/p&gt;
-&lt;script&gt;
-document.getElementById(&#34;subscribe-form&#34;).addEventListener(&#34;submit&#34;, async (e) =&gt; {
-  e.preventDefault();
-
-  const email = document.getElementById(&#34;email&#34;).value;
-  const msg = document.getElementById(&#34;msg&#34;);
-
-  await fetch(&#34;https://api.github.com/repos/mdxabu/rss-mailer/dispatches&#34;, {
-    method: &#34;POST&#34;,
-    headers: {
-      &#34;Accept&#34;: &#34;application/vnd.github+json&#34;,
-      &#34;Authorization&#34;: &#34;token PUBLIC_TRIGGER_TOKEN&#34;,
-      &#34;Content-Type&#34;: &#34;application/json&#34;
-    },
-    body: JSON.stringify({
-      event_type: &#34;new_subscriber&#34;,
-      client_payload: { email }
-    })
-  });
-
-  msg.innerText = &#34;Check your inbox!&#34;;
-});
-&lt;/script&gt;
-&lt;p&gt;&lt;/script&gt;&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;coming-soon&#34;&gt;Coming Soon!&lt;/h1&gt;</description>
       
     </item>
     
