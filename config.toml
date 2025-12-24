@@ -61,6 +61,12 @@ name = 'Tags'
 url = '/tags/'
 weight = 60
 
+[[menu.main]]
+pageRef = "subscribe"
+name = 'Subscribe'
+url = '/subscribe'
+weight = 70
+
 
 [params]
 sitename = "Awesome hugo blog"

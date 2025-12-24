@@ -3,11 +3,11 @@
 <meta http-equiv="content-type" content="text/html">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title itemprop="name">News | Mohamed Abdullah</title>
-<meta property="og:title" content="News | Mohamed Abdullah" />
-<meta name="twitter:title" content="News | Mohamed Abdullah" />
-<meta itemprop="name" content="News | Mohamed Abdullah" />
-<meta name="application-name" content="News | Mohamed Abdullah" />
+<title itemprop="name">News | M.</title>
+<meta property="og:title" content="News | M." />
+<meta name="twitter:title" content="News | M." />
+<meta itemprop="name" content="News | M." />
+<meta name="application-name" content="News | M." />
 <meta property="og:site_name" content="Awesome hugo blog" />
 
 <meta name="description" content="">
@@ -54,7 +54,7 @@
 
 
 
-<meta property="og:title" content="News | Mohamed Abdullah" />
+<meta property="og:title" content="News | M." />
 <meta property="og:description" content=" 10/09/2025 - Unemployment Starts.
 08/09/2025 - officially Completed my Google Summer of Code with Alaska.
 07/07/2025 - Rejected by Zoho for the Software …" />
@@ -72,7 +72,7 @@
 
 <meta name="twitter:site" content="@mdxabu" />
 <meta name="twitter:creator" content="@mdxabu" />
-<meta name="twitter:title" content="News | Mohamed Abdullah" />
+<meta name="twitter:title" content="News | M." />
 <meta name="twitter:description" content=" 10/09/2025 - Unemployment Starts.
 08/09/2025 - officially Completed my Google Summer of Code with Alaska.
 07/07/2025 - Rejected by Zoho for the Software …" />
@@ -136,7 +136,7 @@ stroke-linejoin="round" class="feather feather-home">
                 </li>
                 
                 <li>
-                    <a class="menu-link active" href="/news/">
+                    <a class="menu-link " href="/news/">
                         News
                     </a>
                     
@@ -152,6 +152,13 @@ stroke-linejoin="round" class="feather feather-home">
                 <li>
                     <a class="menu-link " href="/tags/">
                         Tags
+                    </a>
+                    
+                </li>
+                
+                <li>
+                    <a class="menu-link " href="/subscribe/">
+                        Subscribe
                     </a>
                     
                 </li>
@@ -203,73 +210,7 @@ stroke-linejoin="round" class="feather feather-home">
 </ul>
 
             </div>
-            <div id="comments" style="margin-top: 40px">
-    <script
-        src="https://giscus.app/client.js"
-        data-repo="mdxabu/mdxabu.github.io"
-        data-repo-id="R_kgDOLs5FtQ"
-        data-category="Blogs"
-        data-category-id="DIC_kwDOLs5Ftc4CrYy-"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="top"
-        data-theme="transparent_dark"
-        data-lang="en"
-        crossorigin="anonymous"
-        async
-    ></script>
-</div>
-
-<script>
-    
-    function setGiscusTheme(theme) {
-        const giscusTheme = theme === 'dark' ? 'transparent_dark' : 'light';
-        
-        function sendMessage() {
-            const iframe = document.querySelector('iframe.giscus-frame');
-            if (iframe) {
-                iframe.contentWindow.postMessage(
-                    { giscus: { setConfig: { theme: giscusTheme } } },
-                    'https://giscus.app'
-                );
-            }
-        }
-        
-        sendMessage();
-    }
-
-    
-    window.addEventListener('message', function(event) {
-        if (event.origin !== 'https://giscus.app') return;
-        
-        const theme = document.documentElement.classList.contains('dark') ? 'dark' : 'light';
-        setGiscusTheme(theme);
-    });
-
-    
-    const observer = new MutationObserver(function(mutations) {
-        mutations.forEach(function(mutation) {
-            if (mutation.attributeName === 'class') {
-                const theme = document.documentElement.classList.contains('dark') ? 'dark' : 'light';
-                setGiscusTheme(theme);
-            }
-        });
-    });
-
-    
-    observer.observe(document.documentElement, {
-        attributes: true,
-        attributeFilter: ['class']
-    });
-
-    
-    document.addEventListener('DOMContentLoaded', function() {
-        const theme = document.documentElement.classList.contains('dark') ? 'dark' : 'light';
-        setTimeout(() => setGiscusTheme(theme), 1000);
-    });
-</script>
+            
         </article>
     </main>
 </div>

@@ -3,11 +3,11 @@
 <meta http-equiv="content-type" content="text/html">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title itemprop="name">Techlogs | M.</title>
-<meta property="og:title" content="Techlogs | M." />
-<meta name="twitter:title" content="Techlogs | M." />
-<meta itemprop="name" content="Techlogs | M." />
-<meta name="application-name" content="Techlogs | M." />
+<title itemprop="name">Subscribe | M.</title>
+<meta property="og:title" content="Subscribe | M." />
+<meta name="twitter:title" content="Subscribe | M." />
+<meta itemprop="name" content="Subscribe | M." />
+<meta name="application-name" content="Subscribe | M." />
 <meta property="og:site_name" content="Awesome hugo blog" />
 
 <meta name="description" content="">
@@ -18,7 +18,7 @@
 <meta property="og:locale" content="en-us" />
 <meta name="language" content="en-us" />
 
-  <link rel="alternate" hreflang="en-gb" href="http://localhost:1313/techlog/" title="" />
+  <link rel="alternate" hreflang="en-gb" href="http://localhost:1313/subscribe/" title="" />
 
 
 <meta itemprop="image" content="http://localhost:1313/images/saltfish.png" />
@@ -31,9 +31,7 @@
 <meta name="generator" content="Hugo 0.149.0">
 
     
-    <link rel="canonical" href="http://localhost:1313/techlog/">
-    <link href="/techlog/index.xml" rel="alternate" type="application/rss+xml" title="M.">
-    <link href="/techlog/index.xml" rel="feed" type="application/rss+xml" title="M.">
+    <link rel="canonical" href="http://localhost:1313/subscribe/">
     <link href="/style.min.63bdeb8390b3998e4afcf08782836bab3efe34876c38e9008b68adea7d6458bf.css" rel="stylesheet">
     <link href="/code-highlight.min.706d31975fec544a864cb7f0d847a73ea55ca1df91bf495fd12a177138d807cf.css" rel="stylesheet">
 
@@ -42,9 +40,6 @@
 
 
 
-
-
-
   
 
 
@@ -54,10 +49,16 @@
 
 
 
-<meta property="og:title" content="Techlogs | M." />
-<meta property="og:description" content="" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="http://localhost:1313/techlog/" />
+
+  
+
+
+
+<meta property="og:title" content="Subscribe | M." />
+<meta property="og:description" content="Get email updates whenever I publish a new post.
+Subscribe " />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://localhost:1313/subscribe/" />
 
 <meta property="og:image" content="http://localhost:1313/images/saltfish.png" />
 <meta property="og:image:width" content="1200" />
@@ -70,8 +71,9 @@
 
 <meta name="twitter:site" content="@mdxabu" />
 <meta name="twitter:creator" content="@mdxabu" />
-<meta name="twitter:title" content="Techlogs | M." />
-<meta name="twitter:description" content="" />
+<meta name="twitter:title" content="Subscribe | M." />
+<meta name="twitter:description" content="Get email updates whenever I publish a new post.
+Subscribe " />
 <meta name="twitter:image" content="http://localhost:1313/images/saltfish.png" />
 
 
@@ -118,7 +120,7 @@ stroke-linejoin="round" class="feather feather-home">
                 </li>
                 
                 <li>
-                    <a class="menu-link active" href="/techlog/">
+                    <a class="menu-link " href="/techlog/">
                         Tech Log
                     </a>
                     
@@ -172,201 +174,62 @@ stroke-linejoin="round" class="feather feather-home">
         </div>
     </nav>
 </div>
-<div class="wrapper list-page">
-    <header class="header">
-        <h1 class="header-title center">Techlogs</h1>
-    </header>
+
+<div class="wrapper post">
     <main class="page-content" aria-label="Content">
-        
-        
-        <h2 class="post-year">2025</h2>
+        <article>
+            <header class="header">
+                <h1 class="header-title">Subscribe</h1>
+                
+                
+                
+            </header>
+            
+            <div class="page-content">
+                <p>Get email updates whenever I publish a new post.</p>
+<form id="subscribe-form">
+  <input
+    type="email"
+    id="email"
+    placeholder="you@example.com"
+    required
+  />
+  <button type="submit">Subscribe</button>
+</form>
+<p id="msg"></p>
+<script>
+document.getElementById("subscribe-form").addEventListener("submit", async (e) => {
+  e.preventDefault();
 
-        
+  const email = document.getElementById("email").value;
+  const msg = document.getElementById("msg");
 
-        
+  msg.innerText = "Subscribing...";
 
-        <article class="post-item">
-    <h4 class="post-item-title">
-        <a href="/techlog/2025-oss/">Open Source Software that I Used in 2025</a>
-    </h4>
-    
-    
-    
-    
-    <time class="post-item-meta" datetime="2025-12-14T10:45:48&#43;0530">
-        December 14, 2025
-        
-    </time>
-</article>
+  const res = await fetch("https://api.github.com/repos/mdxabu/rss-mailer/dispatches", {
+    method: "POST",
+    headers: {
+      "Accept": "application/vnd.github+json",
+      "Authorization": "Bearer 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"
+    },
+    body: JSON.stringify({
+      event_type: "subscribe",
+      client_payload: { email }
+    })
+  });
 
+  msg.innerText = res.ok
+    ? "Subscription successful!"
+    : "Something went wrong";
+});
+</script>
 
-        
-
-        <article class="post-item">
-    <h4 class="post-item-title">
-        <a href="/techlog/zed/">Zed: A Minimalist Editor for Focused Coding</a>
-    </h4>
-    
-    
-    
-    
-    <time class="post-item-meta" datetime="2025-12-03T19:54:57&#43;0530">
-        December 3, 2025
-        
-    </time>
-</article>
-
-
-        
-
-        <article class="post-item">
-    <h4 class="post-item-title">
-        <a href="/techlog/gsoc/">So You Want to Get Into Google Summer of Code?</a>
-    </h4>
-    
-    
-    
-    
-    <time class="post-item-meta" datetime="2025-11-25T11:11:03&#43;0530">
-        November 25, 2025
-        
-    </time>
-</article>
-
-
-        
-
-        <article class="post-item">
-    <h4 class="post-item-title">
-        <a href="/techlog/sdkman/">Why SDKMAN?</a>
-    </h4>
-    
-    
-    
-    
-    <time class="post-item-meta" datetime="2025-11-06T13:42:21&#43;0530">
-        November 6, 2025
-        
-    </time>
-</article>
-
-
-        
-
-        <article class="post-item">
-    <h4 class="post-item-title">
-        <a href="/techlog/mvn101/">Maven Tutorial 101</a>
-    </h4>
-    
-    
-    
-    
-    <time class="post-item-meta" datetime="2025-10-17T15:01:51&#43;0530">
-        October 17, 2025
-        
-    </time>
-</article>
-
-
-        
-
-        <article class="post-item">
-    <h4 class="post-item-title">
-        <a href="/techlog/is-this-project-important/">Is this project important?</a>
-    </h4>
-    
-    
-    
-    
-    <time class="post-item-meta" datetime="2025-07-25T21:33:06&#43;0530">
-        July 25, 2025
-        
-    </time>
-</article>
-
-
-        
-
-        <article class="post-item">
-    <h4 class="post-item-title">
-        <a href="/techlog/deepfake/">Deepfake: Ruining Your Life!</a>
-    </h4>
-    
-    
-    
-    
-    <time class="post-item-meta" datetime="2025-05-04T19:35:55&#43;0530">
-        May 4, 2025
-        
-    </time>
-</article>
-
-
-        
-
-        <article class="post-item">
-    <h4 class="post-item-title">
-        <a href="/techlog/asoc/">Alaskan Season of Code</a>
-    </h4>
-    
-    
-    
-    
-    <time class="post-item-meta" datetime="2025-04-06T11:51:43&#43;0530">
-        April 6, 2025
-        
-    </time>
-</article>
-
-
-        
-
-        <article class="post-item">
-    <h4 class="post-item-title">
-        <a href="/techlog/fraud-loan-apps/">Beware of Fraudulent Loan Apps</a>
-    </h4>
-    
-    
-    
-    
-    <time class="post-item-meta" datetime="2025-02-03T10:58:22&#43;0530">
-        February 3, 2025
-        
-    </time>
-</article>
-
-
-         
-
-        
-        
-        <h2 class="post-year">2024</h2>
-
-        
-
-        
-
-        <article class="post-item">
-    <h4 class="post-item-title">
-        <a href="/techlog/opensource2024/">My Open Source Journey in 2024</a>
-    </h4>
-    
-    
-    
-    
-    <time class="post-item-meta" datetime="2024-12-31T21:00:28&#43;0530">
-        December 31, 2024
-        
-    </time>
-</article>
-
-
-         
-
-         
-
+            </div>
+            
+        </article>
     </main>
-</div><footer class="footer">
+</div>
+<footer class="footer">
     <span class="footer_item"> </span>
     &nbsp;
 
