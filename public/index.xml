@@ -6,7 +6,22 @@
     <description>Recent content on Mohamed Abdullah</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Dec 2025 10:45:48 +0530</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Dec 2025 18:37:44 +0530</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Be Grateful and Be Polite</title>
+      <link>http://localhost:1313/posts/be-grateful-ii/</link>
+      <pubDate>Mon, 29 Dec 2025 18:37:44 +0530</pubDate>
+      
+      <guid>http://localhost:1313/posts/be-grateful-ii/</guid>
+      
+      <description>&lt;p&gt;I see that many people are mostly selfish, and they are neither honest nor polite.&lt;/p&gt;
+&lt;p&gt;Why aren’t people true to themselves and grateful for what they already have?
+Maybe they have never witnessed a miracle, never faced serious hardship, or never received help from others during difficult times. When someone has never struggled, they may fail to understand the value of kindness and honesty.&lt;/p&gt;
+&lt;p&gt;Many people care only about themselves. Their mindset is often: &lt;em&gt;“I need profit. I don’t care about anyone else.”&lt;/em&gt;
+This way of thinking slowly destroys trust, humanity, and peace in society.&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>Open Source Software that I Used in 2025</title>
       <link>http://localhost:1313/techlog/2025-oss/</link>
@@ -429,17 +444,6 @@ A little “Who have I become?”&lt;/p&gt;
   &lt;img src=&#34;https://images.pexels.com/photos/1250452/pexels-photo-1250452.jpeg?auto=compress&amp;amp;cs=tinysrgb&amp;amp;w=1260&amp;amp;h=750&amp;amp;dpr=1&#34; alt=&#34;banner&#34;  loading=&#34;lazy&#34;&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;My open-source journey began with a contribution to the popular &lt;a href=&#34;https://github.com/fabric8io/docker-maven-plugin&#34;&gt;Docker Maven Plugin&lt;/a&gt;. While my contribution was relatively small—updating dependency versions and refactoring a few methods—it taught me a lot about the process of contributing to open-source projects. I was guided through this experience by &lt;a href=&#34;https://github.com/rohanKanojia&#34;&gt;Rohan Kanojia&lt;/a&gt;, who showed me the ropes of contributing within an organization and maintaining quality in a collaborative environment.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Subscribe</title>
-      <link>http://localhost:1313/subscribe/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/subscribe/</guid>
-      
-      <description>&lt;h1 id=&#34;coming-soon&#34;&gt;Coming Soon!&lt;/h1&gt;</description>
       
     </item>
     
