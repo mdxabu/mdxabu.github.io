@@ -126,3 +126,7 @@ url = "https://linkedin.com/in/mdxabu"
 [[params.socialIcons]]
 name = "email"
 url = "mailto:me.mdxabu@gmail.com"
+
+[[params.socialIcons]]
+name = "discord"
+url = "https://discord.gg/Yf2SZsYGkX"
