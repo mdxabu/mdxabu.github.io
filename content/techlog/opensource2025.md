@@ -1,7 +1,7 @@
 ---
 date : '2025-12-31T20:56:35+05:30'
 draft : false
-title : 'My Open Source Journey in 2024'
+title : 'My Open Source Journey in 2025'
 toc : false
 comments: true
 tags: ["Open source","Community"]
