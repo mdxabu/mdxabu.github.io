@@ -6,9 +6,20 @@
     <description>Recent content in Techlogs on Mohamed Abdullah</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 31 Dec 2025 17:09:31 +0530</lastBuildDate><atom:link href="http://localhost:1313/techlog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Jan 2026 20:56:35 +0530</lastBuildDate><atom:link href="http://localhost:1313/techlog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>The Tell-Tale Signs: How to Spot AI-Written Code in the Wild</title>
+      <title>Opensource2025</title>
+      <link>http://localhost:1313/techlog/opensource2025/</link>
+      <pubDate>Thu, 01 Jan 2026 20:56:35 +0530</pubDate>
+      
+      <guid>http://localhost:1313/techlog/opensource2025/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Signs: How to Spot AI-Written Code in the Wild</title>
       <link>http://localhost:1313/techlog/ai-patterns/</link>
       <pubDate>Wed, 31 Dec 2025 17:09:31 +0530</pubDate>
       
