@@ -61,5 +61,10 @@ So here’s to writing better code, breaking fewer things, learning nonstop, sho
 2025, you were chaotic, educational, and kinda awesome.
 Let’s see what the next year compiles into 
 
+# A Small Discord 
 
+I created a Discord server to communicate with fellow contributors and open-source enthusiasts.
 
+It became a place to share ideas, ask questions, help each other debug, celebrate small wins, and occasionally panic together when something broke. Building and maintaining that small community reminded me that tech isn’t just about code, it’s about people.
+
+[![Join my discord server](https://img.freepik.com/premium-photo/discord-banner-logo-collapse_665513-178.jpg?semt=ais_hybrid&w=740&q=80)](https://discord.gg/nwhpV5kbRq)

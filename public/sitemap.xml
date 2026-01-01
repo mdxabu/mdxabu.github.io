@@ -11,11 +11,23 @@
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2026-01-01T21:11:32+05:30</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/slice-of-life/</loc>
+    <lastmod>2026-01-01T21:11:32+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-01-01T21:11:32+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/community/</loc>
+    <lastmod>2025-12-31T20:56:35+05:30</lastmod>
+  </url><url>
     <loc>http://localhost:1313/techlog/opensource2025/</loc>
-    <lastmod>2026-01-01T20:56:35+05:30</lastmod>
+    <lastmod>2025-12-31T20:56:35+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/open-source/</loc>
+    <lastmod>2025-12-31T20:56:35+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/techlog/</loc>
-    <lastmod>2026-01-01T20:56:35+05:30</lastmod>
+    <lastmod>2025-12-31T20:56:35+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/ai/</loc>
     <lastmod>2025-12-31T17:09:31+05:30</lastmod>
@@ -29,23 +41,11 @@
     <loc>http://localhost:1313/techlog/ai-patterns/</loc>
     <lastmod>2025-12-31T17:09:31+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-12-31T17:09:31+05:30</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/be-grateful-ii/</loc>
     <lastmod>2025-12-29T18:37:44+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/mental-health/</loc>
     <lastmod>2025-12-29T18:37:44+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/slice-of-life/</loc>
-    <lastmod>2025-12-29T18:37:44+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/community/</loc>
-    <lastmod>2025-12-14T10:45:48+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/open-source/</loc>
-    <lastmod>2025-12-14T10:45:48+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/techlog/2025-oss/</loc>
     <lastmod>2025-12-14T10:45:48+05:30</lastmod>

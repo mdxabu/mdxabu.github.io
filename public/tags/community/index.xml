@@ -6,7 +6,21 @@
     <description>Recent content in Community on Mohamed Abdullah</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Dec 2025 10:45:48 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/community/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 Dec 2025 20:56:35 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/community/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Open Source Journey in 2025</title>
+      <link>http://localhost:1313/techlog/opensource2025/</link>
+      <pubDate>Wed, 31 Dec 2025 20:56:35 +0530</pubDate>
+      
+      <guid>http://localhost:1313/techlog/opensource2025/</guid>
+      
+      <description>&lt;p&gt;This year was actually really good, like surprisingly good. I learned a lot of things in tech, broke a lot of things in tech, fixed some of them, and confidently called the rest “features.”&lt;/p&gt;
+&lt;p&gt;Somewhere between endless Stack Overflow tabs, coffee refills, and “why is this not working??” moments, I grew a lot as a developer and as a human.&lt;/p&gt;
+&lt;h1 id=&#34;tech-stuff-happened-a-lot&#34;&gt;Tech Stuff Happened. A Lot.&lt;/h1&gt;
+&lt;p&gt;This year, I learned so many things in tech that my brain occasionally felt like it needed a full reset. New tools, new concepts, and bugs that appeared out of nowhere just to keep me humble.&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>Open Source Software that I Used in 2025</title>
       <link>http://localhost:1313/techlog/2025-oss/</link>
