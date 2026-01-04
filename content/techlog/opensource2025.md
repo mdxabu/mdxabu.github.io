@@ -69,4 +69,7 @@ It became a place to share ideas, ask questions, help each other debug, celebrat
 
 **Disclaimer:** This server is primarily for discussing open source projects that are currently being built. It is not focused on GSoC, LFX, or other open source programs.
 
-[![Join my discord server](https://img.freepik.com/premium-photo/discord-banner-logo-collapse_665513-178.jpg?semt=ais_hybrid&w=740&q=80)](https://discord.gg/nwhpV5kbRq)
+
+# [Join my discord server](https://discord.gg/nwhpV5kbRq)
+
+
