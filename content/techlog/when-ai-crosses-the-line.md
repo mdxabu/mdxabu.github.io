@@ -1,7 +1,7 @@
 ---
 date : '2026-01-05T17:02:43+05:30'
 draft : false
-title : 'AI Violations'
+title : 'When AI Crosses the Line'
 toc : false
 comments: true
 tags: ["App","Social Awareness","AI"]
