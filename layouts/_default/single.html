@@ -15,7 +15,7 @@
                             <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path>
                             <circle cx="12" cy="12" r="3"></circle>
                         </svg>
-                        <span id="goatcounter-views">Loading...</span>
+                        <span id="page-views"></span>
                     </span>
                     {{ end }}
                 </div>
@@ -38,24 +38,23 @@
 </div>
 {{ if .Site.Params.goatcounter }}
 <script>
-// Fetch view count from GoatCounter
 (function() {
+    var viewsEl = document.getElementById('page-views');
+    if (!viewsEl) return;
+    
     var path = window.location.pathname;
-    fetch('https://{{ .Site.Params.goatcounter }}.goatcounter.com/counter/' + encodeURIComponent(path) + '.json')
-        .then(function(response) { return response.json(); })
+    var statsUrl = 'https://{{ .Site.Params.goatcounter }}.goatcounter.com/counter/' + encodeURIComponent(path) + '.json';
+    
+    fetch(statsUrl)
+        .then(function(r) { return r.json(); })
         .then(function(data) {
             var count = data.count || 0;
-            var viewsEl = document.getElementById('goatcounter-views');
-            if (viewsEl) {
+            if (count > 0) {
                 viewsEl.textContent = count.toLocaleString() + ' views';
             }
         })
-        .catch(function(error) {
-            console.log('Error fetching view count:', error);
-            var viewsEl = document.getElementById('goatcounter-views');
-            if (viewsEl) {
-                viewsEl.textContent = '';
-            }
+        .catch(function() {
+            viewsEl.style.display = 'none';
         });
 })();
 </script>
