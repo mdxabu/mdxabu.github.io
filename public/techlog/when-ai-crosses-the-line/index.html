@@ -185,7 +185,7 @@ stroke-linejoin="round" class="feather feather-home">
                             <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path>
                             <circle cx="12" cy="12" r="3"></circle>
                         </svg>
-                        <span id="gcvc-stats"></span>
+                        <span id="goatcounter-views">Loading...</span>
                     </span>
                     
                 </div>
@@ -293,40 +293,23 @@ stroke-linejoin="round" class="feather feather-home">
 <script>
 
 (function() {
-    var statsEl = document.getElementById('gcvc-stats');
-    if (!statsEl) return;
-
-    
-    var checkCounter = setInterval(function() {
-        if (window.goatcounter && window.goatcounter.get_data) {
-            clearInterval(checkCounter);
-
-            
-            var path = window.goatcounter.get_data()['p'];
-
-            
-            var xhr = new XMLHttpRequest();
-            xhr.addEventListener('load', function() {
-                try {
-                    var data = JSON.parse(this.responseText);
-                    statsEl.textContent = data.count + ' views';
-                } catch(e) {
-                    console.log('Error parsing view count:', e);
-                    statsEl.textContent = '';
-                }
-            });
-            xhr.addEventListener('error', function() {
-                statsEl.textContent = '';
-            });
-            xhr.open('GET', 'https://mdxabu.goatcounter.com/counter/' + encodeURIComponent(path) + '.json');
-            xhr.send();
-        }
-    }, 100);
-
-    
-    setTimeout(function() {
-        clearInterval(checkCounter);
-    }, 5000);
+    var path = window.location.pathname;
+    fetch('https://mdxabu.goatcounter.com/counter/' + encodeURIComponent(path) + '.json')
+        .then(function(response) { return response.json(); })
+        .then(function(data) {
+            var count = data.count || 0;
+            var viewsEl = document.getElementById('goatcounter-views');
+            if (viewsEl) {
+                viewsEl.textContent = count.toLocaleString() + ' views';
+            }
+        })
+        .catch(function(error) {
+            console.log('Error fetching view count:', error);
+            var viewsEl = document.getElementById('goatcounter-views');
+            if (viewsEl) {
+                viewsEl.textContent = '';
+            }
+        });
 })();
 </script>
 
