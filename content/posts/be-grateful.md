@@ -21,3 +21,5 @@ Another incident comes to mind. In 7th grade, I was a low-performing student, ra
 Be grateful for what you have and what you had. Be kind, and help those who are still learning!
 
 
+
+
