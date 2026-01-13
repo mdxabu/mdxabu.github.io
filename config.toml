@@ -76,6 +76,7 @@ dateFormat = "January 2, 2006"
 comments = true
 favicon = true
 faviconSVG = true
+goatcounter = "mdxabu" #Web Analytics
 # Default social sharing image (needs to be in the static directory)
 ogimage = "/images/saltfish.png" # Add leading slash if using path from static directory
 

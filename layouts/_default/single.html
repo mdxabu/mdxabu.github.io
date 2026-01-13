@@ -9,6 +9,15 @@
                 {{ $ISO_time := dateFormat "2006-01-02T15:04:05-07:00" . }}
                 <div class="post-meta">
                     <time datetime="{{ $ISO_time }}" itemprop="datePublished"> {{ . | time.Format $configDateFormat }} </time>
+                    {{ if $.Site.Params.goatcounter }}
+                    <span class="post-views" style="margin-left: 1em; display: inline-flex; align-items: center; gap: 0.3em;">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle;">
+                            <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path>
+                            <circle cx="12" cy="12" r="3"></circle>
+                        </svg>
+                        <span id="gcvc-stats"></span>
+                    </span>
+                    {{ end }}
                 </div>
                 {{ end }}
                 {{ if .Params.tags }}
@@ -27,4 +36,45 @@
         </article>
     </main>
 </div>
+{{ if .Site.Params.goatcounter }}
+<script>
+// GoatCounter visitor count integration
+(function() {
+    var statsEl = document.getElementById('gcvc-stats');
+    if (!statsEl) return;
+
+    // Wait for GoatCounter to load
+    var checkCounter = setInterval(function() {
+        if (window.goatcounter && window.goatcounter.get_data) {
+            clearInterval(checkCounter);
+
+            // Get the exact path as GoatCounter sees it
+            var path = window.goatcounter.get_data()['p'];
+
+            // Fetch the count
+            var xhr = new XMLHttpRequest();
+            xhr.addEventListener('load', function() {
+                try {
+                    var data = JSON.parse(this.responseText);
+                    statsEl.textContent = data.count + ' views';
+                } catch(e) {
+                    console.log('Error parsing view count:', e);
+                    statsEl.textContent = '';
+                }
+            });
+            xhr.addEventListener('error', function() {
+                statsEl.textContent = '';
+            });
+            xhr.open('GET', 'https://{{ .Site.Params.goatcounter }}.goatcounter.com/counter/' + encodeURIComponent(path) + '.json');
+            xhr.send();
+        }
+    }, 100);
+
+    // Stop checking after 5 seconds
+    setTimeout(function() {
+        clearInterval(checkCounter);
+    }, 5000);
+})();
+</script>
+{{ end }}
 {{ end }}

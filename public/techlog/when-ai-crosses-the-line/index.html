@@ -82,7 +82,12 @@
 
   
 </head>
-<body data-theme = "light" class="notransition">
+
+        <script data-goatcounter="https://mdxabu.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+
+
+    <body data-theme = "light" class="notransition">
 
 <script src="/js/theme.js"></script>
 
@@ -174,6 +179,15 @@ stroke-linejoin="round" class="feather feather-home">
                 
                 <div class="post-meta">
                     <time datetime="2026-01-05T17:02:43&#43;05:30" itemprop="datePublished"> January 5, 2026 </time>
+                    
+                    <span class="post-views" style="margin-left: 1em; display: inline-flex; align-items: center; gap: 0.3em;">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle;">
+                            <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path>
+                            <circle cx="12" cy="12" r="3"></circle>
+                        </svg>
+                        <span id="gcvc-stats"></span>
+                    </span>
+                    
                 </div>
                 
                 
@@ -275,6 +289,47 @@ stroke-linejoin="round" class="feather feather-home">
         </article>
     </main>
 </div>
+
+<script>
+
+(function() {
+    var statsEl = document.getElementById('gcvc-stats');
+    if (!statsEl) return;
+
+    
+    var checkCounter = setInterval(function() {
+        if (window.goatcounter && window.goatcounter.get_data) {
+            clearInterval(checkCounter);
+
+            
+            var path = window.goatcounter.get_data()['p'];
+
+            
+            var xhr = new XMLHttpRequest();
+            xhr.addEventListener('load', function() {
+                try {
+                    var data = JSON.parse(this.responseText);
+                    statsEl.textContent = data.count + ' views';
+                } catch(e) {
+                    console.log('Error parsing view count:', e);
+                    statsEl.textContent = '';
+                }
+            });
+            xhr.addEventListener('error', function() {
+                statsEl.textContent = '';
+            });
+            xhr.open('GET', 'https://mdxabu.goatcounter.com/counter/' + encodeURIComponent(path) + '.json');
+            xhr.send();
+        }
+    }, 100);
+
+    
+    setTimeout(function() {
+        clearInterval(checkCounter);
+    }, 5000);
+})();
+</script>
+
 <footer class="footer">
     <span class="footer_item"> </span>
     &nbsp;
