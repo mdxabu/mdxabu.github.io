@@ -15,6 +15,7 @@ I still remember the very first time I saw you back in college, sitting behind m
 
 ![](https://i.redd.it/t751qzpfuvzd1.png)
 
+
 But then, surprise! You turned out to be on the same bus route as me. Slowly, we started talking, and I realized you’re actually a really cool guy.
 
 One thing I’ve always respected about you: you just don’t care not in a careless way, but in a *"nothing shakes me"* kind of way. Whether it’s studies, work, or the chaos around you… you stay calm, unbothered, and fully in your own world.
