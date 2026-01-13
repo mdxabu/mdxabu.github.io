@@ -9,15 +9,6 @@
                 {{ $ISO_time := dateFormat "2006-01-02T15:04:05-07:00" . }}
                 <div class="post-meta">
                     <time datetime="{{ $ISO_time }}" itemprop="datePublished"> {{ . | time.Format $configDateFormat }} </time>
-                    {{ if $.Site.Params.goatcounter }}
-                    <span class="post-views" style="margin-left: 1em; display: inline-flex; align-items: center; gap: 0.3em;">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle;">
-                            <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path>
-                            <circle cx="12" cy="12" r="3"></circle>
-                        </svg>
-                        <span id="page-views"></span>
-                    </span>
-                    {{ end }}
                 </div>
                 {{ end }}
                 {{ if .Params.tags }}
@@ -36,27 +27,4 @@
         </article>
     </main>
 </div>
-{{ if .Site.Params.goatcounter }}
-<script>
-(function() {
-    var viewsEl = document.getElementById('page-views');
-    if (!viewsEl) return;
-    
-    var path = window.location.pathname;
-    var statsUrl = 'https://{{ .Site.Params.goatcounter }}.goatcounter.com/counter/' + encodeURIComponent(path) + '.json';
-    
-    fetch(statsUrl)
-        .then(function(r) { return r.json(); })
-        .then(function(data) {
-            var count = data.count || 0;
-            if (count > 0) {
-                viewsEl.textContent = count.toLocaleString() + ' views';
-            }
-        })
-        .catch(function() {
-            viewsEl.style.display = 'none';
-        });
-})();
-</script>
-{{ end }}
 {{ end }}
