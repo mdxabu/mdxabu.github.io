@@ -212,6 +212,30 @@ stroke-linejoin="round" class="feather feather-home">
         </article>
     </main>
 </div>
+
+<script>
+
+(function() {
+    var path = window.location.pathname;
+    fetch('https://mdxabu.goatcounter.com/counter/' + encodeURIComponent(path) + '.json')
+        .then(function(response) { return response.json(); })
+        .then(function(data) {
+            var count = data.count || 0;
+            var viewsEl = document.getElementById('goatcounter-views');
+            if (viewsEl) {
+                viewsEl.textContent = count.toLocaleString() + ' views';
+            }
+        })
+        .catch(function(error) {
+            console.log('Error fetching view count:', error);
+            var viewsEl = document.getElementById('goatcounter-views');
+            if (viewsEl) {
+                viewsEl.textContent = '';
+            }
+        });
+})();
+</script>
+
 <footer class="footer">
     <span class="footer_item"> </span>
     &nbsp;

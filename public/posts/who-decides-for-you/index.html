@@ -222,6 +222,15 @@ stroke-linejoin="round" class="feather feather-home">
                 
                 <div class="post-meta">
                     <time datetime="2025-08-01T21:37:32&#43;05:30" itemprop="datePublished"> August 1, 2025 </time>
+                    
+                    <span class="post-views" style="margin-left: 1em; display: inline-flex; align-items: center; gap: 0.3em;">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle;">
+                            <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path>
+                            <circle cx="12" cy="12" r="3"></circle>
+                        </svg>
+                        <span id="goatcounter-views">Loading...</span>
+                    </span>
+                    
                 </div>
                 
                 
@@ -323,6 +332,30 @@ But if it’s meant to drag you down? Don’t give a fuck.</p>
         </article>
     </main>
 </div>
+
+<script>
+
+(function() {
+    var path = window.location.pathname;
+    fetch('https://mdxabu.goatcounter.com/counter/' + encodeURIComponent(path) + '.json')
+        .then(function(response) { return response.json(); })
+        .then(function(data) {
+            var count = data.count || 0;
+            var viewsEl = document.getElementById('goatcounter-views');
+            if (viewsEl) {
+                viewsEl.textContent = count.toLocaleString() + ' views';
+            }
+        })
+        .catch(function(error) {
+            console.log('Error fetching view count:', error);
+            var viewsEl = document.getElementById('goatcounter-views');
+            if (viewsEl) {
+                viewsEl.textContent = '';
+            }
+        });
+})();
+</script>
+
 <footer class="footer">
     <span class="footer_item"> </span>
     &nbsp;
