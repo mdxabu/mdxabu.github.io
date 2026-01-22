@@ -64,6 +64,7 @@ weight = 60
 
 
 
+
 [params]
 sitename = "Awesome hugo blog"
 defaultColor = "light"

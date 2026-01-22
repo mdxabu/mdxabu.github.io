@@ -5,6 +5,7 @@ toc = false
 comments = false
 +++
 
+- 22/01/2026 - Our Paper "A Data Framework for Behavioral Health with Digitized Drawings and Photographs" has been accepted for publication and presentation at the 2026 IEEE International Systems Conference (SysCon).
 
 - 10/09/2025 - Unemployment Starts.
 
