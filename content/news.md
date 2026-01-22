@@ -5,7 +5,7 @@ toc = false
 comments = false
 +++
 
-- 22/01/2026 - Our Paper `A Data Framework for Behavioral Health with Digitized Drawings and Photographs` has been accepted for publication and presentation at the 2026 `IEEE International Systems Conference (SysCon)`.
+- 22/01/2026 - Our Paper `A Data Framework for Behavioral Health with Digitized Drawings and Photographs`([Beehive](https://github.com/kathiravelulab/beehive)) has been accepted for publication in the [IEEE International Systems Conference (SysCon) 2026](https://2026.ieeesyscon.org/).
 
 - 10/09/2025 - Unemployment Starts.
 
