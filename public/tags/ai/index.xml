@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI on Mohamed Abdullah</title>
-    <link>https://mdxabu.github.io/tags/ai/</link>
+    <link>http://localhost:1313/tags/ai/</link>
     <description>Recent content in AI on Mohamed Abdullah</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Jan 2026 17:02:43 +0530</lastBuildDate><atom:link href="https://mdxabu.github.io/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Jan 2026 17:02:43 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>When AI Crosses the Line</title>
-      <link>https://mdxabu.github.io/techlog/when-ai-crosses-the-line/</link>
+      <link>http://localhost:1313/techlog/when-ai-crosses-the-line/</link>
       <pubDate>Mon, 05 Jan 2026 17:02:43 +0530</pubDate>
       
-      <guid>https://mdxabu.github.io/techlog/when-ai-crosses-the-line/</guid>
+      <guid>http://localhost:1313/techlog/when-ai-crosses-the-line/</guid>
       
       <description>&lt;p&gt;These days, the rapid growth of artificial intelligence feels less exciting and more frightening for many people. What once seemed like a helpful and creative technology is now raising serious concerns about safety, responsibility, and long-term impact. AI systems are becoming more powerful and more accessible, and when that power is placed into open social platforms without strong safeguards, the results can be dangerous. Instead of supporting healthy conversation and creativity, some tools are being misused in ways that harm individuals and society as a whole.&lt;/p&gt;</description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>Signs: How to Spot AI-Written Code in the Wild</title>
-      <link>https://mdxabu.github.io/techlog/ai-patterns/</link>
+      <link>http://localhost:1313/techlog/ai-patterns/</link>
       <pubDate>Wed, 31 Dec 2025 17:09:31 +0530</pubDate>
       
-      <guid>https://mdxabu.github.io/techlog/ai-patterns/</guid>
+      <guid>http://localhost:1313/techlog/ai-patterns/</guid>
       
       <description>&lt;h2 id=&#34;introduction-the-rise-of-the-ai-code-contributor&#34;&gt;Introduction: The Rise of the AI Code Contributor&lt;/h2&gt;
 &lt;p&gt;We&amp;rsquo;re living in an interesting time. AI coding assistants have become ubiquitous in modern software development. GitHub Copilot, ChatGPT, Claude, and countless other tools are writing millions of lines of code every day. And while there&amp;rsquo;s nothing inherently wrong with using AI to boost productivity, there&amp;rsquo;s a growing phenomenon that&amp;rsquo;s becoming impossible to ignore: &lt;strong&gt;AI-generated code has a fingerprint&lt;/strong&gt;.&lt;/p&gt;
