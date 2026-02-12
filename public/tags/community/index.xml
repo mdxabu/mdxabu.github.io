@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Community on Mohamed Abdullah</title>
-    <link>http://localhost:1313/tags/community/</link>
+    <link>https://mdxabu.github.io/tags/community/</link>
     <description>Recent content in Community on Mohamed Abdullah</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 31 Dec 2025 20:56:35 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/community/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 Dec 2025 20:56:35 +0530</lastBuildDate><atom:link href="https://mdxabu.github.io/tags/community/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Open Source Journey in 2025</title>
-      <link>http://localhost:1313/techlog/opensource2025/</link>
+      <link>https://mdxabu.github.io/techlog/opensource2025/</link>
       <pubDate>Wed, 31 Dec 2025 20:56:35 +0530</pubDate>
       
-      <guid>http://localhost:1313/techlog/opensource2025/</guid>
+      <guid>https://mdxabu.github.io/techlog/opensource2025/</guid>
       
       <description>&lt;p&gt;This year was actually really good, like surprisingly good. I learned a lot of things in tech, broke a lot of things in tech, fixed some of them, and confidently called the rest “features.”&lt;/p&gt;
 &lt;p&gt;Somewhere between endless Stack Overflow tabs, coffee refills, and “why is this not working??” moments, I grew a lot as a developer and as a human.&lt;/p&gt;
@@ -23,10 +23,10 @@
     
     <item>
       <title>Open Source Software that I Used in 2025</title>
-      <link>http://localhost:1313/techlog/2025-oss/</link>
+      <link>https://mdxabu.github.io/techlog/2025-oss/</link>
       <pubDate>Sun, 14 Dec 2025 10:45:48 +0530</pubDate>
       
-      <guid>http://localhost:1313/techlog/2025-oss/</guid>
+      <guid>https://mdxabu.github.io/techlog/2025-oss/</guid>
       
       <description>&lt;h1 id=&#34;zed&#34;&gt;Zed&lt;/h1&gt;
 &lt;p&gt;&lt;figure class=&#34;image-figure&#34;&gt;
@@ -39,10 +39,10 @@
     
     <item>
       <title>Four Years for What?</title>
-      <link>http://localhost:1313/posts/uni-scams/</link>
+      <link>https://mdxabu.github.io/posts/uni-scams/</link>
       <pubDate>Sat, 06 Dec 2025 20:37:34 +0530</pubDate>
       
-      <guid>http://localhost:1313/posts/uni-scams/</guid>
+      <guid>https://mdxabu.github.io/posts/uni-scams/</guid>
       
       <description>&lt;p&gt;&lt;figure class=&#34;image-figure&#34;&gt;
   &lt;img src=&#34;https://i.imgflip.com/6r90bm.jpg?a490032&#34; alt=&#34;&#34;  loading=&#34;lazy&#34;&gt;&lt;/figure&gt;
@@ -56,10 +56,10 @@
     
     <item>
       <title>So You Want to Get Into Google Summer of Code?</title>
-      <link>http://localhost:1313/techlog/gsoc/</link>
+      <link>https://mdxabu.github.io/techlog/gsoc/</link>
       <pubDate>Tue, 25 Nov 2025 11:11:03 +0530</pubDate>
       
-      <guid>http://localhost:1313/techlog/gsoc/</guid>
+      <guid>https://mdxabu.github.io/techlog/gsoc/</guid>
       
       <description>&lt;h1 id=&#34;let-me-be-honest-for-a-minute&#34;&gt;Let Me Be Honest For A Minute&lt;/h1&gt;
 &lt;p&gt;Every year a wave of students suddenly becomes deeply passionate about open source the moment they hear something about stipends, selections and resume glory. It is almost poetic. What is less poetic is the fact that most people treat open source like a limited time festival instead of an actual community. If your motivation begins and ends with a program name or a payout, you are already starting on the wrong foot.&lt;/p&gt;</description>
@@ -68,10 +68,10 @@
     
     <item>
       <title>How to Waste a CS Degree 101: A Masterclass by My College</title>
-      <link>http://localhost:1313/posts/toxic-education-system/</link>
+      <link>https://mdxabu.github.io/posts/toxic-education-system/</link>
       <pubDate>Tue, 22 Apr 2025 11:14:25 +0530</pubDate>
       
-      <guid>http://localhost:1313/posts/toxic-education-system/</guid>
+      <guid>https://mdxabu.github.io/posts/toxic-education-system/</guid>
       
       <description>&lt;h2 id=&#34;the-art-of-useless-electives&#34;&gt;The Art of Useless Electives&lt;/h2&gt;
 &lt;p&gt;I&amp;rsquo;ve held onto a lot of vengeance toward my college because of their actions and the useless courses they force on computer science students. Every semester, we have to pick 2-3 open elective subjects. There are so many actually useful electives for computer science like cloud computing or application development, but what do they pick? Social studies and environmental science. Completely unrelated! They choose these subjects because they&amp;rsquo;re easy to teach, not because they&amp;rsquo;re relevant. And even then, they can&amp;rsquo;t teach them properly. Absolutely fucking not.&lt;/p&gt;</description>
@@ -80,14 +80,14 @@
     
     <item>
       <title>Alaskan Season of Code</title>
-      <link>http://localhost:1313/techlog/asoc/</link>
+      <link>https://mdxabu.github.io/techlog/asoc/</link>
       <pubDate>Sun, 06 Apr 2025 11:51:43 +0530</pubDate>
       
-      <guid>http://localhost:1313/techlog/asoc/</guid>
+      <guid>https://mdxabu.github.io/techlog/asoc/</guid>
       
       <description>&lt;p&gt;Alaskan Season of Code is a volunteer-based, remote coding program where students collaborate on open-source projects, learning not just technical skills, but also how to work within a diverse, interdisciplinary environment. The program is designed to connect students with faculty mentors from the University of Alaska.&lt;/p&gt;
 &lt;p&gt;For more information, you can read about the program &lt;a href=&#34;https://github.com/uaanchorage/GSoC/blob/main/Alaskan-Season-of-Code.md&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
-&lt;embed src=&#34;http://localhost:1313/assets/asoc.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34; /&gt;
+&lt;embed src=&#34;https://mdxabu.github.io/assets/asoc.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34; /&gt;
 &lt;h1 id=&#34;my-role-in-the-program&#34;&gt;My Role in the Program&lt;/h1&gt;
 &lt;p&gt;I was fortunate enough to participate in this program from May 1st, 2024, to September 15th, 2024, under the mentorship of Dr. Pradeeban Kathiravelu, an Assistant Professor of Computer Science at the University of Alaska Anchorage. During the internship, I worked on the Beehive project, a data federation approach to analyze behavioral health and complement healthcare practices with community health metrics in Alaska.&lt;/p&gt;</description>
       
@@ -95,10 +95,10 @@
     
     <item>
       <title>Beehive: Leveraging the Expression of Marginalised Peoples.</title>
-      <link>http://localhost:1313/projects/beehive/</link>
+      <link>https://mdxabu.github.io/projects/beehive/</link>
       <pubDate>Thu, 23 Jan 2025 16:57:43 +0530</pubDate>
       
-      <guid>http://localhost:1313/projects/beehive/</guid>
+      <guid>https://mdxabu.github.io/projects/beehive/</guid>
       
       <description>&lt;p&gt;This project is compelling for its core aim of supporting marginalised people. Many individuals use art to express their emotions, and this work helps researchers understand behavioral and emotional patterns within these communities.&lt;/p&gt;
 &lt;h2 id=&#34;beehive&#34;&gt;Beehive&lt;/h2&gt;
@@ -109,10 +109,10 @@
     
     <item>
       <title>My Open Source Journey in 2024</title>
-      <link>http://localhost:1313/techlog/opensource2024/</link>
+      <link>https://mdxabu.github.io/techlog/opensource2024/</link>
       <pubDate>Tue, 31 Dec 2024 21:00:28 +0530</pubDate>
       
-      <guid>http://localhost:1313/techlog/opensource2024/</guid>
+      <guid>https://mdxabu.github.io/techlog/opensource2024/</guid>
       
       <description>&lt;p&gt;&lt;figure class=&#34;image-figure&#34;&gt;
   &lt;img src=&#34;https://images.pexels.com/photos/2041638/pexels-photo-2041638.jpeg?auto=compress&amp;amp;cs=tinysrgb&amp;amp;w=1260&amp;amp;h=750&amp;amp;dpr=1&#34; alt=&#34;banner&#34;  loading=&#34;lazy&#34;&gt;&lt;/figure&gt;
