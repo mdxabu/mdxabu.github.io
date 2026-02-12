@@ -1,0 +1,200 @@
+@import url("https://giscus.app/themes/light.css");
+
+/* ── Font & base text ── */
+main {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #333;
+    line-height: 1.6;
+}
+
+/* ── Hide powered-by footer ── */
+.gsc-footer {
+    display: none;
+}
+
+/* ── Main container ── */
+.gsc-main {
+    background-color: transparent;
+}
+
+/* ── Header ── */
+.gsc-header {
+    border-bottom: 1px solid #ececec;
+}
+
+.gsc-left-header {
+    color: #6b7886;
+    font-size: 0.9rem;
+}
+
+/* ── Comment box ── */
+.gsc-comment-box {
+    border: 1px solid #ececec;
+    border-radius: 6px;
+    background-color: #fff;
+}
+
+.gsc-comment-box-tabs {
+    border-bottom: 1px solid #ececec;
+    background-color: #fafafa;
+}
+
+.gsc-comment-box-bottom {
+    border-top: 1px solid #ececec;
+    background-color: #fafafa;
+}
+
+.gsc-comment-box textarea {
+    border: 1px solid #ececec;
+    border-radius: 4px;
+    background-color: #fff;
+    color: #333;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 0.95rem;
+    line-height: 1.6;
+}
+
+.gsc-comment-box textarea:focus {
+    border-color: #c4c8cc;
+    box-shadow: 0 0 0 2px rgba(0, 63, 255, 0.08);
+}
+
+.gsc-comment-box-preview {
+    border: 1px solid #ececec;
+    border-radius: 4px;
+    color: #333;
+}
+
+/* ── Comments ── */
+.gsc-comment {
+    border: 1px solid #ececec;
+    border-radius: 6px;
+    background-color: #fff;
+}
+
+.gsc-comment .gsc-comment-content {
+    color: #333;
+    font-size: 0.95rem;
+    line-height: 1.6;
+}
+
+.gsc-comment-author .gsc-comment-author-header {
+    color: #1a1a1a;
+}
+
+/* ── Replies ── */
+.gsc-replies {
+    border-top: 1px solid #ececec;
+    background-color: #fafafa;
+}
+
+.gsc-reply {
+    border-top: 1px solid #ececec;
+}
+
+.gsc-reply-box {
+    border-top: 1px solid #ececec;
+}
+
+/* ── Reactions ── */
+.gsc-reactions {
+    border: 1px solid #ececec;
+    border-radius: 6px;
+    background-color: #fff;
+}
+
+.gsc-reactions-button {
+    border: 1px solid #ececec;
+    border-radius: 20px;
+    color: #6b7886;
+}
+
+.gsc-reactions-button:hover {
+    border-color: #c4c8cc;
+    background-color: #fafafa;
+}
+
+.gsc-social-reaction-summary-item {
+    border: 1px solid #ececec;
+    border-radius: 20px;
+    color: #6b7886;
+}
+
+.gsc-social-reaction-summary-item:hover {
+    border-color: #c4c8cc;
+    background-color: #fafafa;
+}
+
+.gsc-emoji-button {
+    border: 1px solid #ececec;
+    border-radius: 8px;
+}
+
+.gsc-emoji-button:hover {
+    border-color: #c4c8cc;
+    background-color: #fafafa;
+}
+
+.gsc-direct-reaction-buttons details summary {
+    border: 1px solid #ececec;
+    border-radius: 20px;
+    color: #6b7886;
+}
+
+/* ── Buttons ── */
+.btn-primary {
+    border-radius: 4px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 500;
+}
+
+.BtnGroup-item {
+    border: 1px solid #ececec;
+}
+
+/* ── Avatars ── */
+.gsc-comment-author-avatar img,
+.gsc-reply-author-avatar img {
+    border-radius: 50%;
+}
+
+/* ── Borders & utility overrides ── */
+.color-border-default {
+    border-color: #ececec !important;
+}
+
+.border,
+.border-top,
+.border-bottom,
+.border-left,
+.border-right {
+    border-color: #ececec !important;
+}
+
+/* ── Timeline connector ── */
+.gsc-timeline {
+    border-left-color: #ececec;
+}
+
+/* ── Pagination ── */
+.pagination-loader-container .pagination-loader-button {
+    border: 1px solid #ececec;
+    border-radius: 4px;
+    color: #6b7886;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.pagination-loader-container .pagination-loader-button:hover {
+    border-color: #c4c8cc;
+    background-color: #fafafa;
+}
+
+/* ── Links inside comments ── */
+.gsc-comment-content a {
+    color: #003fff;
+    text-decoration: none;
+}
+
+.gsc-comment-content a:hover {
+    color: #0036c7;
+}

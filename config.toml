@@ -129,5 +129,9 @@ name = "email"
 url = "mailto:me.mdxabu@gmail.com"
 
 [[params.socialIcons]]
+name = "twitch"
+url = "https://twitch.tv/mdxabu"
+
+[[params.socialIcons]]
 name = "discord"
 url = "https://discord.gg/nwhpV5kbRq"
