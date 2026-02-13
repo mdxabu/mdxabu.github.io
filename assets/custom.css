@@ -1,0 +1,74 @@
+/* Custom styles to increase font size and site width */
+
+body {
+    font-size: 18px; /* Slightly larger than the default 17px */
+}
+
+.wrapper {
+    max-width: 800px; /* Increased from default ~660px for wider content area */
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+/* Hide Giscus powered-by footer */
+.giscus .gsc-footer {
+    display: none !important;
+}
+
+/* Style copy button as a new icon on top right of code blocks */
+.code-copy-button {
+    top: 0.25rem;
+    right: 0.25rem;
+    z-index: 10;
+    background: none;
+    border: none;
+    padding: 0;
+    opacity: 0.7;
+    color: #2698ba;
+}
+
+.code-copy-button:hover {
+    opacity: 1;
+    transform: none;
+}
+
+.code-copy-button:active {
+    transform: none;
+}
+
+/* Match link color in blog content to TOC colors */
+article a {
+    color: #2698ba !important;
+}
+
+article a:hover {
+    color: #2698ba !important;
+}
+
+.post-tag {
+    color: #2698ba !important;
+}
+
+.post-tag:hover {
+    color: #2698ba !important;
+}
+
+/* Ensure other blogs section uses the same color as TOC */
+.other-blogs__title {
+    color: #2698ba !important;
+}
+
+/* Make home icon and navbar font hover color the same as darker blogs font color */
+.navbar a:hover,
+.logo:hover {
+    color: #000 !important;
+}
+
+/* Match blog listing titles to tags color */
+.post-item-title a {
+    color: #1a1d1f !important;
+}
+
+.post-item-title a:hover {
+    color: #1a1d1f !important;
+}
