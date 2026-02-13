@@ -24,7 +24,7 @@ body {
     border: none;
     padding: 0;
     opacity: 0.7;
-    color: #2698ba;
+    color: #1e7a9c;
 }
 
 .code-copy-button:hover {
@@ -38,24 +38,24 @@ body {
 
 /* Match link color in blog content to TOC colors */
 article a {
-    color: #2698ba !important;
+    color: #1e7a9c !important;
 }
 
 article a:hover {
-    color: #2698ba !important;
+    color: #1e7a9c !important;
 }
 
 .post-tag {
-    color: #2698ba !important;
+    color: #1e7a9c !important;
 }
 
 .post-tag:hover {
-    color: #2698ba !important;
+    color: #1e7a9c !important;
 }
 
 /* Ensure other blogs section uses the same color as TOC */
 .other-blogs__title {
-    color: #2698ba !important;
+    color: #1e7a9c !important;
 }
 
 /* Make home icon and navbar font hover color the same as darker blogs font color */
@@ -71,4 +71,9 @@ article a:hover {
 
 .post-item-title a:hover {
     color: #1a1d1f !important;
+}
+
+/* Make date color in listings lighter */
+.post-item-meta {
+    color: #888 !important;
 }
