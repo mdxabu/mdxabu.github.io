@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Mohamed Abdullah</title>
-    <link>https://mdxabu.github.io/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Mohamed Abdullah</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Jan 2026 11:01:26 +0530</lastBuildDate><atom:link href="https://mdxabu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Jan 2026 11:01:26 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Slice of Life</title>
-      <link>https://mdxabu.github.io/tags/slice-of-life/</link>
+      <link>http://localhost:1313/tags/slice-of-life/</link>
       <pubDate>Thu, 22 Jan 2026 11:01:26 +0530</pubDate>
       
-      <guid>https://mdxabu.github.io/tags/slice-of-life/</guid>
+      <guid>http://localhost:1313/tags/slice-of-life/</guid>
       
       <description></description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>Social Awareness</title>
-      <link>https://mdxabu.github.io/tags/social-awareness/</link>
+      <link>http://localhost:1313/tags/social-awareness/</link>
       <pubDate>Mon, 05 Jan 2026 17:02:43 +0530</pubDate>
       
-      <guid>https://mdxabu.github.io/tags/social-awareness/</guid>
+      <guid>http://localhost:1313/tags/social-awareness/</guid>
       
       <description></description>
       
@@ -31,10 +31,10 @@
     
     <item>
       <title>App</title>
-      <link>https://mdxabu.github.io/tags/app/</link>
+      <link>http://localhost:1313/tags/app/</link>
       <pubDate>Mon, 05 Jan 2026 17:02:43 +0530</pubDate>
       
-      <guid>https://mdxabu.github.io/tags/app/</guid>
+      <guid>http://localhost:1313/tags/app/</guid>
       
       <description></description>
       
@@ -42,10 +42,10 @@
     
     <item>
       <title>AI</title>
-      <link>https://mdxabu.github.io/tags/ai/</link>
+      <link>http://localhost:1313/tags/ai/</link>
       <pubDate>Mon, 05 Jan 2026 17:02:43 +0530</pubDate>
       
-      <guid>https://mdxabu.github.io/tags/ai/</guid>
+      <guid>http://localhost:1313/tags/ai/</guid>
       
       <description></description>
       
@@ -53,10 +53,10 @@
     
     <item>
       <title>Open Source</title>
-      <link>https://mdxabu.github.io/tags/open-source/</link>
+      <link>http://localhost:1313/tags/open-source/</link>
       <pubDate>Wed, 31 Dec 2025 20:56:35 +0530</pubDate>
       
-      <guid>https://mdxabu.github.io/tags/open-source/</guid>
+      <guid>http://localhost:1313/tags/open-source/</guid>
       
       <description></description>
       
@@ -64,10 +64,10 @@
     
     <item>
       <title>Community</title>
-      <link>https://mdxabu.github.io/tags/community/</link>
+      <link>http://localhost:1313/tags/community/</link>
       <pubDate>Wed, 31 Dec 2025 20:56:35 +0530</pubDate>
       
-      <guid>https://mdxabu.github.io/tags/community/</guid>
+      <guid>http://localhost:1313/tags/community/</guid>
       
       <description></description>
       
@@ -75,10 +75,10 @@
     
     <item>
       <title>Development</title>
-      <link>https://mdxabu.github.io/tags/development/</link>
+      <link>http://localhost:1313/tags/development/</link>
       <pubDate>Wed, 31 Dec 2025 17:09:31 +0530</pubDate>
       
-      <guid>https://mdxabu.github.io/tags/development/</guid>
+      <guid>http://localhost:1313/tags/development/</guid>
       
       <description></description>
       
@@ -86,10 +86,10 @@
     
     <item>
       <title>Code</title>
-      <link>https://mdxabu.github.io/tags/code/</link>
+      <link>http://localhost:1313/tags/code/</link>
       <pubDate>Wed, 31 Dec 2025 17:09:31 +0530</pubDate>
       
-      <guid>https://mdxabu.github.io/tags/code/</guid>
+      <guid>http://localhost:1313/tags/code/</guid>
       
       <description></description>
       
@@ -97,10 +97,10 @@
     
     <item>
       <title>Mental Health</title>
-      <link>https://mdxabu.github.io/tags/mental-health/</link>
+      <link>http://localhost:1313/tags/mental-health/</link>
       <pubDate>Mon, 29 Dec 2025 18:37:44 +0530</pubDate>
       
-      <guid>https://mdxabu.github.io/tags/mental-health/</guid>
+      <guid>http://localhost:1313/tags/mental-health/</guid>
       
       <description></description>
       
@@ -108,10 +108,10 @@
     
     <item>
       <title>Education</title>
-      <link>https://mdxabu.github.io/tags/education/</link>
+      <link>http://localhost:1313/tags/education/</link>
       <pubDate>Sat, 06 Dec 2025 20:37:34 +0530</pubDate>
       
-      <guid>https://mdxabu.github.io/tags/education/</guid>
+      <guid>http://localhost:1313/tags/education/</guid>
       
       <description></description>
       
@@ -119,10 +119,10 @@
     
     <item>
       <title>IDE</title>
-      <link>https://mdxabu.github.io/tags/ide/</link>
+      <link>http://localhost:1313/tags/ide/</link>
       <pubDate>Wed, 03 Dec 2025 19:54:57 +0530</pubDate>
       
-      <guid>https://mdxabu.github.io/tags/ide/</guid>
+      <guid>http://localhost:1313/tags/ide/</guid>
       
       <description></description>
       
@@ -130,10 +130,10 @@
     
     <item>
       <title>Google Summer of Code</title>
-      <link>https://mdxabu.github.io/tags/google-summer-of-code/</link>
+      <link>http://localhost:1313/tags/google-summer-of-code/</link>
       <pubDate>Tue, 25 Nov 2025 11:11:03 +0530</pubDate>
       
-      <guid>https://mdxabu.github.io/tags/google-summer-of-code/</guid>
+      <guid>http://localhost:1313/tags/google-summer-of-code/</guid>
       
       <description></description>
       
@@ -141,10 +141,10 @@
     
     <item>
       <title>Java</title>
-      <link>https://mdxabu.github.io/tags/java/</link>
+      <link>http://localhost:1313/tags/java/</link>
       <pubDate>Thu, 06 Nov 2025 13:42:21 +0530</pubDate>
       
-      <guid>https://mdxabu.github.io/tags/java/</guid>
+      <guid>http://localhost:1313/tags/java/</guid>
       
       <description></description>
       
@@ -152,10 +152,10 @@
     
     <item>
       <title>Travel</title>
-      <link>https://mdxabu.github.io/tags/travel/</link>
+      <link>http://localhost:1313/tags/travel/</link>
       <pubDate>Mon, 01 Sep 2025 21:51:38 +0530</pubDate>
       
-      <guid>https://mdxabu.github.io/tags/travel/</guid>
+      <guid>http://localhost:1313/tags/travel/</guid>
       
       <description></description>
       
@@ -163,10 +163,10 @@
     
     <item>
       <title>Project</title>
-      <link>https://mdxabu.github.io/tags/project/</link>
+      <link>http://localhost:1313/tags/project/</link>
       <pubDate>Fri, 25 Jul 2025 21:33:06 +0530</pubDate>
       
-      <guid>https://mdxabu.github.io/tags/project/</guid>
+      <guid>http://localhost:1313/tags/project/</guid>
       
       <description></description>
       
