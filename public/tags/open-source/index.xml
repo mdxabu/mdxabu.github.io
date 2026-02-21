@@ -99,20 +99,6 @@ Project A needs Java 8, Project B screams for Java 17, and Project C? It says, �
     </item>
     
     <item>
-      <title>Is this project important?</title>
-      <link>http://localhost:1313/techlog/is-this-project-important/</link>
-      <pubDate>Fri, 25 Jul 2025 21:33:06 +0530</pubDate>
-      
-      <guid>http://localhost:1313/techlog/is-this-project-important/</guid>
-      
-      <description>&lt;p&gt;So I had this weird idea: what if I could run Docker containers that only use IPv6, but still let them connect to all the old-school IPv4-only services that most of the internet still runs on?&lt;/p&gt;
-&lt;p&gt;it’s not something Docker just magically does out of the box, but it turns out&amp;hellip; with a little NAT64 and DNS64 magic, you can actually make it work.&lt;/p&gt;
-&lt;h2 id=&#34;why-im-going-to-do-this&#34;&gt;Why I’m going to do This&lt;/h2&gt;
-&lt;p&gt;Why not? It sounded like a fun project, and I hadn&amp;rsquo;t played with NAT64.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
       <title>Alaskan Season of Code</title>
       <link>http://localhost:1313/techlog/asoc/</link>
       <pubDate>Sun, 06 Apr 2025 11:51:43 +0530</pubDate>
