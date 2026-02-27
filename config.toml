@@ -54,12 +54,23 @@ name = 'Projects'
 url = '/projects/'
 weight = 50
 
+[[menu.main]]
+pageRef = "research"
+name = 'Research'
+url = '/research'
+weight = 60
+
+[[menu.main]]
+pageRef = "gallery"
+name = 'Gallery'
+url = '/gallery'
+weight = 70
 
 [[menu.main]]
 pageRef = "tags"
 name = 'Tags'
 url = '/tags/'
-weight = 60
+weight = 80
 
 
 
