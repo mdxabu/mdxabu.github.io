@@ -1,9 +1,12 @@
-+++
-draft = false
-title = 'News'
-toc = false
-comments = false
-+++
+---
+# date : '2026-02-27T16:29:21+05:30'
+draft : false
+title : 'News'
+toc : false
+comments: false
+otherBlogs: false
+image: ""
+---
 
 - 19/02/2026: `Alaska` is accepted for the third time as a mentoring organization for the `Google Summer of Code (GSoC)`. We are looking forward to a productive `GSoC 2026` after our successful `GSoC 2025` with `8 contributors` and `GSoC 2024 with 4 contributors`.
 

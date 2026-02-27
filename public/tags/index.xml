@@ -161,5 +161,27 @@
       
     </item>
     
+    <item>
+      <title>Trip</title>
+      <link>http://localhost:1313/tags/trip/</link>
+      <pubDate>Wed, 20 Aug 2025 17:06:24 +0530</pubDate>
+      
+      <guid>http://localhost:1313/tags/trip/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Photography</title>
+      <link>http://localhost:1313/tags/photography/</link>
+      <pubDate>Wed, 20 Aug 2025 17:06:24 +0530</pubDate>
+      
+      <guid>http://localhost:1313/tags/photography/</guid>
+      
+      <description></description>
+      
+    </item>
+    
   </channel>
 </rss>

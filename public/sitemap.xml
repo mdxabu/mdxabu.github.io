@@ -119,6 +119,12 @@
     <loc>http://localhost:1313/tags/travel/</loc>
     <lastmod>2025-09-01T21:51:38+05:30</lastmod>
   </url><url>
+    <loc>http://localhost:1313/gallery/</loc>
+    <lastmod>2025-08-20T17:06:24+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/gallery/ksa/</loc>
+    <lastmod>2025-08-20T17:06:24+05:30</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/silent-glances/</loc>
     <lastmod>2025-08-04T22:09:15+05:30</lastmod>
   </url><url>
@@ -162,8 +168,6 @@
     <lastmod>2024-12-31T21:00:28+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/gallery/</loc>
   </url><url>
     <loc>http://localhost:1313/news/</loc>
   </url><url>

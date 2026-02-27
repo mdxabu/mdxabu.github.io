@@ -5,8 +5,7 @@ title : 'Research'
 toc : false
 comments: false
 otherBlogs: false
-tags: []
-image: ""
+image: "https://pbs.twimg.com/media/DB3Uy_pUQAAVpsv.jpg"
 ---
 
 
