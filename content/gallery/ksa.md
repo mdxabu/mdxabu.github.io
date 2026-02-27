@@ -1,7 +1,7 @@
 ---
 date : '2025-08-20T17:06:24+05:30'
 draft : false
-title : 'Kingdom of Saudi Arabia'
+title : 'Kingdom of Saudi Arabia (Mecca and Medina)'
 toc : false
 comments: true
 otherBlogs: false
