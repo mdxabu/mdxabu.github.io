@@ -1,7 +1,7 @@
 ---
 date : '2026-03-06T15:34:42+05:30'
 draft : false
-title : 'Not Enough'
+title : 'When Is Enough Truly Enough?'
 toc : false
 comments: true
 otherBlogs: true
