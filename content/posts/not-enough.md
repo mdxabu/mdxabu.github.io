@@ -5,8 +5,8 @@ title : 'When Is Enough Truly Enough?'
 toc : false
 comments: true
 otherBlogs: true
-tags: []
-image: ""
+tags: ["Slice of Life","Mental Health"]
+image: "https://media.istockphoto.com/id/182858725/vector/the-miser.jpg?s=612x612&w=0&k=20&c=aeYzrkSFrbO9DNvbWZXZJyPhDPf8JNbVpdN4W59-43k="
 ---
 
 Many people rarely stop to consider whether they already have enough in their lives.
