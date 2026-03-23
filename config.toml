@@ -61,15 +61,15 @@ url = '/posts/'
 weight = 60
 
 [[menu.main]]
-pageRef = "gallery"
-name = 'Gallery'
-url = '/gallery/'
-weight = 70
-
-[[menu.main]]
 pageRef = "kavithai"
 name = 'கவிதை'
 url = '/kavithai/'
+weight = 70
+
+[[menu.main]]
+pageRef = "gallery"
+name = 'Gallery'
+url = '/gallery/'
 weight = 80
 
 [[menu.main]]
