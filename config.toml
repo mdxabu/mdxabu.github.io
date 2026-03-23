@@ -37,27 +37,27 @@ url = '/techlog'
 weight = 20
 
 [[menu.main]]
-pageRef = "posts"
-name = 'Musings'
-url = '/posts/'
-weight = 30
-
-[[menu.main]]
 pageRef = "news"
 name = 'News'
 url = '/news'
-weight = 40
+weight = 30
 
 [[menu.main]]
 pageRef = "projects"
 name = 'Projects'
 url = '/projects/'
-weight = 50
+weight = 40
 
 [[menu.main]]
 pageRef = "research"
 name = 'Research'
 url = '/research'
+weight = 50
+
+[[menu.main]]
+pageRef = "posts"
+name = 'Musings'
+url = '/posts/'
 weight = 60
 
 [[menu.main]]
@@ -67,11 +67,16 @@ url = '/gallery/'
 weight = 70
 
 [[menu.main]]
+pageRef = "kavithai"
+name = 'கவிதை'
+url = '/kavithai/'
+weight = 80
+
+[[menu.main]]
 pageRef = "tags"
 name = 'Tags'
 url = '/tags/'
-weight = 80
-
+weight = 90
 
 
 
@@ -98,7 +103,7 @@ twitterCardType = "summary_large_image"
 
 [params.author]
 favicon = "icons/favicon.svg"                                  # Path to favicon image in static directory
-avatar = "https://images.pexels.com/photos/281260/pexels-photo-281260.jpeg"                                                                  # External URL for avatar image
+avatar = "/images/Abu.JPG"                                                                  # External URL for avatar image
 name = "Mohamed Abdullah (Abu)"
 username = "@mdxabu"
 description = "I’m Abu, This is where I share what I love."
