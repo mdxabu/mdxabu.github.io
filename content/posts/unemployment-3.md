@@ -20,7 +20,7 @@ The house feels loud even when it is quiet. Every small task turns into a judgem
 
 I still try to keep a routine. I search, apply, learn, and rewrite my resume. I take breaks, I breathe, and I try to be kind to myself. But it is hard when the world keeps telling you that you are not enough.
 
-If I had to say to anyone who are in college, get any job and live a life. Do not be like me. Get that first step early, even if it is small.
+If I had to say to anyone who are in college, get any job and live a life. Don't be like me. Get that first step early, even if it is small.
 
 I am writing this to remember that this phase will pass. I want to hold on to the idea that a door will open and I will walk through it with courage.
 
