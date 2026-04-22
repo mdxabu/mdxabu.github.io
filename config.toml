@@ -37,12 +37,6 @@ url = '/techlog'
 weight = 20
 
 [[menu.main]]
-pageRef = "news"
-name = 'News'
-url = '/news'
-weight = 30
-
-[[menu.main]]
 pageRef = "projects"
 name = 'Projects'
 url = '/projects/'
@@ -61,9 +55,9 @@ url = '/posts/'
 weight = 60
 
 [[menu.main]]
-pageRef = "kavithai"
-name = 'கவிதை'
-url = '/kavithai/'
+pageRef = "news"
+name = 'News'
+url = '/news'
 weight = 70
 
 [[menu.main]]
