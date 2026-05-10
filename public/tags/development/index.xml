@@ -1,24 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Development on Mohamed Abdullah</title>
-    <link>http://localhost:1313/tags/development/</link>
-    <description>Recent content in Development on Mohamed Abdullah</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 31 Dec 2025 17:09:31 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/development/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Signs: How to Spot AI-Written Code in the Wild</title>
-      <link>http://localhost:1313/techlog/ai-patterns/</link>
-      <pubDate>Wed, 31 Dec 2025 17:09:31 +0530</pubDate>
-      
-      <guid>http://localhost:1313/techlog/ai-patterns/</guid>
-      
-      <description>&lt;h2 id=&#34;introduction-the-rise-of-the-ai-code-contributor&#34;&gt;Introduction: The Rise of the AI Code Contributor&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Development on Mohamed Abdullah</title><link>https://mdxabu.github.io/tags/development/</link><description>Recent content in Development on Mohamed Abdullah</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 31 Dec 2025 17:09:31 +0530</lastBuildDate><atom:link href="https://mdxabu.github.io/tags/development/index.xml" rel="self" type="application/rss+xml"/><item><title>Signs: How to Spot AI-Written Code in the Wild</title><link>https://mdxabu.github.io/techlog/ai-patterns/</link><pubDate>Wed, 31 Dec 2025 17:09:31 +0530</pubDate><guid>https://mdxabu.github.io/techlog/ai-patterns/</guid><description>&lt;h2 id="introduction-the-rise-of-the-ai-code-contributor"&gt;Introduction: The Rise of the AI Code Contributor&lt;/h2&gt;
 &lt;p&gt;We&amp;rsquo;re living in an interesting time. AI coding assistants have become ubiquitous in modern software development. GitHub Copilot, ChatGPT, Claude, and countless other tools are writing millions of lines of code every day. And while there&amp;rsquo;s nothing inherently wrong with using AI to boost productivity, there&amp;rsquo;s a growing phenomenon that&amp;rsquo;s becoming impossible to ignore: &lt;strong&gt;AI-generated code has a fingerprint&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;As someone who reviews code regularly, I&amp;rsquo;ve noticed patterns that scream &amp;ldquo;AI wrote this!&amp;rdquo; louder than a syntax error in production. The most glaring? &lt;strong&gt;Emojis in documentation&lt;/strong&gt; and &lt;strong&gt;obsessively structured comments&lt;/strong&gt;. Let me explain why these patterns are dead giveaways and what they reveal about the current state of AI-assisted development.&lt;/p&gt;</description>
-      
-    </item>
-    
-  </channel>
-</rss>
+&lt;p&gt;As someone who reviews code regularly, I&amp;rsquo;ve noticed patterns that scream &amp;ldquo;AI wrote this!&amp;rdquo; louder than a syntax error in production. The most glaring? &lt;strong&gt;Emojis in documentation&lt;/strong&gt; and &lt;strong&gt;obsessively structured comments&lt;/strong&gt;. Let me explain why these patterns are dead giveaways and what they reveal about the current state of AI-assisted development.&lt;/p&gt;</description></item></channel></rss>

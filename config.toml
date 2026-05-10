@@ -23,7 +23,6 @@ startLevel = 1
 endLevel = 4
 ordered = false
 
-[menu]
 [[menu.main]]
 pageRef = "/"
 name = 'Home'
@@ -31,10 +30,16 @@ url = '/'
 weight = 10
 
 [[menu.main]]
+pageRef = "about"
+name = 'About'
+url = '/about'
+weight = 20
+
+[[menu.main]]
 pageRef = "techlog"
 name = 'Tech Log'
 url = '/techlog'
-weight = 20
+weight = 30
 
 [[menu.main]]
 pageRef = "projects"

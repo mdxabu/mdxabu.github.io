@@ -640,5 +640,16 @@ April 2026. 8 pages. Accepted.&lt;/li&gt;
       
     </item>
     
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      
+      <description>&lt;p&gt;I’m &lt;strong&gt;Mohamed Abdullah (Abu)&lt;/strong&gt;, I’m a Computer Science and Engineering Under Graduated Student and an open-source enthusiast who loves building tools that solve real-world problems. I enjoy working at the intersection of systems, networks, and software, with a strong focus on backend development, developer tooling, and Internet resilience. Through programs like &lt;a href=&#34;https://summerofcode.withgoogle.com/archive/2025/projects/VAxzRsh8&#34;&gt;Google Summer of Code&lt;/a&gt; and &lt;a href=&#34;http://localhost:1313/assets/asoc.pdf&#34;&gt;Alaskan Season of Code&lt;/a&gt;, I’ve collaborated with researchers and contributors to build impactful open-source projects using technologies like Go, Python, Flask, Docker, and Linux.&lt;/p&gt;</description>
+      
+    </item>
+    
   </channel>
 </rss>
