@@ -121,7 +121,7 @@ TileColor = "#fff"
 
 [[params.socialIcons]]
 name = "Rss"
-url = "index.xml"
+url = "/index.xml"
 
 [[params.socialIcons]]
 name = "github"
