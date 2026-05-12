@@ -3,7 +3,7 @@
 draft : false
 title : 'About'
 toc : false
-comments: true
+comments: false
 otherBlogs: false
 tags: []
 image: ""
