@@ -3,9 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-06-16T16:00:57+05:30</lastmod>
+    <lastmod>2026-07-16T22:14:35+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/podhum-da/</loc>
+    <lastmod>2026-07-16T22:14:35+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-07-16T22:14:35+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/caste-system/</loc>
+    <lastmod>2026-06-16T16:00:57+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/equality/</loc>
+    <lastmod>2026-06-16T16:00:57+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/marginalized-communities/</loc>
+    <lastmod>2026-06-16T16:00:57+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/social-justice/</loc>
+    <lastmod>2026-06-16T16:00:57+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/sociology/</loc>
+    <lastmod>2026-06-16T16:00:57+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2026-06-16T16:00:57+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/untouchables/</loc>
@@ -18,9 +39,6 @@
     <lastmod>2026-06-12T16:21:47+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/still-here/</loc>
-    <lastmod>2026-06-12T16:21:47+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2026-06-12T16:21:47+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/sonna-kelunga-da/</loc>
