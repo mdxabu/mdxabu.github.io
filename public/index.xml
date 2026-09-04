@@ -14,9 +14,9 @@
       
       <guid>http://localhost:1313/techlog/ai-lazy/</guid>
       
-      <description>&lt;p&gt;AI has completely changed the way we develop software. There was a time when, if we got an error, we would spend hours searching Google, reading documentation, going through Stack Overflow, trying different solutions, and sometimes even asking another developer for help. Now, we can simply copy the error, put it into an AI tool, and get an explanation and a possible solution within seconds.&lt;/p&gt;
-&lt;p&gt;Honestly, that&amp;rsquo;s amazing.&lt;/p&gt;
-&lt;p&gt;As a developer, I don&amp;rsquo;t think AI is something we should be afraid of. I use AI too. It helps me write code faster, understand unfamiliar concepts, generate boilerplate, explore different approaches, and sometimes save hours of unnecessary work.&lt;/p&gt;</description>
+      <description>&lt;p&gt;AI has made software development faster. That part is not controversial. A good assistant can explain an unfamiliar API, generate boilerplate, find a missed edge case, and make repetitive work disappear.&lt;/p&gt;
+&lt;p&gt;The problem is not using AI. The problem is giving it the parts of development that build judgment: forming a hypothesis, reading an error, choosing a trade-off, and checking whether a solution is actually safe.&lt;/p&gt;
+&lt;p&gt;The useful goal is simple:&lt;/p&gt;</description>
       
     </item>
     

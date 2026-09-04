@@ -14,7 +14,9 @@
       
       <guid>http://localhost:1313/techlog/ai-lazy/</guid>
       
-      <description></description>
+      <description>&lt;p&gt;AI has made software development faster. That part is not controversial. A good assistant can explain an unfamiliar API, generate boilerplate, find a missed edge case, and make repetitive work disappear.&lt;/p&gt;
+&lt;p&gt;The problem is not using AI. The problem is giving it the parts of development that build judgment: forming a hypothesis, reading an error, choosing a trade-off, and checking whether a solution is actually safe.&lt;/p&gt;
+&lt;p&gt;The useful goal is simple:&lt;/p&gt;</description>
       
     </item>
     

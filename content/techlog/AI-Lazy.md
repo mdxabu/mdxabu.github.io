@@ -2,586 +2,155 @@
 date : '2026-09-04T21:12:55+05:30'
 draft : false
 title : 'How AI Makes Developers Lazy and Dependent, And How to Come Out of It'
-toc : false
+toc : true
 comments: true
 otherBlogs: true
 tags: ["AI", "Code", "Development"]
 image: ""
 ---
 
+AI has made software development faster. That part is not controversial. A good assistant can explain an unfamiliar API, generate boilerplate, find a missed edge case, and make repetitive work disappear.
 
-AI has completely changed the way we develop software. There was a time when, if we got an error, we would spend hours searching Google, reading documentation, going through Stack Overflow, trying different solutions, and sometimes even asking another developer for help. Now, we can simply copy the error, put it into an AI tool, and get an explanation and a possible solution within seconds.
+The problem is not using AI. The problem is giving it the parts of development that build judgment: forming a hypothesis, reading an error, choosing a trade-off, and checking whether a solution is actually safe.
 
-Honestly, that's amazing.
+The useful goal is simple:
 
-As a developer, I don't think AI is something we should be afraid of. I use AI too. It helps me write code faster, understand unfamiliar concepts, generate boilerplate, explore different approaches, and sometimes save hours of unnecessary work.
+> **Use AI to reduce typing, not to avoid thinking.**
 
-But there is another side to this.
+![A developer using AI as an assistant](https://noviotechcampus.com/wp-content/uploads/pim.png)
 
-**AI can make us lazy.**
+## The dependency loop
 
-![](https://noviotechcampus.com/wp-content/uploads/pim.png)
+AI dependence rarely begins with a dramatic decision. It begins with a small shortcut:
 
-And even worse, it can make us dependent.
+> “Give me a regex.”
+> “Fix this error.”
+> “Write this SQL query.”
 
-Not because AI is intentionally making us lazy. It's because humans naturally prefer the easier path. If something that used to take one hour can now be done in two minutes, why would we choose the one-hour path?
+That shortcut saves time, so we repeat it. Soon we ask for a component, then an API, then an entire feature. The important change is not the size of the prompt; it is that we stop attempting the problem before asking.
 
-That's where we need to be careful.
+The result is a developer who can produce code quickly but cannot reliably explain, modify, or debug it. That is not productivity. It is an unreviewed dependency in the development process.
 
-## The Problem Starts Very Slowly
+<details>
+<summary>Quick self-check: are you becoming dependent?</summary>
 
-I don't think most developers suddenly become dependent on AI.
+Answer honestly. Do you open an AI tool before reading the error? Can you explain the code it generated without asking it to explain the explanation? Could you make a small change if the tool were unavailable? Do you accept a solution because it looks clean rather than because you tested its assumptions?
 
-It happens slowly.
+One “yes” is not a diagnosis. A repeated pattern is a signal to change your workflow.
+</details>
 
-First, we use AI for small things.
+## Working code is not the same as understanding
 
-> "Give me a regex for this."
+Consider authentication. Asking an AI tool to “build secure authentication in Node.js” may produce hundreds of lines in seconds. It may even pass a happy-path test. That says very little about whether the implementation handles password storage, session invalidation, token expiry, authorization boundaries, replay attacks, secrets, or failure responses correctly.
 
-> "Fix this error."
+You do not need to memorize every framework method. You do need enough understanding to answer:
 
-> "Write this SQL query."
+1. What does this code assume?
+2. What data can an attacker control?
+3. What happens when the network, database, or token fails?
+4. How would I change this requirement next month?
 
-> "Explain this function."
+If you cannot answer those questions, you have not finished the feature. You have imported a feature-shaped guess.
 
-Nothing wrong with that.
+The same applies outside security. Generated code can use an outdated API, invent a library function, hide an inefficient query, introduce an unnecessary dependency, or solve a different problem from the one you have. Polished formatting is not evidence of correctness.
 
-Then we start using it for bigger things.
+## The struggle is part of the skill
 
-> "Create this API."
+When you read an error, form a theory, test it, and discover why you were wrong, you build reusable intuition. The next similar failure becomes easier because you have a mental model, not because you remember a pasted answer.
 
-> "Build this component."
+That does not mean every problem deserves an hour of suffering. It means you should distinguish learning from repetition. If you already understand a task and are automating routine work, use AI freely. If you are learning SQL, concurrency, React, or system design, do not outsource the entire exercise.
 
-> "Write the authentication logic."
+> **Do not outsource the skill you are currently trying to develop.**
 
-> "Design the database."
+## A better workflow: attempt, ask, verify
 
-Still, it feels harmless because we're getting more productive.
-Then eventually, something changes. We stop trying first. We open the AI tool before opening the documentation.
-We ask AI before thinking about the problem.
-We don't even spend five minutes trying to understand the error ourselves.
-And that's the point where I think we should start asking ourselves:
+Use AI after you have done enough thinking to give it useful context.
 
-**Am I using AI, or is AI doing the thinking for me?**
+### 1. Attempt the problem
 
-## The "Just Give Me the Code" Mentality
+Read the error and the surrounding code. State what you think is happening. Try a small change or a minimal reproduction. For a familiar bug, this may take two minutes; for a new concept, give yourself fifteen or twenty.
 
-One of the biggest problems I've noticed with AI-assisted development is the "just give me the code" mentality.
-We have a problem, and instead of understanding it, we immediately ask AI for the implementation.
-For example, imagine you're trying to build an authentication system.
+### 2. Ask for reasoning, not a replacement
 
-You could spend time learning:
+Weak prompt:
 
-- How sessions work
-- How tokens work
-- What JWT actually does
-- How passwords should be hashed
-- What authentication and authorization mean
-- What can go wrong
-- How tokens expire
-- What security issues exist
+> Fix this function.
 
-Or you could simply tell AI:
+Useful prompt:
 
-> "Build a secure authentication system using Node.js."
+> I expected `fetchUser` to return a user, but it returns `undefined` after a failed request. I checked the response status and tried awaiting the call. Here is the smallest reproduction. What assumptions should I verify, and what are two possible fixes?
 
-And there you go.
-You have hundreds of lines of code.
-It might even work perfectly.
-But here's the question:
+The second prompt keeps you involved. It asks for hypotheses and trade-offs instead of pretending the context is complete.
 
-**Do you understand what you just added to your application?**
+### 3. Verify the answer
 
-If the answer is no, then you didn't really solve the problem.
-You just moved the problem somewhere else.
+Read every line you intend to keep. Check the official documentation for APIs and security-sensitive behavior. Run tests that cover failure paths, not only the successful example. Then ask yourself whether you could explain the change in a code review.
 
-## Working Code Doesn't Always Mean Understanding
+| Task | Good use of AI | Your responsibility |
+| --- | --- | --- |
+| Boilerplate | Generate a first draft | Fit it to the project and remove unnecessary code |
+| Debugging | Suggest hypotheses and experiments | Reproduce the bug and identify the actual cause |
+| Learning | Explain a concept or quiz you | Solve a small exercise without copying |
+| Review | Find edge cases and risks | Decide which findings are valid and test them |
+| Architecture | Compare options | Own the requirements, constraints, and trade-offs |
 
-This is probably one of the most important things I've realized about AI-assisted development.
-There is a difference between **making something work** and **understanding why it works**.
-AI can make the first one incredibly easy.
-The second one is still our responsibility.
-You can ask AI to explain a complex piece of code. The explanation might be excellent. You read it and think, "Okay, I understand."
+## Use AI as a reviewer
 
-But then imagine the AI disappears.
+Writing the first version yourself changes the quality of the interaction. You have decisions for the model to inspect instead of a blank page for it to fill.
 
-Now you have to modify that code yourself.
-That's when you find out whether you actually understood it.
-This is especially dangerous for beginners.
-A beginner can generate a working project in a few hours using AI without understanding databases, HTTP, authentication, state management, error handling, or even basic programming concepts.
+Ask questions such as:
 
-The project looks impressive.
+> Which inputs break this implementation?
+> What is the time and space complexity?
+> What security assumptions am I making?
+> Which part is coupled to the framework?
+> What test would fail if this code were wrong?
 
-But if someone asks them to change one important part of it, everything falls apart.
+For learning, ask AI to hide the answer. Have it give you a small exercise, review your attempt, or provide one hint at a time. An explanation you can recognize is not proof that you can reproduce the idea. Retrieval is the test.
 
-That's not because they're stupid.
+## Measure output and capability separately
 
-It's because they skipped the learning process.
+AI makes activity look like progress. A day can end with a large diff, generated tests, and a polished README while your understanding has not changed.
 
-## We Are Starting to Skip the Struggle
+Track two outcomes:
 
-And this is something I personally don't want to lose as a developer.
+- **Delivery:** what useful software shipped.
+- **Capability:** what you can now explain, debug, or build without assistance.
 
-**The struggle.**
+Both matter. Delivery keeps a project moving; capability keeps the project maintainable when requirements change, the model is wrong, or the service is unavailable.
 
-I know that sounds strange.
-Why would anyone want to struggle?
-Because struggling with a problem is how we build problem-solving ability.
-Think about the first time you encountered a confusing error.
-You probably didn't understand it.
-You searched.
-You experimented.
-You changed something.
+## Run an occasional no AI drill
 
-It broke again.
+Once in a while, build a small feature with only your editor, documentation, tests, and a search engine. Choose something narrow: a command-line tool, a parser, a small API endpoint, or a UI interaction.
 
-You tried another approach.
+This is not a purity test. It is a fire drill. It reveals whether you understand your language, tools, and debugging process or whether you have been delegating them by default.
 
-Eventually, you fixed it.
+When you get stuck, record the exact gap instead of immediately filling it with generated code:
 
-And you probably remembered that problem for a long time.
+```
+I could not explain why the request was retried.
+I did not know where this framework validates input.
+I confused authentication with authorization.
+```
 
-That experience becomes part of your developer intuition.
+Those notes are a much better learning plan than “learn more programming.”
 
-The next time you see something similar, your brain goes:
+## The standard to aim for
 
-> "Wait, I've seen this before."
+You do not need to become anti-AI, and you do not need to write every line by hand. Aim for **AI-assisted, not AI-dependent**:
 
-AI can remove that entire learning process.
+- When AI is available, you move faster.
+- When it is unavailable, you can still investigate and make progress.
+- When it gives you code, you can explain and modify it.
+- When it suggests an architecture, you can challenge the trade-offs.
 
-And yes, sometimes that's exactly what we want.
+The decisive skill is not prompt cleverness. It is judgment: knowing what to ask, noticing when an answer is suspicious, and accepting responsibility for the code that reaches users.
 
-If I'm doing repetitive work I've already done a hundred times, I don't want to waste my time reinventing it.
+## Final thought
 
-But if I'm learning something new, I shouldn't always remove the struggle.
+AI should remove boring work, not remove the thinking that makes you a developer. Try first when you are learning or debugging. Ask for hypotheses and critique instead of blindly requesting implementations. Verify generated code against documentation, tests, and the real constraints of your system.
 
-**Sometimes the difficult part is the valuable part.**
+Use AI. Get good at using it. Just keep enough of the work for yourself that you remain capable without it.
 
-## AI Is Extremely Good at Making Us Feel Productive
 
-This is another trap.
-
-AI can make you feel incredibly productive.
-
-You can generate 500 lines of code in a few minutes.
-
-You can create a complete CRUD application quickly.
-
-You can generate tests.
-
-You can generate documentation.
-
-You can refactor code.
-
-You can create UI components.
-
-You can ask for an entire project structure.
-
-At the end of the day, you look at the number of things you completed and think:
-
-> "Wow, I got so much done."
-
-But we should also ask:
-
-**What did I actually learn today?**
-
-Because productivity and learning aren't always the same thing.
-
-You can finish ten tasks and learn almost nothing.
-
-You can also spend three hours struggling with one problem and learn something that stays with you for years.
-
-That's why I don't think we should measure our growth only by how quickly we produce code.
-
-## The Dependency Problem Is More Serious
-
-Being lazy is one thing.
-
-Being dependent is another.
-
-Imagine you're working on a project and suddenly your AI tool isn't available.
-
-Maybe the service is down.
-
-Maybe you're offline.
-
-Maybe your company doesn't allow certain code or data to be sent to an external AI service.
-
-Maybe you're in a technical interview.
-
-Maybe you're working on a highly specific internal system that the AI doesn't understand.
-
-What happens then?
-
-If you can still think, investigate, read documentation, and solve the problem, you're fine.
-
-But if your first reaction is:
-
-> "I don't know what to do without AI."
-
-That's dependency.
-
-And I think that's something developers should actively avoid.
-
-## AI Should Be Your Assistant, Not Your Replacement
-
-For me, the ideal relationship with AI is simple.
-
-**I should be able to work without AI, but I should be much faster when AI is available.**
-
-That's the balance.
-
-If AI is available, great.
-
-I'll use it.
-
-I'll ask it to generate repetitive code.
-
-I'll ask it for alternative approaches.
-
-I'll ask it to review my code.
-
-I'll ask it to explain something I don't understand.
-
-I'll ask it to find edge cases.
-
-I'll ask it to help me brainstorm.
-
-But I don't want to reach a point where I can't think without it.
-
-AI should be the assistant sitting next to me.
-
-**I should still be the developer making the decisions.**
-
-## Try Before You Ask
-
-This is probably the simplest advice I can give.
-
-Before asking AI to solve something, **try it yourself first.**
-
-You don't need to spend five hours struggling.
-
-Give yourself 15 or 20 minutes.
-
-Read the error.
-
-Look at the code.
-
-Think about what could be happening.
-
-Try a solution.
-
-Maybe it works.
-
-Maybe it doesn't.
-
-If you're still stuck, then ask AI.
-
-But now you're asking from a position of understanding.
-
-Instead of saying:
-
-> "Fix this."
-
-You can say:
-
-> "I think the issue is happening because of X. I tried Y and Z. Can you help me figure out what I'm missing?"
-
-That's a much healthier way to use AI.
-
-## Use AI as a Code Reviewer
-
-Another thing I personally recommend is using AI to review your code instead of always asking it to write your code.
-
-Write the function yourself.
-
-Then ask:
-
-> "Review this code and tell me what could be improved."
-
-Now you get feedback without giving away the entire problem-solving process.
-
-You can ask:
-
-- Are there edge cases I'm missing?
-- Is this inefficient?
-- Is there a security problem?
-- Is this unnecessarily complicated?
-- Is there a better approach?
-- What would break this implementation?
-
-This approach keeps you involved.
-
-You're still writing.
-
-You're still thinking.
-
-AI is simply giving you another perspective.
-
-## Don't Blindly Trust AI-Generated Code
-
-This one should be obvious, but I think it needs to be said.
-
-**AI-generated code is not automatically correct.**
-
-AI can:
-
-- Use outdated APIs.
-- Invent functions that don't exist.
-- Make incorrect assumptions.
-- Introduce security problems.
-- Choose unnecessary dependencies.
-- Overcomplicate simple problems.
-- Give you an architecture that doesn't fit your project.
-
-And the scary part is that the code can look extremely professional.
-
-Good formatting doesn't mean good engineering.
-
-A confident explanation doesn't mean the explanation is correct.
-
-So whenever AI gives you something, ask yourself:
-
-**Why does this work?**
-
-**Why was this approach chosen?**
-
-**What are the trade-offs?**
-
-**What could go wrong?**
-
-Those questions keep you in control.
-
-## Learn the Fundamentals Even More
-
-Some people say that AI means we don't need to learn programming fundamentals anymore.
-
-I completely disagree.
-
-If anything, I think fundamentals become more important.
-
-You don't necessarily need to memorize every framework API.
-
-You don't need to remember every syntax detail.
-
-You don't need to manually write every piece of boilerplate.
-
-But you should understand the concepts behind the code.
-
-Understand HTTP.
-
-Understand databases.
-
-Understand authentication.
-
-Understand data structures.
-
-Understand algorithms.
-
-Understand networking.
-
-Understand concurrency.
-
-Understand testing.
-
-Understand Git.
-
-Understand system design.
-
-Understand debugging.
-
-Because the more you understand, the easier it becomes to judge AI's answers.
-
-If AI gives me a database query and I understand SQL, I can tell whether it makes sense.
-
-If AI gives me an architecture and I understand system design, I can question it.
-
-If AI gives me authentication code and I understand security, I can identify potential problems.
-
-**Knowledge gives you the ability to challenge AI.**
-
-## Build Something Without AI
-
-Here's something I think every developer should try occasionally.
-
-Build a small project without AI.
-
-Turn it off.
-
-No chatbot.
-
-No generated code.
-
-No "fix this for me."
-
-Just you, your editor, documentation, and your brain.
-
-It doesn't have to be something huge.
-
-Build a small API.
-
-Build a CLI tool.
-
-Build a simple website.
-
-Build a small game.
-
-You will probably get stuck.
-
-That's okay.
-
-Actually, that's the point.
-
-You will discover what you know.
-
-You'll also discover what you've been depending on AI for.
-
-And once you know those weak areas, you can work on them.
-
-## Don't Outsource the Skill You're Trying to Learn
-
-This is probably my favorite rule when it comes to AI.
-
-**Don't outsource a skill you're still trying to develop.**
-
-If I'm learning SQL, I shouldn't ask AI to write every query.
-
-If I'm learning React, I shouldn't ask AI to build every component.
-
-If I'm learning Python, I shouldn't ask AI to solve every programming exercise.
-
-If I'm learning system design, I shouldn't ask AI to design the whole system before I even try.
-
-First, I need to develop the skill.
-
-After that, AI can help me move faster.
-
-That's the difference between using AI as a learning accelerator and using AI as a replacement for learning.
-
-## We Don't Need to Fight AI
-
-I don't think developers need to become anti-AI.
-
-AI is not going away.
-
-And honestly, I don't want it to.
-
-It's an incredible tool.
-
-The ability to have something that can explain a concept, review code, generate ideas, help debug problems, and automate repetitive tasks is extremely powerful.
-
-The goal isn't to go back to the old days and pretend AI doesn't exist.
-
-The goal is to become **AI-assisted without becoming AI-dependent.**
-
-That's what I want for myself.
-
-I want AI to make me faster, not weaker.
-
-I want it to help me learn, not prevent me from learning.
-
-I want it to remove boring work, not remove the thinking that makes me a developer.
-
-## My Advice
-
-If I had to give my advice to developers who feel they're becoming too dependent on AI, I would say: take a step back.
-
-Don't delete your AI tools.
-
-Don't stop using them completely.
-
-Just change the way you use them.
-
-Try solving a problem yourself before asking AI.
-
-Write some code without assistance.
-
-Debug something manually.
-
-Read documentation.
-
-Build small projects without AI.
-
-When AI gives you code, read it instead of blindly copying it.
-
-When AI gives you an answer, question it.
-
-When AI solves something for you, make sure you understand the solution.
-
-And every once in a while, deliberately put yourself in a situation where you don't have AI.
-
-Not because AI is bad.
-
-But because **you need to know that you can still do it yourself.**
-
-## The Goal Isn't to Code Without AI
-
-I don't want to become a developer who never uses AI.
-
-That's not the goal.
-
-The goal is to become a developer who **doesn't need AI to think.**
-
-If AI is available, I can use it and move faster.
-
-If AI isn't available, I can still solve the problem.
-
-If AI gives me code, I can understand it.
-
-If AI gives me an architecture, I can question it.
-
-If AI gives me an answer, I can decide whether it's actually correct.
-
-That's the kind of developer I want to be.
-
-Because at the end of the day, software development isn't just about typing code.
-
-It's about understanding problems.
-
-It's about making decisions.
-
-It's about debugging.
-
-It's about asking the right questions.
-
-It's about knowing why something works.
-
-And most importantly, it's about being able to figure things out when there is no ready-made answer.
-
-AI can help us do all of that faster.
-
-But we shouldn't give those abilities away.
-
-## Final Thought
-
-I think AI is going to make developers much more productive. There's no doubt about that.
-
-But productivity without understanding can become dangerous.
-
-If we use AI correctly, it can become one of the best tools we've ever had as developers.
-
-If we use it blindly, we can slowly become developers who know how to generate code but don't know how to think through problems.
-
-And that's something I personally want to avoid.
-
-So my advice is simple:
-
-**Use AI. Learn AI. Get good at AI.**
-
-But also learn how to work without it.
-
-Don't let AI become the first thing you reach for every time you face a problem.
-
-Try first.
-
-Think first.
-
-Debug first.
-
-Learn first.
-
-Then use AI.
-
-Let AI make you faster.
-
-**Just don't let it make you weaker.**
+![](https://i.redd.it/84jxmzqotz1g1.jpeg "I'm kidding :)")
