@@ -6,7 +6,7 @@ toc : true
 comments: true
 otherBlogs: true
 tags: ["AI", "Code", "Development"]
-image: ""
+image: "https://hips.hearstapps.com/hmg-prod/images/ai-flaw-memes-1677257023.jpg?crop=1.00xw:0.951xh;0,0.0216xh&resize=1200:*"
 ---
 
 AI has made software development faster. That part is not controversial. A good assistant can explain an unfamiliar API, generate boilerplate, find a missed edge case, and make repetitive work disappear.
