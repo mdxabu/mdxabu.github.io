@@ -6,7 +6,20 @@
     <description>Recent content in Techlogs on Mohamed Abdullah</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Jan 2026 17:02:43 +0530</lastBuildDate><atom:link href="http://localhost:1313/techlog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Sep 2026 21:12:55 +0530</lastBuildDate><atom:link href="http://localhost:1313/techlog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How AI Makes Developers Lazy and Dependent, And How to Come Out of It</title>
+      <link>http://localhost:1313/techlog/ai-lazy/</link>
+      <pubDate>Fri, 04 Sep 2026 21:12:55 +0530</pubDate>
+      
+      <guid>http://localhost:1313/techlog/ai-lazy/</guid>
+      
+      <description>&lt;p&gt;AI has completely changed the way we develop software. There was a time when, if we got an error, we would spend hours searching Google, reading documentation, going through Stack Overflow, trying different solutions, and sometimes even asking another developer for help. Now, we can simply copy the error, put it into an AI tool, and get an explanation and a possible solution within seconds.&lt;/p&gt;
+&lt;p&gt;Honestly, that&amp;rsquo;s amazing.&lt;/p&gt;
+&lt;p&gt;As a developer, I don&amp;rsquo;t think AI is something we should be afraid of. I use AI too. It helps me write code faster, understand unfamiliar concepts, generate boilerplate, explore different approaches, and sometimes save hours of unnecessary work.&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>When AI Crosses the Line</title>
       <link>http://localhost:1313/techlog/when-ai-crosses-the-line/</link>

@@ -1,0 +1,754 @@
+<!DOCTYPE html>
+<html lang="en-us"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="content-type" content="text/html">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title itemprop="name">How AI Makes Developers Lazy and Dependent, And How to Come Out of It | Mohamed Abdullah</title>
+<meta property="og:title" content="How AI Makes Developers Lazy and Dependent, And How to Come Out of It" />
+<meta name="twitter:title" content="How AI Makes Developers Lazy and Dependent, And How to Come Out of It | Mohamed Abdullah" />
+<meta itemprop="name" content="How AI Makes Developers Lazy and Dependent, And How to Come Out of It | Mohamed Abdullah" />
+<meta name="application-name" content="How AI Makes Developers Lazy and Dependent, And How to Come Out of It | Mohamed Abdullah" />
+<meta property="og:site_name" content="Awesome hugo blog" />
+
+<meta name="description" content="">
+<meta itemprop="description" content="" />
+<meta property="og:description" content="" />
+<meta name="twitter:description" content="" />
+
+<meta property="og:locale" content="en-us" />
+<meta name="language" content="en-us" />
+
+  <link rel="alternate" hreflang="en-gb" href="http://localhost:1313/techlog/ai-lazy/" title="" />
+
+
+<meta itemprop="image" content="http://localhost:1313/images/saltfish.png" />
+<meta property="og:image" content="http://localhost:1313/images/saltfish.png" />
+<meta name="twitter:image" content="http://localhost:1313/images/saltfish.png" />
+<meta name="twitter:image:src" content="http://localhost:1313/images/saltfish.png" />
+
+
+
+<meta name="generator" content="Hugo 0.149.0">
+
+    
+    <link rel="canonical" href="http://localhost:1313/techlog/ai-lazy/">
+    <link href="/style.min.e4e399b4f408c6f4e78e8bbf28c01d376e7094f713361527407bfefcfe575765.css" rel="stylesheet">
+    <link href="/code-highlight.min.3eb2990339fad21f68457821574099b6aea150c05edb078dc3fbcf165c8b2e34.css" rel="stylesheet">
+
+
+
+
+
+
+  
+
+
+
+
+  
+
+
+
+
+  
+
+
+
+<meta property="og:title" content="How AI Makes Developers Lazy and Dependent, And How to Come Out of It | Mohamed Abdullah" />
+<meta property="og:description" content="AI has completely changed the way we develop software. There was a time when, if we got an error, we would spend hours searching Google, reading documentation, …" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://localhost:1313/techlog/ai-lazy/" />
+
+<meta property="og:image" content="http://localhost:1313/images/saltfish.png" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+
+
+
+
+<meta name="twitter:card" content="summary_large_image" />
+
+<meta name="twitter:site" content="@mdxabu" />
+<meta name="twitter:creator" content="@mdxabu" />
+<meta name="twitter:title" content="How AI Makes Developers Lazy and Dependent, And How to Come Out of It | Mohamed Abdullah" />
+<meta name="twitter:description" content="AI has completely changed the way we develop software. There was a time when, if we got an error, we would spend hours searching Google, reading documentation, …" />
+<meta name="twitter:image" content="http://localhost:1313/images/saltfish.png" />
+
+
+
+
+  
+  <link href="/custom.min.aa3a4b975736ea08c36c30a0e360b181b6be3edab47c604c874e57c2f6334b89.css" rel="stylesheet">
+
+
+
+  
+</head>
+<body data-theme = "light" class="notransition">
+
+<script src="/js/theme.js"></script>
+
+<div class="navbar" role="navigation">
+    <nav class="menu" aria-label="Main Navigation">
+        <a href="http://localhost:1313/" class="logo">
+            <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" 
+viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" 
+stroke-linejoin="round" class="feather feather-home">
+<title>Home</title>
+<path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path>
+<polyline points="9 22 9 12 15 12 15 22"></polyline>
+</svg>
+        </a>
+        <input type="checkbox" id="menu-trigger" class="menu-trigger" />
+        <label for="menu-trigger">
+            <span class="menu-icon">
+                <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" stroke="currentColor" fill="none" viewBox="0 0 14 14"><title>Menu</title><path stroke-linecap="round" stroke-linejoin="round" d="M10.595 7L3.40726 7"></path><path stroke-linecap="round" stroke-linejoin="round" d="M10.5096 3.51488L3.49301 3.51488"></path><path stroke-linecap="round" stroke-linejoin="round" d="M10.5096 10.4851H3.49301"></path><path stroke-linecap="round" stroke-linejoin="round" d="M0.5 12.5V1.5C0.5 0.947715 0.947715 0.5 1.5 0.5H12.5C13.0523 0.5 13.5 0.947715 13.5 1.5V12.5C13.5 13.0523 13.0523 13.5 12.5 13.5H1.5C0.947715 13.5 0.5 13.0523 0.5 12.5Z"></path></svg>
+            </span>
+        </label>
+
+        <div class="trigger">
+            <ul class="trigger-container">
+                
+                
+                <li>
+                    <a class="menu-link " href="/">
+                        Home
+                    </a>
+                    
+                </li>
+                
+                <li>
+                    <a class="menu-link " href="/about/">
+                        About
+                    </a>
+                    
+                </li>
+                
+                <li>
+                    <a class="menu-link active" href="/techlog/">
+                        Tech Log
+                    </a>
+                    
+                </li>
+                
+                <li>
+                    <a class="menu-link " href="/projects/">
+                        Projects
+                    </a>
+                    
+                </li>
+                
+                <li>
+                    <a class="menu-link " href="/research/">
+                        Research
+                    </a>
+                    
+                </li>
+                
+                <li>
+                    <a class="menu-link " href="/posts/">
+                        Musings
+                    </a>
+                    
+                </li>
+                
+                <li>
+                    <a class="menu-link " href="/news/">
+                        News
+                    </a>
+                    
+                </li>
+                
+                <li>
+                    <a class="menu-link " href="/gallery/">
+                        Gallery
+                    </a>
+                    
+                </li>
+                
+                <li>
+                    <a class="menu-link " href="/tags/">
+                        Tags
+                    </a>
+                    
+                </li>
+                
+                
+                
+                
+            </ul>
+            <a id="mode" href="#">
+                <svg xmlns="http://www.w3.org/2000/svg" class="mode-sunny" width="21" height="21" viewBox="0 0 14 14" stroke-width="1">
+<title>LIGHT</title><g><circle cx="7" cy="7" r="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"></circle><line x1="7" y1="0.5" x2="7" y2="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="2.4" y1="2.4" x2="3.82" y2="3.82" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="0.5" y1="7" x2="2.5" y2="7" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="2.4" y1="11.6" x2="3.82" y2="10.18" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="7" y1="13.5" x2="7" y2="11.5" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="11.6" y1="11.6" x2="10.18" y2="10.18" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="13.5" y1="7" x2="11.5" y2="7" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="11.6" y1="2.4" x2="10.18" y2="3.82" fill="none" stroke-linecap="round" stroke-linejoin="round"></line></g></svg>
+                
+            </a>
+        </div>
+    </nav>
+</div>
+
+<div class="wrapper post">
+    <main class="page-content" aria-label="Content">
+        <article>
+            <header class="header">
+                <h1 class="header-title center">How AI Makes Developers Lazy and Dependent, And How to Come Out of It</h1>
+                <style>
+                 
+                .post-meta-center {
+                    text-align: center;
+                    margin-top: 0.5rem;
+                }
+                .post-meta-center .post-meta {
+                    display: block;
+                    color: #666;
+                }
+                .post-tags {
+                    margin-top: 0.5rem;
+                }
+                .post-tags a.post-tag {
+                    display: inline-block;
+                    margin: 0 0.35rem;
+                    color: inherit;
+                    text-decoration: none;
+                }
+                .post-tags a.post-tag:hover {
+                    text-decoration: underline;
+                }
+                </style>
+                
+                
+                
+                
+                <div class="post-meta-center">
+                    <div class="post-meta">
+                        <time datetime="2026-09-04T21:12:55&#43;05:30" itemprop="datePublished"> September 4, 2026 </time>
+                    </div>
+                    
+                    <div class="post-tags">
+                        
+                        <a href="/tags/ai/" class="post-tag">#AI</a>
+                        
+                        <a href="/tags/code/" class="post-tag">#Code</a>
+                        
+                        <a href="/tags/development/" class="post-tag">#Development</a>
+                        
+                    </div>
+                    
+                </div>
+                
+            </header>
+            
+            <div class="page-content">
+                <p>AI has completely changed the way we develop software. There was a time when, if we got an error, we would spend hours searching Google, reading documentation, going through Stack Overflow, trying different solutions, and sometimes even asking another developer for help. Now, we can simply copy the error, put it into an AI tool, and get an explanation and a possible solution within seconds.</p>
+<p>Honestly, that&rsquo;s amazing.</p>
+<p>As a developer, I don&rsquo;t think AI is something we should be afraid of. I use AI too. It helps me write code faster, understand unfamiliar concepts, generate boilerplate, explore different approaches, and sometimes save hours of unnecessary work.</p>
+<p>But there is another side to this.</p>
+<p><strong>AI can make us lazy.</strong></p>
+<p><figure class="image-figure">
+  <img src="https://noviotechcampus.com/wp-content/uploads/pim.png" alt=""  loading="lazy"></figure>
+</p>
+<p>And even worse, it can make us dependent.</p>
+<p>Not because AI is intentionally making us lazy. It&rsquo;s because humans naturally prefer the easier path. If something that used to take one hour can now be done in two minutes, why would we choose the one-hour path?</p>
+<p>That&rsquo;s where we need to be careful.</p>
+<h2 id="the-problem-starts-very-slowly">The Problem Starts Very Slowly</h2>
+<p>I don&rsquo;t think most developers suddenly become dependent on AI.</p>
+<p>It happens slowly.</p>
+<p>First, we use AI for small things.</p>
+<blockquote>
+<p>&ldquo;Give me a regex for this.&rdquo;</p></blockquote>
+<blockquote>
+<p>&ldquo;Fix this error.&rdquo;</p></blockquote>
+<blockquote>
+<p>&ldquo;Write this SQL query.&rdquo;</p></blockquote>
+<blockquote>
+<p>&ldquo;Explain this function.&rdquo;</p></blockquote>
+<p>Nothing wrong with that.</p>
+<p>Then we start using it for bigger things.</p>
+<blockquote>
+<p>&ldquo;Create this API.&rdquo;</p></blockquote>
+<blockquote>
+<p>&ldquo;Build this component.&rdquo;</p></blockquote>
+<blockquote>
+<p>&ldquo;Write the authentication logic.&rdquo;</p></blockquote>
+<blockquote>
+<p>&ldquo;Design the database.&rdquo;</p></blockquote>
+<p>Still, it feels harmless because we&rsquo;re getting more productive.
+Then eventually, something changes. We stop trying first. We open the AI tool before opening the documentation.
+We ask AI before thinking about the problem.
+We don&rsquo;t even spend five minutes trying to understand the error ourselves.
+And that&rsquo;s the point where I think we should start asking ourselves:</p>
+<p><strong>Am I using AI, or is AI doing the thinking for me?</strong></p>
+<h2 id="the-just-give-me-the-code-mentality">The &ldquo;Just Give Me the Code&rdquo; Mentality</h2>
+<p>One of the biggest problems I&rsquo;ve noticed with AI-assisted development is the &ldquo;just give me the code&rdquo; mentality.
+We have a problem, and instead of understanding it, we immediately ask AI for the implementation.
+For example, imagine you&rsquo;re trying to build an authentication system.</p>
+<p>You could spend time learning:</p>
+<ul>
+<li>How sessions work</li>
+<li>How tokens work</li>
+<li>What JWT actually does</li>
+<li>How passwords should be hashed</li>
+<li>What authentication and authorization mean</li>
+<li>What can go wrong</li>
+<li>How tokens expire</li>
+<li>What security issues exist</li>
+</ul>
+<p>Or you could simply tell AI:</p>
+<blockquote>
+<p>&ldquo;Build a secure authentication system using Node.js.&rdquo;</p></blockquote>
+<p>And there you go.
+You have hundreds of lines of code.
+It might even work perfectly.
+But here&rsquo;s the question:</p>
+<p><strong>Do you understand what you just added to your application?</strong></p>
+<p>If the answer is no, then you didn&rsquo;t really solve the problem.
+You just moved the problem somewhere else.</p>
+<h2 id="working-code-doesnt-always-mean-understanding">Working Code Doesn&rsquo;t Always Mean Understanding</h2>
+<p>This is probably one of the most important things I&rsquo;ve realized about AI-assisted development.
+There is a difference between <strong>making something work</strong> and <strong>understanding why it works</strong>.
+AI can make the first one incredibly easy.
+The second one is still our responsibility.
+You can ask AI to explain a complex piece of code. The explanation might be excellent. You read it and think, &ldquo;Okay, I understand.&rdquo;</p>
+<p>But then imagine the AI disappears.</p>
+<p>Now you have to modify that code yourself.
+That&rsquo;s when you find out whether you actually understood it.
+This is especially dangerous for beginners.
+A beginner can generate a working project in a few hours using AI without understanding databases, HTTP, authentication, state management, error handling, or even basic programming concepts.</p>
+<p>The project looks impressive.</p>
+<p>But if someone asks them to change one important part of it, everything falls apart.</p>
+<p>That&rsquo;s not because they&rsquo;re stupid.</p>
+<p>It&rsquo;s because they skipped the learning process.</p>
+<h2 id="we-are-starting-to-skip-the-struggle">We Are Starting to Skip the Struggle</h2>
+<p>And this is something I personally don&rsquo;t want to lose as a developer.</p>
+<p><strong>The struggle.</strong></p>
+<p>I know that sounds strange.
+Why would anyone want to struggle?
+Because struggling with a problem is how we build problem-solving ability.
+Think about the first time you encountered a confusing error.
+You probably didn&rsquo;t understand it.
+You searched.
+You experimented.
+You changed something.</p>
+<p>It broke again.</p>
+<p>You tried another approach.</p>
+<p>Eventually, you fixed it.</p>
+<p>And you probably remembered that problem for a long time.</p>
+<p>That experience becomes part of your developer intuition.</p>
+<p>The next time you see something similar, your brain goes:</p>
+<blockquote>
+<p>&ldquo;Wait, I&rsquo;ve seen this before.&rdquo;</p></blockquote>
+<p>AI can remove that entire learning process.</p>
+<p>And yes, sometimes that&rsquo;s exactly what we want.</p>
+<p>If I&rsquo;m doing repetitive work I&rsquo;ve already done a hundred times, I don&rsquo;t want to waste my time reinventing it.</p>
+<p>But if I&rsquo;m learning something new, I shouldn&rsquo;t always remove the struggle.</p>
+<p><strong>Sometimes the difficult part is the valuable part.</strong></p>
+<h2 id="ai-is-extremely-good-at-making-us-feel-productive">AI Is Extremely Good at Making Us Feel Productive</h2>
+<p>This is another trap.</p>
+<p>AI can make you feel incredibly productive.</p>
+<p>You can generate 500 lines of code in a few minutes.</p>
+<p>You can create a complete CRUD application quickly.</p>
+<p>You can generate tests.</p>
+<p>You can generate documentation.</p>
+<p>You can refactor code.</p>
+<p>You can create UI components.</p>
+<p>You can ask for an entire project structure.</p>
+<p>At the end of the day, you look at the number of things you completed and think:</p>
+<blockquote>
+<p>&ldquo;Wow, I got so much done.&rdquo;</p></blockquote>
+<p>But we should also ask:</p>
+<p><strong>What did I actually learn today?</strong></p>
+<p>Because productivity and learning aren&rsquo;t always the same thing.</p>
+<p>You can finish ten tasks and learn almost nothing.</p>
+<p>You can also spend three hours struggling with one problem and learn something that stays with you for years.</p>
+<p>That&rsquo;s why I don&rsquo;t think we should measure our growth only by how quickly we produce code.</p>
+<h2 id="the-dependency-problem-is-more-serious">The Dependency Problem Is More Serious</h2>
+<p>Being lazy is one thing.</p>
+<p>Being dependent is another.</p>
+<p>Imagine you&rsquo;re working on a project and suddenly your AI tool isn&rsquo;t available.</p>
+<p>Maybe the service is down.</p>
+<p>Maybe you&rsquo;re offline.</p>
+<p>Maybe your company doesn&rsquo;t allow certain code or data to be sent to an external AI service.</p>
+<p>Maybe you&rsquo;re in a technical interview.</p>
+<p>Maybe you&rsquo;re working on a highly specific internal system that the AI doesn&rsquo;t understand.</p>
+<p>What happens then?</p>
+<p>If you can still think, investigate, read documentation, and solve the problem, you&rsquo;re fine.</p>
+<p>But if your first reaction is:</p>
+<blockquote>
+<p>&ldquo;I don&rsquo;t know what to do without AI.&rdquo;</p></blockquote>
+<p>That&rsquo;s dependency.</p>
+<p>And I think that&rsquo;s something developers should actively avoid.</p>
+<h2 id="ai-should-be-your-assistant-not-your-replacement">AI Should Be Your Assistant, Not Your Replacement</h2>
+<p>For me, the ideal relationship with AI is simple.</p>
+<p><strong>I should be able to work without AI, but I should be much faster when AI is available.</strong></p>
+<p>That&rsquo;s the balance.</p>
+<p>If AI is available, great.</p>
+<p>I&rsquo;ll use it.</p>
+<p>I&rsquo;ll ask it to generate repetitive code.</p>
+<p>I&rsquo;ll ask it for alternative approaches.</p>
+<p>I&rsquo;ll ask it to review my code.</p>
+<p>I&rsquo;ll ask it to explain something I don&rsquo;t understand.</p>
+<p>I&rsquo;ll ask it to find edge cases.</p>
+<p>I&rsquo;ll ask it to help me brainstorm.</p>
+<p>But I don&rsquo;t want to reach a point where I can&rsquo;t think without it.</p>
+<p>AI should be the assistant sitting next to me.</p>
+<p><strong>I should still be the developer making the decisions.</strong></p>
+<h2 id="try-before-you-ask">Try Before You Ask</h2>
+<p>This is probably the simplest advice I can give.</p>
+<p>Before asking AI to solve something, <strong>try it yourself first.</strong></p>
+<p>You don&rsquo;t need to spend five hours struggling.</p>
+<p>Give yourself 15 or 20 minutes.</p>
+<p>Read the error.</p>
+<p>Look at the code.</p>
+<p>Think about what could be happening.</p>
+<p>Try a solution.</p>
+<p>Maybe it works.</p>
+<p>Maybe it doesn&rsquo;t.</p>
+<p>If you&rsquo;re still stuck, then ask AI.</p>
+<p>But now you&rsquo;re asking from a position of understanding.</p>
+<p>Instead of saying:</p>
+<blockquote>
+<p>&ldquo;Fix this.&rdquo;</p></blockquote>
+<p>You can say:</p>
+<blockquote>
+<p>&ldquo;I think the issue is happening because of X. I tried Y and Z. Can you help me figure out what I&rsquo;m missing?&rdquo;</p></blockquote>
+<p>That&rsquo;s a much healthier way to use AI.</p>
+<h2 id="use-ai-as-a-code-reviewer">Use AI as a Code Reviewer</h2>
+<p>Another thing I personally recommend is using AI to review your code instead of always asking it to write your code.</p>
+<p>Write the function yourself.</p>
+<p>Then ask:</p>
+<blockquote>
+<p>&ldquo;Review this code and tell me what could be improved.&rdquo;</p></blockquote>
+<p>Now you get feedback without giving away the entire problem-solving process.</p>
+<p>You can ask:</p>
+<ul>
+<li>Are there edge cases I&rsquo;m missing?</li>
+<li>Is this inefficient?</li>
+<li>Is there a security problem?</li>
+<li>Is this unnecessarily complicated?</li>
+<li>Is there a better approach?</li>
+<li>What would break this implementation?</li>
+</ul>
+<p>This approach keeps you involved.</p>
+<p>You&rsquo;re still writing.</p>
+<p>You&rsquo;re still thinking.</p>
+<p>AI is simply giving you another perspective.</p>
+<h2 id="dont-blindly-trust-ai-generated-code">Don&rsquo;t Blindly Trust AI-Generated Code</h2>
+<p>This one should be obvious, but I think it needs to be said.</p>
+<p><strong>AI-generated code is not automatically correct.</strong></p>
+<p>AI can:</p>
+<ul>
+<li>Use outdated APIs.</li>
+<li>Invent functions that don&rsquo;t exist.</li>
+<li>Make incorrect assumptions.</li>
+<li>Introduce security problems.</li>
+<li>Choose unnecessary dependencies.</li>
+<li>Overcomplicate simple problems.</li>
+<li>Give you an architecture that doesn&rsquo;t fit your project.</li>
+</ul>
+<p>And the scary part is that the code can look extremely professional.</p>
+<p>Good formatting doesn&rsquo;t mean good engineering.</p>
+<p>A confident explanation doesn&rsquo;t mean the explanation is correct.</p>
+<p>So whenever AI gives you something, ask yourself:</p>
+<p><strong>Why does this work?</strong></p>
+<p><strong>Why was this approach chosen?</strong></p>
+<p><strong>What are the trade-offs?</strong></p>
+<p><strong>What could go wrong?</strong></p>
+<p>Those questions keep you in control.</p>
+<h2 id="learn-the-fundamentals-even-more">Learn the Fundamentals Even More</h2>
+<p>Some people say that AI means we don&rsquo;t need to learn programming fundamentals anymore.</p>
+<p>I completely disagree.</p>
+<p>If anything, I think fundamentals become more important.</p>
+<p>You don&rsquo;t necessarily need to memorize every framework API.</p>
+<p>You don&rsquo;t need to remember every syntax detail.</p>
+<p>You don&rsquo;t need to manually write every piece of boilerplate.</p>
+<p>But you should understand the concepts behind the code.</p>
+<p>Understand HTTP.</p>
+<p>Understand databases.</p>
+<p>Understand authentication.</p>
+<p>Understand data structures.</p>
+<p>Understand algorithms.</p>
+<p>Understand networking.</p>
+<p>Understand concurrency.</p>
+<p>Understand testing.</p>
+<p>Understand Git.</p>
+<p>Understand system design.</p>
+<p>Understand debugging.</p>
+<p>Because the more you understand, the easier it becomes to judge AI&rsquo;s answers.</p>
+<p>If AI gives me a database query and I understand SQL, I can tell whether it makes sense.</p>
+<p>If AI gives me an architecture and I understand system design, I can question it.</p>
+<p>If AI gives me authentication code and I understand security, I can identify potential problems.</p>
+<p><strong>Knowledge gives you the ability to challenge AI.</strong></p>
+<h2 id="build-something-without-ai">Build Something Without AI</h2>
+<p>Here&rsquo;s something I think every developer should try occasionally.</p>
+<p>Build a small project without AI.</p>
+<p>Turn it off.</p>
+<p>No chatbot.</p>
+<p>No generated code.</p>
+<p>No &ldquo;fix this for me.&rdquo;</p>
+<p>Just you, your editor, documentation, and your brain.</p>
+<p>It doesn&rsquo;t have to be something huge.</p>
+<p>Build a small API.</p>
+<p>Build a CLI tool.</p>
+<p>Build a simple website.</p>
+<p>Build a small game.</p>
+<p>You will probably get stuck.</p>
+<p>That&rsquo;s okay.</p>
+<p>Actually, that&rsquo;s the point.</p>
+<p>You will discover what you know.</p>
+<p>You&rsquo;ll also discover what you&rsquo;ve been depending on AI for.</p>
+<p>And once you know those weak areas, you can work on them.</p>
+<h2 id="dont-outsource-the-skill-youre-trying-to-learn">Don&rsquo;t Outsource the Skill You&rsquo;re Trying to Learn</h2>
+<p>This is probably my favorite rule when it comes to AI.</p>
+<p><strong>Don&rsquo;t outsource a skill you&rsquo;re still trying to develop.</strong></p>
+<p>If I&rsquo;m learning SQL, I shouldn&rsquo;t ask AI to write every query.</p>
+<p>If I&rsquo;m learning React, I shouldn&rsquo;t ask AI to build every component.</p>
+<p>If I&rsquo;m learning Python, I shouldn&rsquo;t ask AI to solve every programming exercise.</p>
+<p>If I&rsquo;m learning system design, I shouldn&rsquo;t ask AI to design the whole system before I even try.</p>
+<p>First, I need to develop the skill.</p>
+<p>After that, AI can help me move faster.</p>
+<p>That&rsquo;s the difference between using AI as a learning accelerator and using AI as a replacement for learning.</p>
+<h2 id="we-dont-need-to-fight-ai">We Don&rsquo;t Need to Fight AI</h2>
+<p>I don&rsquo;t think developers need to become anti-AI.</p>
+<p>AI is not going away.</p>
+<p>And honestly, I don&rsquo;t want it to.</p>
+<p>It&rsquo;s an incredible tool.</p>
+<p>The ability to have something that can explain a concept, review code, generate ideas, help debug problems, and automate repetitive tasks is extremely powerful.</p>
+<p>The goal isn&rsquo;t to go back to the old days and pretend AI doesn&rsquo;t exist.</p>
+<p>The goal is to become <strong>AI-assisted without becoming AI-dependent.</strong></p>
+<p>That&rsquo;s what I want for myself.</p>
+<p>I want AI to make me faster, not weaker.</p>
+<p>I want it to help me learn, not prevent me from learning.</p>
+<p>I want it to remove boring work, not remove the thinking that makes me a developer.</p>
+<h2 id="my-advice">My Advice</h2>
+<p>If I had to give my advice to developers who feel they&rsquo;re becoming too dependent on AI, I would say: take a step back.</p>
+<p>Don&rsquo;t delete your AI tools.</p>
+<p>Don&rsquo;t stop using them completely.</p>
+<p>Just change the way you use them.</p>
+<p>Try solving a problem yourself before asking AI.</p>
+<p>Write some code without assistance.</p>
+<p>Debug something manually.</p>
+<p>Read documentation.</p>
+<p>Build small projects without AI.</p>
+<p>When AI gives you code, read it instead of blindly copying it.</p>
+<p>When AI gives you an answer, question it.</p>
+<p>When AI solves something for you, make sure you understand the solution.</p>
+<p>And every once in a while, deliberately put yourself in a situation where you don&rsquo;t have AI.</p>
+<p>Not because AI is bad.</p>
+<p>But because <strong>you need to know that you can still do it yourself.</strong></p>
+<h2 id="the-goal-isnt-to-code-without-ai">The Goal Isn&rsquo;t to Code Without AI</h2>
+<p>I don&rsquo;t want to become a developer who never uses AI.</p>
+<p>That&rsquo;s not the goal.</p>
+<p>The goal is to become a developer who <strong>doesn&rsquo;t need AI to think.</strong></p>
+<p>If AI is available, I can use it and move faster.</p>
+<p>If AI isn&rsquo;t available, I can still solve the problem.</p>
+<p>If AI gives me code, I can understand it.</p>
+<p>If AI gives me an architecture, I can question it.</p>
+<p>If AI gives me an answer, I can decide whether it&rsquo;s actually correct.</p>
+<p>That&rsquo;s the kind of developer I want to be.</p>
+<p>Because at the end of the day, software development isn&rsquo;t just about typing code.</p>
+<p>It&rsquo;s about understanding problems.</p>
+<p>It&rsquo;s about making decisions.</p>
+<p>It&rsquo;s about debugging.</p>
+<p>It&rsquo;s about asking the right questions.</p>
+<p>It&rsquo;s about knowing why something works.</p>
+<p>And most importantly, it&rsquo;s about being able to figure things out when there is no ready-made answer.</p>
+<p>AI can help us do all of that faster.</p>
+<p>But we shouldn&rsquo;t give those abilities away.</p>
+<h2 id="final-thought">Final Thought</h2>
+<p>I think AI is going to make developers much more productive. There&rsquo;s no doubt about that.</p>
+<p>But productivity without understanding can become dangerous.</p>
+<p>If we use AI correctly, it can become one of the best tools we&rsquo;ve ever had as developers.</p>
+<p>If we use it blindly, we can slowly become developers who know how to generate code but don&rsquo;t know how to think through problems.</p>
+<p>And that&rsquo;s something I personally want to avoid.</p>
+<p>So my advice is simple:</p>
+<p><strong>Use AI. Learn AI. Get good at AI.</strong></p>
+<p>But also learn how to work without it.</p>
+<p>Don&rsquo;t let AI become the first thing you reach for every time you face a problem.</p>
+<p>Try first.</p>
+<p>Think first.</p>
+<p>Debug first.</p>
+<p>Learn first.</p>
+<p>Then use AI.</p>
+<p>Let AI make you faster.</p>
+<p><strong>Just don&rsquo;t let it make you weaker.</strong></p>
+
+            </div>
+            
+
+
+
+
+  
+
+
+
+  
+  
+  
+  
+
+  
+  <section class="other-blogs">
+    <h3 class="other-blogs__heading">Other Blogs</h3>
+    <ul class="other-blogs__list">
+      
+      <li class="other-blogs__item">
+        <a href="/techlog/when-ai-crosses-the-line/" class="other-blogs__link">
+          <span class="other-blogs__title">When AI Crosses the Line</span>
+          
+          
+        </a>
+      </li>
+      
+      <li class="other-blogs__item">
+        <a href="/techlog/opensource2025/" class="other-blogs__link">
+          <span class="other-blogs__title">My Open Source Journey in 2025</span>
+          
+          
+        </a>
+      </li>
+      
+    </ul>
+  </section>
+  
+
+
+        </article><hr style="margin-top: 40px; margin-bottom: 40px" />
+<script
+    src="https://giscus.app/client.js"
+    data-repo="mdxabu/mdxabu.github.io"
+    data-repo-id="R_kgDOLs5FtQ"
+    data-category="Blogs"
+    data-category-id="DIC_kwDOLs5Ftc4CrYy-"
+    data-mapping="pathname"
+    data-strict="0"
+    data-emit-metadata="0"
+    data-input-position="top"
+    data-theme="light_protanopia"
+    data-lang="en"
+    crossorigin="anonymous"
+    async
+></script></main>
+</div>
+<footer class="footer">
+    <span class="footer_item"> </span>
+    &nbsp;
+
+    <div class="footer_social-icons">
+<a href="/index.xml" target="_blank" rel="noopener noreferrer me"
+    title="Rss">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+    stroke-linecap="round" stroke-linejoin="round">
+    <path d="M4 11a9 9 0 0 1 9 9" />
+    <path d="M4 4a16 16 0 0 1 16 16" />
+    <circle cx="5" cy="19" r="1" />
+</svg>
+</a>
+<a href="https://github.com/mdxabu" target="_blank" rel="noopener noreferrer me"
+    title="Github">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+    stroke-linecap="round" stroke-linejoin="round">
+    <path
+        d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22">
+    </path>
+</svg>
+</a>
+<a href="https://x.com/intent/user?screen_name=mdxabu" target="_blank" rel="noopener noreferrer me"
+    title="X">
+    <svg viewBox="0 0 1200 1227" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+    <path
+        d="M714.163 519.284L1160.89 0H1055.03L667.137 450.887L357.328 0H0L468.492 681.821L0 1226.37H105.866L515.491 750.218L842.672 1226.37H1200L714.137 519.284H714.163ZM569.165 687.828L521.697 619.934L144.011 79.6944H306.615L611.412 515.685L658.88 583.579L1055.08 1150.3H892.476L569.165 687.854V687.828Z"/>
+</svg>
+</a>
+<a href="https://bsky.app/profile/mdxabu.com" target="_blank" rel="noopener noreferrer me"
+    title="Bluesky">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" stroke="none" stroke-width="2"
+    stroke-linecap="round" stroke-linejoin="round">
+    <path
+    d="M11.999,10.236c0.321,-0.524 0.916,-1.507 1.405,-2.376c0.755,-1.344 1.692,-2.852 2.869,-4.028c1.283,-1.281 2.845,-2.171 4.739,-2.171c1.144,-0 1.864,0.585 2.299,1.497c0.486,1.017 0.545,2.551 0.51,3.883c-0.051,1.945 -0.232,3.337 -0.505,4.275c-0.229,0.786 -0.543,1.303 -0.878,1.615c-0.892,0.833 -1.8,1.263 -2.634,1.484c0.029,0.018 0.056,0.036 0.084,0.055c0.528,0.367 0.823,0.79 1.081,1.107c0.648,0.794 0.644,1.795 0.23,2.784c-0.481,1.151 -1.533,2.279 -2.12,2.773c-1.389,1.171 -2.506,1.362 -3.383,1.133c-0.88,-0.23 -1.59,-0.932 -2.156,-1.826c-0.45,-0.71 -0.817,-1.537 -1.176,-2.186c-0.115,-0.208 -0.302,-0.455 -0.406,-0.587c-0.02,0.019 -0.04,0.04 -0.056,0.058c-0.121,0.145 -0.234,0.328 -0.349,0.531c-0.363,0.644 -0.721,1.463 -1.157,2.166c-0.555,0.895 -1.252,1.597 -2.12,1.825c-0.863,0.227 -1.97,0.037 -3.363,-1.136c-0.586,-0.494 -1.638,-1.622 -2.119,-2.773c-0.414,-0.989 -0.418,-1.99 0.229,-2.784c0.258,-0.317 0.554,-0.74 1.082,-1.106c0.027,-0.019 0.055,-0.038 0.084,-0.056c-0.834,-0.221 -1.742,-0.651 -2.634,-1.484c-0.335,-0.312 -0.649,-0.829 -0.878,-1.615c-0.273,-0.938 -0.454,-2.33 -0.505,-4.275c-0.036,-1.332 0.024,-2.866 0.509,-3.883c0.435,-0.912 1.156,-1.497 2.3,-1.497c2.32,0 4.109,1.203 5.494,2.808c1.272,1.474 2.195,3.283 2.9,4.643c0.231,0.447 0.436,0.84 0.624,1.146Zm-0.01,5.653l0.296,0.031l0.271,0.086c0.208,0.088 0.413,0.229 0.607,0.428c0.455,0.467 0.882,1.369 1.36,2.284c0.249,0.477 0.518,0.958 0.841,1.339c0.231,0.274 0.483,0.502 0.805,0.569c0.488,0.103 1.052,-0.157 1.811,-0.797c0.452,-0.38 1.274,-1.239 1.645,-2.126c0.155,-0.371 0.265,-0.75 0.022,-1.048c-0.179,-0.22 -0.366,-0.529 -0.732,-0.783c-0.536,-0.372 -1.356,-0.51 -1.905,-0.654c-0.405,-0.106 -0.715,-0.234 -0.88,-0.355l-0.284,-0.303l-0.135,-0.367l-0.008,-0.211l0.035,-0.196l0.078,-0.195l0.142,-0.209l0.198,-0.181l0.296,-0.154c0.151,-0.055 0.348,-0.092 0.587,-0.104c0.815,-0.042 2.571,0.294 4.235,-1.259c0.171,-0.159 0.288,-0.445 0.404,-0.845c0.246,-0.843 0.391,-2.096 0.438,-3.843c0.024,-0.91 0.026,-1.938 -0.208,-2.738c-0.142,-0.486 -0.367,-0.891 -0.896,-0.891c-1.675,0 -2.974,0.983 -4.031,2.21c-1.179,1.369 -2.058,3.057 -2.752,4.321c-0.483,0.88 -0.902,1.573 -1.25,1.916c-0.088,0.086 -0.174,0.157 -0.257,0.214l-0.221,0.125l-0.228,0.078l-0.267,0.031l-0.274,-0.034l-0.231,-0.083l-0.219,-0.132c-0.081,-0.058 -0.164,-0.131 -0.248,-0.22c-0.327,-0.343 -0.718,-1.037 -1.174,-1.917c-0.654,-1.262 -1.497,-2.948 -2.676,-4.314c-1.067,-1.236 -2.417,-2.217 -4.203,-2.217c-0.53,0 -0.754,0.405 -0.896,0.891c-0.234,0.8 -0.232,1.828 -0.208,2.738c0.046,1.747 0.192,3 0.438,3.843c0.116,0.4 0.233,0.686 0.403,0.845c1.665,1.553 3.421,1.217 4.235,1.259c0.24,0.012 0.437,0.049 0.588,0.104l0.295,0.154l0.199,0.181l0.142,0.209l0.078,0.195l0.035,0.196l-0.009,0.211l-0.135,0.368l-0.283,0.303c-0.165,0.12 -0.476,0.248 -0.88,0.355c-0.549,0.144 -1.369,0.281 -1.905,0.653c-0.366,0.254 -0.554,0.564 -0.732,0.783c-0.243,0.298 -0.133,0.677 0.022,1.048c0.371,0.887 1.193,1.746 1.645,2.127c0.757,0.637 1.311,0.9 1.789,0.8c0.311,-0.066 0.55,-0.29 0.772,-0.557c0.315,-0.381 0.577,-0.86 0.822,-1.337c0.394,-0.763 0.752,-1.521 1.138,-2.01c0.431,-0.544 0.929,-0.815 1.455,-0.815Z" style="fill-rule:nonzero;"/>
+</svg>
+</a>
+<a href="https://linkedin.com/in/mdxabu" target="_blank" rel="noopener noreferrer me"
+    title="Linkedin">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+    stroke-linecap="round" stroke-linejoin="round">
+    <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path>
+    <rect x="2" y="9" width="4" height="12"></rect>
+    <circle cx="4" cy="4" r="2"></circle>
+</svg>
+</a>
+<a href="mailto:me.mdxabu@gmail.com" target="_blank" rel="noopener noreferrer me"
+    title="Email">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 21" fill="none" stroke="currentColor" stroke-width="2"
+    stroke-linecap="round" stroke-linejoin="round">
+    <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path>
+    <polyline points="22,6 12,13 2,6"></polyline>
+</svg>
+</a>
+<a href="https://twitch.tv/mdxabu" target="_blank" rel="noopener noreferrer me"
+    title="Twitch">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+    stroke-linecap="round" stroke-linejoin="round">
+    <path d="M21 2H3v16h5v4l4-4h5l4-4V2zm-10 9V7m5 4V7"></path>
+</svg>
+</a>
+<a href="https://discord.gg/nwhpV5kbRq" target="_blank" rel="noopener noreferrer me"
+    title="Discord">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="20 15 205 190" fill="currentColor" stroke="none">
+    <path
+        d="M104.4 103.9c-5.7 0-10.2 5-10.2 11.1s4.6 11.1 10.2 11.1c5.7 0 10.2-5 10.2-11.1.1-6.1-4.5-11.1-10.2-11.1zM140.9 103.9c-5.7 0-10.2 5-10.2 11.1s4.6 11.1 10.2 11.1c5.7 0 10.2-5 10.2-11.1s-4.5-11.1-10.2-11.1z" />
+    <path
+        d="M189.5 20h-134C44.2 20 35 29.2 35 40.6v135.2c0 11.4 9.2 20.6 20.5 20.6h113.4l-5.3-18.5 12.8 11.9 12.1 11.2 21.5 19V40.6c0-11.4-9.2-20.6-20.5-20.6zm-38.6 130.6s-3.6-4.3-6.6-8.1c13.1-3.7 18.1-11.9 18.1-11.9-4.1 2.7-8 4.6-11.5 5.9-5 2.1-9.8 3.5-14.5 4.3-9.6 1.8-18.4 1.3-25.9-.1-5.7-1.1-10.6-2.7-14.7-4.3-2.3-.9-4.8-2-7.3-3.4-.3-.2-.6-.3-.9-.5-.2-.1-.3-.2-.4-.3-1.8-1-2.8-1.7-2.8-1.7s4.8 8 17.5 11.8c-3 3.8-6.7 8.3-6.7 8.3-22.1-.7-30.5-15.2-30.5-15.2 0-32.2 14.4-58.3 14.4-58.3 14.4-10.8 28.1-10.5 28.1-10.5l1 1.2c-18 5.2-26.3 13.1-26.3 13.1s2.2-1.2 5.9-2.9c10.7-4.7 19.2-6 22.7-6.3.6-.1 1.1-.2 1.7-.2 6.1-.8 13-1 20.2-.2 9.5 1.1 19.7 3.9 30.1 9.6 0 0-7.9-7.5-24.9-12.7l1.4-1.6s13.7-.3 28.1 10.5c0 0 14.4 26.1 14.4 58.3 0 0-8.5 14.5-30.6 15.2z" />
+</svg>
+</a>
+</div>
+    <small class="footer_copyright">
+        © 2026 @mdxabu.
+        
+    </small>
+</footer><a href="#" title="Go to top" id="totop">
+    <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" fill="currentColor" stroke="currentColor" viewBox="0 96 960 960">
+    <path d="M283 704.739 234.261 656 480 410.261 725.739 656 677 704.739l-197-197-197 197Z"/>
+</svg>
+
+</a>
+
+
+    
+
+
+
+
+
+
+    
+    
+        
+    
+
+    
+    
+        
+    
+
+    
+    
+        
+    
+
+
+
+    
+    <script async src="http://localhost:1313/js/main.js" ></script>
+
+    
+        
+        <script async src="http://localhost:1313/js/custom.js" ></script>
+    
+
+</body>
+    <head>
+  <head>
+
+
+
+</html>
