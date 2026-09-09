@@ -247,6 +247,36 @@ Ethu nadakkum nu nenaikuromo athu nadakka maatuthu!&lt;/p&gt;
     </item>
     
     <item>
+      <title>NetResSim: Evaluating Internet Resilience using RIPE Atlas</title>
+      <link>http://localhost:1313/projects/nestressim/</link>
+      <pubDate>Tue, 09 Dec 2025 12:26:07 +0530</pubDate>
+      
+      <guid>http://localhost:1313/projects/nestressim/</guid>
+      
+      <description>&lt;p&gt;This project examines the impact of simulated regional network disruptions on Internet performance using real-world measurement data. The goal is to understand how large-scale events can influence Internet connectivity and routing dynamics, and to evaluate the resilience of Internet infrastructure under stress.&lt;/p&gt;
+&lt;h1 id=&#34;network-resilience-event-analysis&#34;&gt;Network Resilience Event Analysis&lt;/h1&gt;
+&lt;p&gt;This project analyzes the impact of various network disruption events on Internet infrastructure, including natural disasters, submarine cable cuts, and geopolitical conflicts.&lt;/p&gt;
+&lt;h1 id=&#34;features&#34;&gt;Features&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Fetches data from RIPE RIS/RIPEstat for AS reachability&lt;/li&gt;
+&lt;li&gt;Analyzes baseline, event, and recovery phases&lt;/li&gt;
+&lt;li&gt;Generates comprehensive visualizations for each event&lt;/li&gt;
+&lt;li&gt;Saves individual analysis plots with detailed metrics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;events-analyzed&#34;&gt;Events Analyzed&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Croatia Earthquake 2020&lt;/li&gt;
+&lt;li&gt;Puerto Rico Earthquake 2020&lt;/li&gt;
+&lt;li&gt;Hengchun Submarine Cable Cut 2006&lt;/li&gt;
+&lt;li&gt;SEA-ME-WE Disruption 2008&lt;/li&gt;
+&lt;li&gt;Israel Iran Conflict 2025&lt;/li&gt;
+&lt;li&gt;Nepal Earthquake 2015&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You can find my code &lt;a href=&#34;https://github.com/mdxabu/NetResSim&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
       <title>Four Years for What?</title>
       <link>http://localhost:1313/posts/uni-scams/</link>
       <pubDate>Sat, 06 Dec 2025 20:37:34 +0530</pubDate>
