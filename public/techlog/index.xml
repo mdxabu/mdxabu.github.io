@@ -6,7 +6,32 @@
     <description>Recent content in Tech Log on Mohamed Abdullah</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Sep 2026 21:12:55 +0530</lastBuildDate><atom:link href="http://localhost:1313/techlog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Sep 2026 14:21:02 +0530</lastBuildDate><atom:link href="http://localhost:1313/techlog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RIPE Atlas Deep Dive: Probes, Measurements, Internet Cartography, and Cool Things You Can Build</title>
+      <link>http://localhost:1313/techlog/ripe-atlas/</link>
+      <pubDate>Wed, 09 Sep 2026 14:21:02 +0530</pubDate>
+      
+      <guid>http://localhost:1313/techlog/ripe-atlas/</guid>
+      
+      <description>&lt;h1 id=&#34;1-what-is-ripe-atlas&#34;&gt;1. What is RIPE Atlas?&lt;/h1&gt;
+&lt;p&gt;&lt;figure class=&#34;image-figure&#34;&gt;
+  &lt;img src=&#34;https://atlas.ripe.net/assets/maps/root-instances-light.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34;&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;RIPE Atlas is a distributed Internet measurement platform operated by the RIPE NCC (Réseaux IP Européens Network Coordination Centre).&lt;/p&gt;
+&lt;p&gt;Instead of relying on centralized monitoring servers, RIPE Atlas deploys thousands of small measurement devices around the world. These devices continuously perform Internet measurements like:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ping&lt;/li&gt;
+&lt;li&gt;Traceroute&lt;/li&gt;
+&lt;li&gt;DNS lookups&lt;/li&gt;
+&lt;li&gt;TLS certificate checks&lt;/li&gt;
+&lt;li&gt;NTP synchronization&lt;/li&gt;
+&lt;li&gt;HTTP measurements (restricted)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The resulting dataset creates a live view of Internet reachability and routing across the globe. Most measurements and historical results are publicly accessible without even creating an account.&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>How AI Makes Developers Lazy and Dependent, And How to Come Out of It</title>
       <link>http://localhost:1313/techlog/ai-lazy/</link>
