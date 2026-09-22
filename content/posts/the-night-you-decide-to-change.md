@@ -3,6 +3,7 @@ date: '2025-06-29T21:22:50+05:30'
 draft: false
 title: 'The Night You Decide to Change'
 toc: false
+audio: true
 tags: ["Slice of Life","Mental Health"]
 ---
 

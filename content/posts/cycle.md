@@ -4,6 +4,7 @@ draft : false
 title : 'Pedaling Through Time'
 toc : false
 tags: ["Slice of Life"]
+audio: true
 image: "https://www.artzolo.com/cdn/shop/files/Forgotten-BiCycle-and-old-wall-ArtZolo-com-1656.jpg?v=1706724578"
 ---
 

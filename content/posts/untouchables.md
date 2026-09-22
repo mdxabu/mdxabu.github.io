@@ -5,6 +5,7 @@ title : 'Untouchability: Dalits and Marginalized Communities in Tamil Nadu'
 toc : false
 comments: true
 otherBlogs: true
+audio: true
 tags: ["Social Justice","Caste System","Equality","Sociology","Marginalized Communities"]
 image: "https://fl-i.thgim.com/public/politics/ltnh17/article67712756.ece/alternates/FREE_1200/9C7A5320.jpg"
 ---

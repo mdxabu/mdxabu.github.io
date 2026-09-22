@@ -3,6 +3,7 @@ date : '2025-08-04T22:09:15+05:30'
 draft : false
 title : 'Silent Glances'
 toc : false
+audio: true
 tags: []
 image: "https://media.istockphoto.com/id/1217790470/photo/western-ghats-over-green-fields.jpg?s=612x612&w=0&k=20&c=lmQEZU36faCgodYF9RVUFY_03ZUqCTsakUNkhVnDm70="
 ---

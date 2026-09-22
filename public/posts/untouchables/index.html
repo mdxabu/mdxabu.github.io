@@ -75,7 +75,7 @@
 
     
     <link rel="canonical" href="http://localhost:1313/posts/untouchables/">
-    <link href="/style.min.e4e399b4f408c6f4e78e8bbf28c01d376e7094f713361527407bfefcfe575765.css" rel="stylesheet">
+    <link href="/style.min.b2046d25763fa0ae862a4f9b3f7d39c8d705b61f6235bd9527e44b58d73bb00f.css" rel="stylesheet">
     <link href="/code-highlight.min.3eb2990339fad21f68457821574099b6aea150c05edb078dc3fbcf165c8b2e34.css" rel="stylesheet">
 
 
@@ -282,7 +282,20 @@ stroke-linejoin="round" class="feather feather-home">
                 
             </header>
             
-            <div class="page-content">
+            <div class="tts-controls" data-tts-controls>
+                <button class="tts-button" type="button" data-tts-play aria-controls="article-content" aria-label="Play article">
+                    <svg class="tts-icon tts-icon-play" viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.14v13.72a1 1 0 0 0 1.52.86l10.29-6.86a1 1 0 0 0 0-1.72L9.52 4.28A1 1 0 0 0 8 5.14Z"/></svg>
+                    <svg class="tts-icon tts-icon-pause" viewBox="0 0 24 24" aria-hidden="true"><path d="M7 5h3v14H7zM14 5h3v14h-3z"/></svg>
+                    <span class="tts-visually-hidden" data-tts-play-label>Play</span>
+                </button>
+                <button class="tts-button" type="button" data-tts-stop aria-controls="article-content" aria-label="Stop reading" disabled>
+                    <svg class="tts-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6h12v12H6z"/></svg>
+                    <span class="tts-visually-hidden">Stop</span>
+                </button>
+            </div>
+            
+            
+            <div class="page-content" id="article-content" data-tts-content>
                 <p>I have always wanted to write about my brothers and sisters! All are equal, and every human being deserves dignity, respect, and justice regardless of caste, faith, or background. Tamil Nadu often projects an image of social progress, rooted in the Dravidian movements emphasis on anti Brahminism and social justice. Yet, for many Dalits, historically known as untouchables, and certain Muslim communities, daily life remains marked by deep seated discrimination, segregation, and violence. The caste system, though officially outlawed, lingers in rural and semi urban areas, shaping access to water, temples, education, jobs, and even burial grounds. While the Constitution promises equality, ground realities tell a different story of resistance, backlash, and incomplete justice.</p>
 <h2 id="historical-roots-and-everyday-realities">Historical Roots and Everyday Realities</h2>
 <p>Dalits in Tamil Nadu, often from communities like Paraiyars, Pallars, or Arunthathiyars, have long faced exclusion justified by notions of ritual purity. Practices persist: separate drinking vessels, denial of temple entry, segregated seating in schools or eateries, and restrictions on using common pathways or wells. Surveys by groups like the Tamil Nadu Untouchability Eradication Front (TNUEF) have documented these in hundreds of villages, separate burial grounds in nearly all, barbers refusing services, and untouchability walls physically dividing neighborhoods.</p>
@@ -446,6 +459,7 @@ stroke-linejoin="round" class="feather feather-home">
 
 
     
+
 
 
 

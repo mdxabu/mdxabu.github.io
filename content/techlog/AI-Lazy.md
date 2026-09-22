@@ -5,6 +5,7 @@ title : 'How AI Makes Developers Lazy and Dependent, And How to Come Out of It'
 toc : true
 comments: true
 otherBlogs: true
+audio: true
 tags: ["AI", "Code", "Development"]
 image: "https://pigeonpedia.com/wp-content/uploads/2021/10/is-this-a-pigeon.jpeg"
 ---

@@ -4,6 +4,7 @@ draft : false
 title : 'When AI Crosses the Line'
 toc : false
 comments: true
+audio: true
 tags: ["App","Social Awareness","AI"]
 image: "https://cdnb.artstation.com/p/assets/images/images/057/330/801/large/rowan-sddefault.jpg?1671321104"
 ---

@@ -5,6 +5,7 @@ title : 'Enna Panrathune Therlaye'
 toc : false
 comments: false
 tags: ["Slice of Life","Mental Health"]
+audio: true
 image: "https://d1itqg25xtlgws.cloudfront.net/thumb/EAOaUETUgdrL3pLIlvyp8SZjcR7SMWWODnUbTfSR.png"
 ---
 

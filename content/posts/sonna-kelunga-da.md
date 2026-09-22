@@ -5,6 +5,7 @@ title : 'Sonna Kelunga Da'
 toc : false
 comments: true
 otherBlogs: false
+audio: true
 tags: ["Slice of Life","Mental Health"]
 image: ""
 ---

@@ -3,6 +3,7 @@ date : '2025-05-04T19:35:55+05:30'
 draft : false
 title : 'Deepfake: Ruining Your Life!'
 toc : false
+audio: true
 tags: ["Social Awareness"]
 ---
 

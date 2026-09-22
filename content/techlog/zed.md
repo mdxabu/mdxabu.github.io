@@ -3,6 +3,7 @@ date : '2025-12-03T19:54:57+05:30'
 draft : false
 title : 'Zed: A Minimalist Editor for Focused Coding'
 toc : false
+audio: true
 tags: ["Open Source","IDE"]
 image: "https://minimo.io/assets/images/blog/zed-editor-2.png"
 ---

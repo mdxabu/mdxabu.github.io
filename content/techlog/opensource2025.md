@@ -4,6 +4,7 @@ draft : false
 title : 'My Open Source Journey in 2025'
 toc : false
 comments: true
+audio: true
 tags: ["Open source","Community"]
 image: ""
 ---

@@ -3,6 +3,7 @@ date : '2025-01-23T16:57:43+05:30'
 draft : false
 title : 'Beehive: Leveraging the Expression of Marginalised Peoples.'
 toc : false
+audio: true
 tags: [community, open source]
 image: "https://static.vecteezy.com/system/resources/thumbnails/002/832/778/small/light-blue-green-pattern-in-square-style-rectangles-with-colorful-gradient-on-abstract-background-best-design-for-your-ad-poster-banner-vector.jpg"
 ---

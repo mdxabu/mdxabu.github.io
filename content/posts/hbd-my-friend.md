@@ -3,6 +3,7 @@ date : '2025-07-29T22:10:04+05:30'
 draft : false
 title : 'Happy Birthday, My friend'
 toc : false
+audio: true
 tags: ["Slice of Life"]
 image: "https://i.imgflip.com/ic0jx.jpg"
 ---

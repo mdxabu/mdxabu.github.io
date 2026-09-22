@@ -4,6 +4,7 @@ draft : false
 title : 'Signs: How to Spot AI-Written Code in the Wild'
 toc : true
 comments: true
+audio: true
 tags: ["AI", "Code", "Development"]
 image: "https://i.kym-cdn.com/entries/icons/facebook/000/054/899/doakes-looking.jpg"
 ---

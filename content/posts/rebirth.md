@@ -5,6 +5,7 @@ title : 'Rebirth'
 toc : false
 comments: true
 otherBlogs: false
+audio: true
 tags: ["Slice of Life","Mental Health"]
 image: "https://upload.wikimedia.org/wikipedia/commons/d/d6/Rembrandt_-_The_Philosopher_in_Meditation.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original"
 ---

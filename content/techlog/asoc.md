@@ -3,6 +3,7 @@ date : '2025-04-06T11:51:43+05:30'
 draft : false
 title : 'Alaskan Season of Code'
 toc : false
+audio: true
 tags: ["Open Source","Community"]
 ---
 

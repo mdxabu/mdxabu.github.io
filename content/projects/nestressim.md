@@ -5,6 +5,7 @@ title : 'NetResSim: Evaluating Internet Resilience using RIPE Atlas'
 toc : false
 comments: true
 otherBlogs: true
+audio: true
 tags: ["Computer Network", "Open Source"]
 image: ""
 ---

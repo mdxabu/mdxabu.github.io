@@ -5,6 +5,7 @@ title : 'Why Does God Allow More Pain When Life Is Already Hard?'
 toc : false
 comments: true
 otherBlogs: true
+audio: true
 tags: ["Slice of Life","Mental Health"]
 image: "https://images.unsplash.com/photo-1646590998625-d4e1caf00be0?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDd8fHxlbnwwfHx8fHw%3D"
 ---

@@ -2,6 +2,7 @@
 date: '2025-05-27T21:06:56+05:30'
 draft: false
 title: 'Be Grateful and Kind'
+audio: true
 toc: false
 tags: ["Slice of Life","Mental Health"]
 ---
@@ -19,7 +20,6 @@ Another incident comes to mind. In 7th grade, I was a low-performing student, ra
 ![](https://static1.srcdn.com/wordpress/wp-content/uploads/2021/04/The-Office-Season-7-Episode-22---Goodbye-Michael-.jpg)
 
 Be grateful for what you have and what you had. Be kind, and help those who are still learning!
-
 
 
 

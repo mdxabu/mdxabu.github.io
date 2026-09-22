@@ -4,6 +4,7 @@ draft : false
 title : 'Nalla Iruppom'
 toc : false
 comments: false
+audio: true
 tags: ["Slice of Life"]
 image: ""
 ---

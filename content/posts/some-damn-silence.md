@@ -5,6 +5,7 @@ title : 'Some Damn Silence'
 toc : false
 comments: true
 otherBlogs: true
+audio: true
 tags: ["Slice of Life","Mental Health"]
 image: "https://media.yatzer.com/cover1_rustam_iralin_yatzer-1400x988.jpg"
 ---

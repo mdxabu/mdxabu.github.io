@@ -5,6 +5,7 @@ title : 'Be Grateful and Be Polite'
 toc : false
 comments: true
 tags: ["Slice of Life","Mental Health"]
+audio: true
 image: "https://t4.ftcdn.net/jpg/03/59/00/57/360_F_359005722_EpexBDtnaTakpDmGT4GK8iSWS4wSKY0P.jpg"
 ---
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4QzZVJc6qPTtTkPem7qZRo?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

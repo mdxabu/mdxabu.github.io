@@ -75,7 +75,7 @@
 
     
     <link rel="canonical" href="http://localhost:1313/posts/who-decides-for-you/">
-    <link href="/style.min.e4e399b4f408c6f4e78e8bbf28c01d376e7094f713361527407bfefcfe575765.css" rel="stylesheet">
+    <link href="/style.min.b2046d25763fa0ae862a4f9b3f7d39c8d705b61f6235bd9527e44b58d73bb00f.css" rel="stylesheet">
     <link href="/code-highlight.min.3eb2990339fad21f68457821574099b6aea150c05edb078dc3fbcf165c8b2e34.css" rel="stylesheet">
 
 
@@ -276,7 +276,20 @@ stroke-linejoin="round" class="feather feather-home">
                 
             </header>
             
-            <div class="page-content">
+            <div class="tts-controls" data-tts-controls>
+                <button class="tts-button" type="button" data-tts-play aria-controls="article-content" aria-label="Play article">
+                    <svg class="tts-icon tts-icon-play" viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.14v13.72a1 1 0 0 0 1.52.86l10.29-6.86a1 1 0 0 0 0-1.72L9.52 4.28A1 1 0 0 0 8 5.14Z"/></svg>
+                    <svg class="tts-icon tts-icon-pause" viewBox="0 0 24 24" aria-hidden="true"><path d="M7 5h3v14H7zM14 5h3v14h-3z"/></svg>
+                    <span class="tts-visually-hidden" data-tts-play-label>Play</span>
+                </button>
+                <button class="tts-button" type="button" data-tts-stop aria-controls="article-content" aria-label="Stop reading" disabled>
+                    <svg class="tts-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6h12v12H6z"/></svg>
+                    <span class="tts-visually-hidden">Stop</span>
+                </button>
+            </div>
+            
+            
+            <div class="page-content" id="article-content" data-tts-content>
                 <p>Lately, I’ve been thinking about how often people try to interfere with decisions that are really no one’s business but your own. Not just close family, but people outside that circle. Distant relatives, neighbors, family friends, and sometimes even people who barely know you. They ask questions like, “Why didn’t you tell me first?” or “You should’ve asked me,” as if your personal choices need to go through some kind of approval system.</p>
 <p>It’s not that advice is a bad thing. Guidance is valuable when it comes from the right place, and when it’s offered, not pushed. But interference is different. It’s when people expect to be part of decisions that don’t affect them. It’s when they treat your independence as a problem or worse, an insult.</p>
 <p>What bothers me is that these reactions often come after you’ve made a responsible, and right choice. You didn’t act recklessly. You didn’t hide anything. You just didn’t involve them and that’s what seems to offend them. Not because they’re worried about you, but because they feel left out or overlooked. Sometimes it feels less like concern and more like ego.</p>
@@ -434,6 +447,7 @@ But if it’s meant to drag you down? Don’t give a fuck.</p>
 
 
     
+
 
 
 

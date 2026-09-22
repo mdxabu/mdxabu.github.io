@@ -3,6 +3,7 @@ date : '2025-11-25T11:11:03+05:30'
 draft : false
 title : 'So You Want to Get Into Google Summer of Code?'
 toc : false
+audio: true
 tags: ["Open Source", "Google Summer of Code", "Community"]
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdJRZKLsLR89guwbmX3HUEW0NjHHAunsqxSxJRmBiEKVfyFjod9leXiRoqha2qX_npVgARW9ruTFmGDuGHOLBUgZqGkHPXLAEUDrlajZGgBwTRPUC6Tnl32DZ20gN3FxY3or415RwR89Sztx1n5Pl6WC3vYy7slN6xmexpm-BTPTxsK5Btsuq0pVcYk1k/s1600/GSoC%20Banner.png"
 ---

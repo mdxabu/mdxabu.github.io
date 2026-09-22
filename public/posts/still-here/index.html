@@ -75,7 +75,7 @@
 
     
     <link rel="canonical" href="http://localhost:1313/posts/still-here/">
-    <link href="/style.min.e4e399b4f408c6f4e78e8bbf28c01d376e7094f713361527407bfefcfe575765.css" rel="stylesheet">
+    <link href="/style.min.b2046d25763fa0ae862a4f9b3f7d39c8d705b61f6235bd9527e44b58d73bb00f.css" rel="stylesheet">
     <link href="/code-highlight.min.3eb2990339fad21f68457821574099b6aea150c05edb078dc3fbcf165c8b2e34.css" rel="stylesheet">
 
 
@@ -276,7 +276,20 @@ stroke-linejoin="round" class="feather feather-home">
                 
             </header>
             
-            <div class="page-content">
+            <div class="tts-controls" data-tts-controls>
+                <button class="tts-button" type="button" data-tts-play aria-controls="article-content" aria-label="Play article">
+                    <svg class="tts-icon tts-icon-play" viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.14v13.72a1 1 0 0 0 1.52.86l10.29-6.86a1 1 0 0 0 0-1.72L9.52 4.28A1 1 0 0 0 8 5.14Z"/></svg>
+                    <svg class="tts-icon tts-icon-pause" viewBox="0 0 24 24" aria-hidden="true"><path d="M7 5h3v14H7zM14 5h3v14h-3z"/></svg>
+                    <span class="tts-visually-hidden" data-tts-play-label>Play</span>
+                </button>
+                <button class="tts-button" type="button" data-tts-stop aria-controls="article-content" aria-label="Stop reading" disabled>
+                    <svg class="tts-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6h12v12H6z"/></svg>
+                    <span class="tts-visually-hidden">Stop</span>
+                </button>
+            </div>
+            
+            
+            <div class="page-content" id="article-content" data-tts-content>
                 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0vdVxGko4meXyJUswe1yKc?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <p>I thought life would get easier day by day. It didn&rsquo;t. Last year felt different. Some things were better, some things were simpler, and I genuinely believed that if I kept moving forward, life would gradually become easier. But now I realize that every year comes with its own set of challenges. The problems change, the people change, the circumstances change, but life always finds a way to test us. That&rsquo;s why I&rsquo;ve stopped waiting for a perfect future where everything magically falls into place. Instead, I&rsquo;m learning to appreciate the present moment because that&rsquo;s all we truly have.</p>
 <p>One thing I&rsquo;ve noticed is that many of us spend too much time worrying about what others are doing. Someone gets a job before us. Someone buys a house. Someone gets married. Someone seems to have everything figured out. Then people start asking questions: <code>&quot;What are you doing these days?&quot;</code> <code>&quot;What's your plan?&quot;</code> <code>&quot;What are you doing now?&quot;</code> Sometimes they ask out of concern, but other times it feels like they&rsquo;re measuring your progress against someone else&rsquo;s. The truth is that you don&rsquo;t need to explain your life to everyone. Not everyone understands your journey, your struggles, or the battles you&rsquo;re fighting silently every day. Their questions don&rsquo;t define your worth.</p>
@@ -429,6 +442,7 @@ stroke-linejoin="round" class="feather feather-home">
 
 
     
+
 
 
 
