@@ -11,6 +11,8 @@ image: "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/1-a
 ---
 
 
+<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/in/album/the-lamp-is-low/1687104644?i=1687105418"></iframe>
+
 Sometimes, life feels like being stuck in a room not just a room with four walls, but a room inside our own minds. Every day feels the same, every moment feels heavy, and even the things that once made us happy seem to lose their magic.
 
 We wake up, look at the same walls, scroll through our phones, and watch the world move forward while we feel left behind. There are dreams we want to chase, places we want to visit, and people we want to meet, but somehow, we remain in the same place.
