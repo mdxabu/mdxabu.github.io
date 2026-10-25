@@ -2,22 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/life-stuck-in-a-room/</loc>
-    <lastmod>2026-10-20T16:50:22+05:30</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/mental-health/</loc>
-    <lastmod>2026-10-20T16:50:22+05:30</lastmod>
+    <lastmod>2026-10-25T21:22:54+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-10-20T16:50:22+05:30</lastmod>
+    <lastmod>2026-10-25T21:22:54+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-10-20T16:50:22+05:30</lastmod>
+    <lastmod>2026-10-25T21:22:54+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/slice-of-life/</loc>
-    <lastmod>2026-10-20T16:50:22+05:30</lastmod>
+    <lastmod>2026-10-25T21:22:54+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-10-25T21:22:54+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/what-am-i-doing/</loc>
+    <lastmod>2026-10-25T21:22:54+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/life-stuck-in-a-room/</loc>
     <lastmod>2026-10-20T16:50:22+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/live-with-what-you-have/</loc>
